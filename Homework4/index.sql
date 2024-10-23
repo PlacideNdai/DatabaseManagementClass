@@ -1,20 +1,18 @@
 -- database and table dropping 
-drop database homework4;
-drop table Branch, Client;
+drop database if exists homework4;
 
 -- creating database, followed by the table 
 create database homework4;
 
 
 -- branch table 
-create table if no exists Branch(
-    ID primary key int,
-    BranchName varchar(45),
-    EmpID int,
+CREATE TABLE IF NOT EXISTS Branch (
+    ID INT PRIMARY KEY,
+    BranchName VARCHAR(45),
+    EmpID INT,
 
-    foregin key (EmpID) references Employee (ID)
+    FOREIGN KEY (EmpID) REFERENCES Employee(ID)
 );
-
 
 -- creting client table 
 create table if not exists Client (
@@ -33,7 +31,7 @@ create table if not exists Employee(
     BirthDay date, 
     BranchID int,
 
-    foregin key (BranchID) references Branch(ID)
+    FOREIGN key (BranchID) references Branch(ID)
 );
 
 
@@ -43,5 +41,15 @@ create table if not exists workWith(
     EmployeeID int,
     SoldProduct varchar(45),
 
-    foregin key ()
+    primary key(clientID, Employee)
+
+    foreign key (EmployeeID) references Employee(ID),
+    foreign key (clientID) references Client(ID)
 ) 
+
+create TABLE if not EXISTS branchSupply(
+    ptype varchar(45),
+    cname varchar(45),
+
+    primary key(ptype, cname)
+)
