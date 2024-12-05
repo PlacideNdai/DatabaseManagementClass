@@ -1,1001 +1,996 @@
-id,eventName,city,state,street,detail,date
-1,Velma,Maple Plain,Minnesota,Nova,"Oth fx shaft of left femur, subs for clos fx w routn heal",7/11/2024
-2,Nanice,Belén,,Cambridge,"Corrosions of unspecified internal organs, sequela",5/29/2024
-3,Abbye,Reriz,Viseu,Pond,Paraphimosis,10/13/2024
-4,Godard,Unawatuna,,Glendale,STEMI involving right coronary artery,1/14/2024
-5,Sheppard,Huacrachuco,,Bartillon,Helicopter crash injuring occupant,3/7/2024
-6,Leela,Charlotte,North Carolina,Derek,"Pupillary membranes, bilateral",7/13/2024
-7,Marcellus,Oslo,Oslo,Prentice,"Unsp injury of unsp musc/fasc/tend at wrs/hnd lv, right hand",10/21/2024
-8,Idelle,Dailing,,Eagan,"Infection following a procedure, initial encounter",7/23/2024
-9,Babb,Lagunas,,Spaight,"Burn of unsp deg mult sites of unsp ankle and foot, sequela",11/1/2024
-10,Nicol,Horizonte,,Swallow,"Oth osteopor w current path fracture, r humerus, sequela",5/21/2024
-11,Giffy,Gempolan Wetan,,Westport,"Contusion of lung, unilateral",1/24/2024
-12,Sherilyn,Colegiales,,Moulton,Phlegmonous dacryocystitis of unspecified lacrimal passage,3/10/2024
-13,Dorice,Karangturi,,Holmberg,"Nondisplaced Rolando's fracture, left hand, init for clos fx",7/25/2024
-14,Cale,Semalang,,Utah,"Injury of unsp nerve at wrs/hnd lv of left arm, init",1/24/2024
-15,Jobye,Cikalaces,,Forest Dale,"Idiopathic gout, right hip",12/28/2023
-16,Lars,Iroquois Falls,Ontario,Park Meadow,"Underdosing of cephalospor/oth beta-lactm antibiot, sequela",6/7/2024
-17,Carlina,Chazón,,Bluestem,"Insect bite (nonvenomous) of lip, sequela",12/4/2023
-18,Marybelle,Tianta,,Chinook,"Internuclear ophthalmoplegia, left eye",5/3/2024
-19,Inez,Kota Bharu,Kelantan,Manley,"Blizzard (snow)(ice), subsequent encounter",2/13/2024
-20,Klaus,Kedungtuban,,Carey,Other mechanical complication of internal joint prosthesis,3/15/2024
-21,Rafaela,Vélizy-Villacoublay,Île-de-France,Derek,"Other juvenile arthritis, left shoulder",10/28/2024
-22,Jamima,Ligang,,Center,Bit/stung by nonvenom insect and oth nonvenomous arthropods,7/10/2024
-23,Michaeline,Privlaka,,Brentwood,"Superficial frostbite of left hip and thigh, subs encntr",12/20/2023
-24,Lazaro,Gislaved,Jönköping,Fordem,"Complete traumatic amp at level betw left hip and knee, subs",10/25/2024
-25,Geraldine,Mogzon,,Anniversary,"Disp fx of 5th metatarsal bone, r ft, 7thG",8/28/2024
-26,Willdon,Dongping,,Sunnyside,"Squamous cell carcinoma skin/ left upper limb, inc shoulder",4/27/2024
-27,Ludovico,Manorom,,Vahlen,Other burn on board merchant vessel,1/10/2024
-28,Vickie,Bhisho,,Novick,Acute lymphangitis of perineum,11/24/2024
-29,Nolan,Banja Luka,,Oakridge,Injury of urethra,8/10/2024
-30,Ricardo,Santa Lucia,,Emmet,"Bitten by macaw, sequela",4/5/2024
-31,Bruis,Ungca,,Jana,"Puncture wound w foreign body of scrotum and testes, init",8/29/2024
-32,Tallia,Luleå,Norrbotten,Messerschmidt,"Oligohydramnios, third trimester, fetus 5",1/17/2024
-33,Blaine,Phôngsali,,Michigan,Arthropathy in hypersensitivity reactions classd elswhr,8/25/2024
-34,Powell,San Pedro Sacatepéquez,,Toban,"Nondisp transverse fx r patella, init for opn fx type I/2",3/27/2024
-35,Marnia,Krasne,,Claremont,"Left temporomandibular joint disorder, unspecified",5/15/2024
-36,Nathan,Liangdang Chengguanzhen,,Victoria,"Poisn by histamine H2-receptor blockers, self-harm, sequela",9/18/2024
-37,Jermain,Las Vegas,Nevada,Haas,Type 1 fracture of sacrum,8/12/2024
-38,Bear,Libao,,Claremont,Perinatal intestinal perforation,11/22/2024
-39,Jonie,Dschang,,Debs,"Scooter (nonmotorized) colliding w stationary object, subs",10/20/2024
-40,Luisa,Marseille,Provence-Alpes-Côte d'Azur,Maryland,"Unsp injury of superficial palmar arch of right hand, init",7/18/2024
-41,Jennifer,Portland,Oregon,Homewood,"Other secondary kyphosis, site unspecified",11/16/2024
-42,Desiri,San Juan,,Maywood,Dysmorphism due to warfarin,10/29/2024
-43,Zebadiah,Néa Karváli,,Mccormick,"Unspecified injury of left thigh, initial encounter",10/7/2024
-44,Berkley,Seydi,,Towne,"Superficial thrombophlebitis in pregnancy, unsp trimester",3/29/2024
-45,Dawn,Haputale,,Tony,Restless legs syndrome,11/10/2024
-46,Cornie,Cirateun,,Pleasure,"Pnctr w/o fb of right eyelid and periocular area, sequela",4/15/2024
-47,Jerri,Yangirabot,,Huxley,"Toxic effect of venom of bees, accidental, init",12/1/2023
-48,Corby,Wissembourg,Alsace,Maywood,Toxic effects of trichloroethylene,10/11/2024
-49,Adolph,Honolulu,Hawaii,Fulton,Oth postproc complications and disorders of nervous sys,3/3/2024
-50,Adan,Xiangshan,,Luster,"Toxic effect of venom of hornets, accidental, sequela",9/25/2024
-51,Benni,Huancabamba,,Merry,"Other physeal fracture of upper end of left tibia, sequela",6/16/2024
-52,Clayborn,Eshowe,,Lakewood,Malignant neoplasm of unspecified olfactory nerve,6/24/2024
-53,Martie,Barra de São Francisco,,Troy,"Nondisp unsp condyle fx low end unsp femr, 7thB",3/12/2024
-54,Karina,Severnyy,,5th,"Maternal care for excess fetal growth, first tri, fetus 3",12/11/2023
-55,Niccolo,Palena,,Troy,"Oth cnsl comp of anesth during pregnancy, first trimester",11/18/2024
-56,Wilfred,Artemivs’k,,Claremont,Struck by other marine mammals,9/16/2024
-57,Ilysa,Tutul,,Moulton,Burn of unspecified degree of left toe(s) (nail),11/26/2024
-58,Lesley,Lizhai,,East,"Matern care for known or susp placntl insuff, unsp tri, oth",4/12/2024
-59,Sibbie,Barreiro do Jaíba,,Sherman,Local anesthetics,2/4/2024
-60,Maddy,Changchi,,Burning Wood,"Oth fracture of head and neck of right femur, init",4/5/2024
-61,Rhetta,Barra de São Francisco,,Briar Crest,Type 2 diab w moderate nonprlf diab rtnop w/o macular edema,6/18/2024
-62,Tori,Kvitok,,Glacier Hill,"Fx unsp prt of scapula, unsp shldr, subs for fx w delay heal",7/31/2024
-63,Esma,Valladolid,Castilla - Leon,Steensland,Kaposi's sarcoma of gastrointestinal sites,5/24/2024
-64,Lemmy,Muang Pakxan,,Marquette,"Ulnohumeral (joint) sprain of left elbow, initial encounter",10/28/2024
-65,Noah,Ratenggoji,,Scott,Encntr for obs for susp exposure to biolg agents ruled out,12/13/2023
-66,Broddy,Ringinrejo,,Oak Valley,"Poisoning by alpha-adrenocpt antagonists, self-harm, sequela",12/29/2023
-67,Cherie,Cikulina,,2nd,"Poisoning by alpha-adrenocpt antagonists, accidental, init",7/25/2024
-68,Ida,Los Arcos,,Little Fleur,"Oligohydramnios, unspecified trimester, fetus 2",4/25/2024
-69,Delainey,Seda,,Monument,"Oth mult gest, unab to dtrm num plcnta & amnio sacs, 3rd tri",4/10/2024
-70,Normand,La Paz,,Eastwood,Hemorrhage of orbit,7/29/2024
-71,Anne,Žleby,,Oakridge,"Unsp inj musc/fasc/tend at shldr/up arm, left arm, subs",2/27/2024
-72,Ninetta,Shilu,,Miller,"Disp fx of pisiform, unsp wrist, subs for fx w delay heal",12/22/2023
-73,Jinny,Smyga,,Messerschmidt,"Unspecified disorder of synovium and tendon, ankle and foot",2/14/2024
-74,Alberta,Khvastovichi,,Dwight,"Poisoning by tetracyclines, accidental (unintentional), init",12/21/2023
-75,Ara,Tierralta,,Spaight,"Pathological fracture, unsp femur, init encntr for fracture",11/17/2024
-76,Meredith,Atalhada,Ilha de São Miguel,Glacier Hill,Lac w/o fb of unsp front wall of thorax w/o penet thor cav,5/27/2024
-77,Ashil,Tong’an,,Fremont,"Complete traumatic amp of left foot at ankle level, subs",2/17/2024
-78,Lani,Dārāb,,Kinsman,Unspecified open wound of oral cavity,9/28/2024
-79,Thea,Suslonger,,Randy,Activities involving ice and snow,12/3/2023
-80,Viki,Maxu,,American,Driver of pk-up/van injured in collision w ped/anml in traf,10/19/2024
-81,Chad,Dijon,Bourgogne,Golf Course,"Contusion of unsp ring finger with damage to nail, sequela",9/16/2024
-82,Lowrance,Dawung,,Esch,"Toxic effect of venom of scorpion, accidental, subs",11/20/2024
-83,Stanislaus,Paris 19,Île-de-France,Duke,Other postherpetic nervous system involvement,8/26/2024
-84,Doug,Don Mueang,,Northridge,"Dislocation of distal interphalangeal joint of finger, subs",7/2/2024
-85,Stillmann,Dhankutā,,Talmadge,Frostbite with tissue necrosis of right foot,4/23/2024
-86,Jacquelyn,Lysyanka,,Mayfield,"Subluxation of C2/C3 cervical vertebrae, initial encounter",10/16/2024
-87,Ira,El Monte,,Blue Bill Park,"Nondisp fx of low epiphy (separation) of unsp femr, 7thG",9/11/2024
-88,Hyacintha,Sokol,,Harper,"Unsp injury of musc/fasc/tend at neck level, sequela",8/5/2024
-89,Jobi,Horodnya,,Prairie Rose,"Corrosion of first degree of right hand, unspecified site",2/6/2024
-90,Kipp,Lyon,Rhône-Alpes,Commercial,"Partial traum amp at level betw elbow and wrist, left arm",2/29/2024
-91,Muriel,Mlandizi,,Swallow,"Nondisp fx of unsp tibial spin, 7thN",8/9/2024
-92,Lindsey,Puerto Esperanza,,Sundown,"Unsp injury at C1 level of cervical spinal cord, sequela",7/18/2024
-93,Peggie,Tatuí,,Crownhardt,"Infantile and juv cortical/lamellar/zonular cataract, bi",3/21/2024
-94,Lucius,Jenzan,,David,Superficial foreign body of other specified part of neck,1/2/2024
-95,Janaye,San Juan Sacatepéquez,,Di Loreto,"Displaced fracture of second metatarsal bone, right foot",4/29/2024
-96,Ema,Dopang,,Katie,Nondisplaced fracture of head of right radius,8/31/2024
-97,Amelie,Eixo,Aveiro,Victoria,"Nondisp commnt fx shaft of r femr, 7thH",12/16/2023
-98,Mauricio,Vila de Sal Rei,,Melvin,"Changes in retinal vascular appearance, left eye",5/26/2024
-99,Devina,Barrancabermeja,,Scoville,"Disp fx of prox phalanx of r lit fngr, 7thG",8/20/2024
-100,Carlye,Chahe,,Chive,Phlebitis and thrombophlebitis of unspecified femoral vein,2/11/2024
-101,Edithe,Zheleznodorozhnyy,,Sunfield,Diabetes due to underlying condition w unsp diabetic rtnop,8/22/2024
-102,Torrin,Shoushan,,David,"Disp fx of ant wall of right acetab, subs for fx w nonunion",4/30/2024
-103,Humfried,Espera Feliz,,Kings,"Injury of nerves at ankle and foot level, right leg, init",10/12/2024
-104,Cindee,Tantamayo,,Harbort,"Pnctr of abd wall w/o fb, r upr q w/o penet perit cav, init",4/18/2024
-105,Shanon,Altan Emel,,Basil,"Laceration of urethra, sequela",6/27/2024
-106,Moss,Nijmegen,Provincie Gelderland,Canary,"Unspecified dislocation of right ulnohumeral joint, sequela",4/1/2024
-107,Valentine,Norberg,Västmanland,Mendota,Pseudohypoparathyroidism,2/7/2024
-108,Cally,Ciudad Darío,,Tennyson,"Displacmnt of artif skin grft /decellular alloderm, init",9/11/2024
-109,Zane,Fier-Çifçi,,Golf Course,Damage to pelvic organs and tiss fol an ect and molar preg,1/10/2024
-110,Kristoffer,Marignane,Provence-Alpes-Côte d'Azur,Roth,"Corrosion of first degree of unspecified ankle, subs encntr",12/3/2023
-111,Randy,Ar Rawnah,,Porter,Intestinal strongyloidiasis,11/30/2023
-112,Christina,Changgou,,Meadow Ridge,"Glaucoma secondary to oth eye disorders, bi, mild stage",5/11/2024
-113,Alwin,Sumbuya,,Jenna,"Mycosis fungoides, extranodal and solid organ sites",1/21/2024
-114,Roseline,Simod,,Westport,Corrosion of second degree of trunk,4/25/2024
-115,Rochella,Bachuan,,Hanover,Laceration of popliteal vein,3/31/2024
-116,Hillier,Youxikou,,Daystar,"Conjunctival concretions, right eye",3/6/2024
-117,Erik,Chengkou,,Talisman,Systemic bartonellosis,11/23/2024
-118,Otto,Camachile,,David,"Intermittent hydrarthrosis, right elbow",12/16/2023
-119,Iormina,Bunisari,,Little Fleur,"Sltr-haris Type III physeal fracture of r calcaneus, sequela",12/19/2023
-120,Cash,Kalisari,,1st,Oth abnormal findings in specmn from female genital organs,8/24/2024
-121,Lacee,Paris 11,Île-de-France,Crowley,"Unsp fx head of r femr, 7thH",5/12/2024
-122,Karilynn,Verdizela,Setúbal,Prairieview,"Laceration of blood vessel of left thumb, initial encounter",1/31/2024
-123,Steward,Viseu,,Stang,"Displ osteochon fx r patella, subs for clos fx w routn heal",5/27/2024
-124,Mathian,Taraš,,Harper,"Oth meniscus derangements, unsp lateral meniscus, right knee",1/16/2024
-125,Rodolfo,Ngeru,,Butternut,Assault by steam or hot vapors,2/17/2024
-126,Stephen,Rybinsk,,Atwood,Intentional collision of motor vehicle with train,11/27/2024
-127,Ibby,Agraharam,Andhra Pradesh,Hoard,Folliculitis decalvans,3/30/2024
-128,Emlyn,Sangiyn Dalay,,Maryland,"Nondisp fx of base of fifth metacarpal bone. left hand, init",5/28/2024
-129,Bab,Vilarinho,Coimbra,Shelley,"Type 1 diab with diab mclr edema, resolved fol trtmt, unsp",1/23/2024
-130,Ileana,Sutton,England,2nd,"Other superficial bite of breast, unsp breast, sequela",7/26/2024
-131,Meris,Kafr Şaqr,,Goodland,"Localized swelling, mass and lump, unspecified",1/29/2024
-132,Brittni,Esperança,,1st,Ultralt/microlt/pwr-glider crash injuring occupant,8/9/2024
-133,Barny,Otradnyy,,Autumn Leaf,Salter-Harris Type IV physeal fracture of right metatarsal,5/22/2024
-134,Vannie,Nanmen,,Lakewood Gardens,Other physeal fracture of lower end of left fibula,4/26/2024
-135,Shaughn,Ngelak,,Carberry,"Unspecified dislocation of right ring finger, init encntr",2/8/2024
-136,Symon,Soutelo,Viana do Castelo,Village Green,"Fibrous dysplasia (monostotic), other site",1/6/2024
-137,Portia,Amfíkleia,,North,"Nondisp fx of intermed cuneiform of unsp ft, 7thK",7/28/2024
-138,Valaree,Oetua,,Carpenter,"Contusion of thoracic trachea, subsequent encounter",2/24/2024
-139,Edwin,Skhirat,,Carioca,"Matern care for damag to fts from viral dis in mother, unsp",12/23/2023
-140,Gerda,Seymchan,,Miller,"Felty's syndrome, left wrist",7/3/2024
-141,Ruy,Sājir,,Weeping Birch,"Fracture of xiphoid process, subs for fx w delay heal",5/3/2024
-142,Jena,Estoi,Faro,Lerdahl,Other sprain of other and unspecified finger(s),8/14/2024
-143,Ailbert,Yur’yev-Pol’skiy,,Lyons,"Unsp inj msl/fasc/tnd post grp at thi lev, unsp thigh, subs",9/29/2024
-144,Erny,Aqsay,,Armistice,Legal intervention involving other specified means,5/29/2024
-145,Valma,Shaliangzi,,Carey,"Nondisp fx of sternal end r clavicle, 7thD",10/4/2024
-146,Ingelbert,Trindade,,Algoma,"Burn first degree of unsp mult fngr (nail), inc thumb, sqla",10/21/2024
-147,Lanette,Melres,Porto,Oakridge,"Burn first deg of shldr/up lmb, ex wrs/hnd, unsp site, init",7/25/2024
-148,Luise,Alpedrinha,Castelo Branco,Troy,Flaccid hemiplegia affecting left dominant side,12/20/2023
-149,Jakob,San Miguel de Tucumán,,Shoshone,"Non-ABO incompat react due to tranfs of bld/bld prod, unsp",4/7/2024
-150,Farand,Jiupu,,Wayridge,Toxoplasmosis with other organ involvement,1/1/2024
-151,Cedric,Málaga,,Grim,"Oclr lac/rupt w prolaps/loss of intraoc tissue, l eye, sqla",6/17/2024
-152,Job,Bendo,,Dwight,Open bite of right cheek and temporomandibular area,12/26/2023
-153,Theressa,Taitung City,,Bowman,"Other acute osteomyelitis, left femur",7/16/2024
-154,Tanitansy,Huangyang,,Esch,"Displaced spiral fx shaft of ulna, right arm, sequela",7/17/2024
-155,Heywood,Huangqu,,Forster,"Oth fx l low leg, subs for opn fx type I/2 w nonunion",5/5/2024
-156,Babbette,Washington,District of Columbia,Shelley,"Sprain of anterior cruciate ligament of left knee, init",1/2/2024
-157,Shae,Sainte-Sophie,Québec,Continental,"Injury of axillary nerve, right arm, sequela",1/31/2024
-158,Ardra,Lào Cai,,Kipling,"Contusion of left great toe without damage to nail, sequela",8/24/2024
-159,Alwyn,Sapang Buho,,Granby,"Acquired atrophy of fallopian tube, unspecified side",5/25/2024
-160,Giselbert,Pakis,,Ridgeview,Non-prs chronic ulcer oth prt l low leg w necrosis of muscle,11/14/2024
-161,Nydia,Opechenskiy Posad,,Grasskamp,Malignant neoplasm of isthmus uteri,7/15/2024
-162,Imogene,Áno Kalentíni,,Mariners Cove,"Laceration of unsp musc/fasc/tend at shldr/up arm, left arm",5/28/2024
-163,Arabela,Shiraoka,,Mockingbird,"Rheumatoid bursitis, multiple sites",8/17/2024
-164,Trudey,Ulapes,,Valley Edge,"Nondisp bicondylar fx unsp tibia, 7thH",9/17/2024
-165,Stanislaw,Bełk,,Dakota,"Occ of rail trn/veh injured by fall from rail trn/veh, subs",11/6/2024
-166,Pembroke,Ndeaboh,,Lukken,"Disp fx of lateral condyle of r femr, 7thQ",9/2/2024
-167,Nat,New York City,New York,Sauthoff,"Decreased fetal movements, second trimester, other fetus",7/27/2024
-168,Yetty,Boston,Massachusetts,Dunning,"Athscl nonbiol bypass of the extrm w gangrene, bi legs",5/28/2024
-169,Aili,South Bend,Indiana,Hooker,Monoplg low lmb fol unsp cerebvasc dis aff right nondom side,7/16/2024
-170,Suki,Ulset,Hordaland,Warbler,"Nodlr lymphocy predom Hdgkn lymph,nodes of ing rgn & low lmb",12/20/2023
-171,Ondrea,Añatuya,,Miller,"Chronic gout due to renal impairment, knee",9/25/2024
-172,Meridel,Damasak,,Gulseth,"Nondisp fx of base of second MC bone, right hand, init",11/7/2024
-173,Collete,Giesteira,Santarém,Browning,Emotional disorders with onset specific to childhood,12/2/2023
-174,Leoine,La Jagua de Ibirico,,Randy,"Separation of muscle (nontraumatic), left ankle and foot",12/4/2023
-175,Jennilee,Kaédi,,Eagle Crest,"Mitochondrial myopathy, not elsewhere classified",9/9/2024
-176,Coral,Itapé,,Golden Leaf,"Derang of unsp medial mensc due to old tear/inj, unsp knee",2/13/2024
-177,Celisse,Sanshan,,Bultman,"Unsp subluxation of unsp ulnohumeral joint, init encntr",12/16/2023
-178,Agnola,Tópaga,,Corben,"Oth specific arthropathies, NEC, ankle and foot",7/22/2024
-179,Fritz,Waldbredimus,,4th,"Poisoning by thyroid hormones and substitutes, accidental",2/20/2024
-180,Karen,Sezemice,,Stuart,Obstructed labor due to other multiple fetuses,12/12/2023
-181,Skipton,Porvenir,,Transport,"Oth fracture of right ischium, subs for fx w routn heal",11/17/2024
-182,Ambrosius,Gaopu,,Morrow,"Displ intertroch fx r femr, 7thM",4/27/2024
-183,Norry,Krrabë,,Spaight,"Toxic effect of fusel oil, assault",5/13/2024
-184,Kendall,Pedra Branca,,Shasta,"Unspecified obstruction of Eustachian tube, left ear",4/20/2024
-185,Gigi,Kongsvinger,Hedmark,Crownhardt,"Pressure ulcer of right buttock, stage 2",11/29/2023
-186,Karola,Saint-Quentin-en-Yvelines,Île-de-France,4th,"Animal-rider injured in collision w rail trn/veh, init",12/6/2023
-187,Dianna,Novoarkhanhel’s’k,,Sage,Other and unspecified corneal edema,5/9/2024
-188,Winifield,Oumé,,Division,Intestine transplant failure,11/27/2024
-189,Keeley,Karis,,Mcbride,"Superficial foreign body of left hand, sequela",11/16/2024
-190,Lani,Zhulebino,,Leroy,Adhesive right middle ear disease,4/28/2024
-191,Regen,Crespo,,Duke,Abn lev drug/meds/biol subst in specmn from male gntl organs,8/21/2024
-192,Fawn,Nice,Provence-Alpes-Côte d'Azur,Forest,"Oth injuries of abdomen, low back, pelvis and extrn genitals",10/23/2024
-193,Berni,Oymak,,Stoughton,Leakage of other cardiac and vascular devices and implants,5/17/2024
-194,Cherianne,Néa Péramos,,Center,"Lordosis, unspecified",5/11/2024
-195,Woodie,Pilar,,Sheridan,Fracture of proximal phalanx of thumb,10/6/2024
-196,Charlton,Chengfeng,,Boyd,"Unsp fx head of unsp femur, init for opn fx type 3A/B/C",3/16/2024
-197,Auberon,Piancheng,,Becker,Chronic nephritic syndrome w diffuse mesangiocap glomrlneph,1/13/2024
-198,Carolin,Coris,,Towne,"Other chronic osteomyelitis, right ankle and foot",5/20/2024
-199,Rorie,Covas da Raposa,Setúbal,Onsgard,Underdosing of antidotes and chelating agents,11/9/2024
-200,Maggi,Sukaharja,,Monument,"Inj cutan sensory nerve at ank/ft level, unsp leg, init",8/13/2024
-201,Freddy,Cambebba,,Mccormick,"Osteopathy in diseases classified elsewhere, multiple sites",3/28/2024
-202,Gloriana,Nacaome,,Thackeray,"Congenital malformation of kidney, unspecified",1/29/2024
-203,Mariana,Kuala Pilah,Negeri Sembilan,Carey,"Unsp mtrcy rider injured in clsn w ped/anml nontraf, sequela",1/7/2024
-204,Robin,Kolonnawa,,Buena Vista,Other specified injury of renal blood vessel,6/14/2024
-205,Bonita,Magrath,Alberta,Elka,"Drowning and submersion due to fall off sailboat, subs",2/10/2024
-206,Celestia,Punta Hermosa,,Oxford,"Unsp inj flexor musc/fasc/tend at forarm lv, left arm, init",3/17/2024
-207,Camel,Beishan,,Mitchell,"Inj extn/abdr musc/fasc/tend of thmb at forearm level, init",10/10/2024
-208,Marcella,Užice,,Daystar,"Maternal care for fetal problem, unsp, third trimester, oth",7/30/2024
-209,Tedie,Alarobia,,Meadow Ridge,"Diabetes with mild nonp rtnop with macular edema, bilateral",11/15/2024
-210,Loy,Pavlovskaya,,Lotheville,Complicated headache syndromes,8/20/2024
-211,Alleen,Sukowidodo Barat,,Hintze,Contact with and (suspected) exposure to hazardous metals,3/22/2024
-212,Amerigo,Laval,Pays de la Loire,Hallows,"Migraine with aura, not intractable, with status migrainosus",7/11/2024
-213,Delly,Bayan Hure,,Troy,"Crushing injury of unspecified hip with thigh, sequela",3/8/2024
-214,Ingrim,Namangan Shahri,,Vermont,"Minor laceration of right carotid artery, sequela",5/28/2024
-215,Mahalia,Tulungagung,,Stone Corner,"Age-related osteopor w current path fracture, r shoulder",6/13/2024
-216,Casie,Frydrychowice,,Buena Vista,Tetracyclic antidepressants,1/27/2024
-217,Merilee,Tim,,Algoma,"Unsp opn wnd r bk wl of thorax w penet thoracic cavity, subs",11/4/2024
-218,Nollie,Chapayeve,,Almo,Oth traum displ spondylolysis of seventh cervcal vertebra,4/3/2024
-219,Kent,Lerrnanist,,Hoffman,"Displ intertroch fx unsp femr, 7thR",6/3/2024
-220,Dewie,Satu Nou,Vaslui,Sutherland,Autonomic neuropathy in diseases classified elsewhere,5/8/2024
-221,Ozzy,Sandviken,Gävleborg,Oriole,Fracture of T11-T12 vertebra,12/19/2023
-222,Kiele,Ornontowice,,Schmedeman,"Lacerat long flexor musc/fasc/tend l thm at wrs/hnd lv, subs",9/14/2024
-223,Courtnay,Bochum,Nordrhein-Westfalen,Londonderry,Aortopulmonary septal defect,8/3/2024
-224,Camile,Kuštilj,,Vahlen,"Monocytic leukemia, unspecified in relapse",5/6/2024
-225,Hayward,Jiumen,,Thackeray,"Other skateboard accident, subsequent encounter",6/4/2024
-226,Anabel,Jēkabpils,,Bobwhite,"Occup of hv veh injured in collision w unsp mv in traf, init",10/7/2024
-227,Abdul,Bacelo,Porto,Thompson,"Struck by other nonvenomous marine animals, sequela",6/11/2024
-228,De witt,Bengtsfors,Västra Götaland,Lakewood Gardens,"Dislocation of T6/T7 thoracic vertebra, subsequent encounter",8/6/2024
-229,Grantham,Fulu,,Barnett,"Other contact with other nonvenomous reptiles, init encntr",8/2/2024
-230,Leese,Elena,,Transport,"Disp fx of med condyle of l tibia, 7thK",5/1/2024
-231,Rob,Suphan Buri,,Bonner,Loose body in left shoulder,4/7/2024
-232,Siward,Tsingoni,,Sachtjen,"Papyraceous fetus, second trimester, fetus 5",4/12/2024
-233,Hestia,Monte Leite,Lisboa,Warrior,Osteitis deformans of shoulder,8/22/2024
-234,Stearn,Qiaotou,,Melrose,"Thiamine deficiency, unspecified",9/30/2024
-235,Thacher,Mehtar Lām,,Algoma,"Other fracture of fourth metacarpal bone, left hand",5/4/2024
-236,Sheffie,Calubcub Dos,,Stang,"Pedl cyc pasngr injured in clsn w oth pedl cyc in traf, init",7/17/2024
-237,Chiarra,Ouro Preto do Oeste,,Cody,"Contus/lac/hem brainstem w LOC of 6-24 hrs, sequela",10/11/2024
-238,Malissa,Castelo de Vide,Portalegre,Jay,"Blister (nonthermal) of breast, left breast, subs encntr",7/12/2024
-239,Lisbeth,Chengkou,,Harper,"Stenosis due to genitourinary prosth dev/grft, sequela",10/16/2024
-240,Louisa,Hartford,Connecticut,Vera,"Contusion of unsp little finger w damage to nail, init",3/28/2024
-241,Christie,Borås,Västra Götaland,Myrtle,Abrasion of other part of head,7/10/2024
-242,Alvan,Hamburg,Hamburg,Village Green,Leakage of femoral arterial graft (bypass),3/22/2024
-243,Mitchael,Horgo,,Holy Cross,Adjustment disorder with mixed anxiety and depressed mood,5/31/2024
-244,Dougy,Peredovaya,,Randy,"Partial traumatic amputation of scrotum and testis, subs",8/19/2024
-245,Katha,Omurtag,,Hansons,"Disp fx of unsp ulna styloid pro, 7thR",2/18/2024
-246,Wakefield,Nanganumba,,Moulton,Corrosion of unspecified degree of left thigh,2/24/2024
-247,Katinka,Altıağac,,Manley,"2-part nondisp fx of surgical neck of right humerus, sequela",4/25/2024
-248,Curtis,Putrajaya,Putrajaya,Kim,"Nondisplaced articular fracture of head of unsp femur, init",4/17/2024
-249,Raff,Manadhoo,,Esch,"Laceration without foreign body of right elbow, subs encntr",2/3/2024
-250,Graig,Gaoqiao,,East,Heart transplant rejection,4/9/2024
-251,Jo-ann,Campbellton,New Brunswick,Evergreen,"Familial chondrocalcinosis, right wrist",12/16/2023
-252,Emory,Huallanca,,Warrior,Other seborrheic dermatitis,7/6/2024
-253,Zacherie,København,Region Hovedstaden,American,"Displaced dome fx unsp acetabulum, subs for fx w delay heal",1/30/2024
-254,Callean,Batangtoru,,Sauthoff,"Periprosth fx around internal prosth r elbow joint, init",3/21/2024
-255,Blair,Farap,,Scott,"Poisoning by penicillins, intentional self-harm, init encntr",5/19/2024
-256,Dorian,Larkird,,Transport,"Occup of pk-up/van inj in clsn w unsp mv in traf, sequela",12/3/2023
-257,Emmey,Gunung Sugih,,Butterfield,"Toxic effect of contact with venomous frog, assault",1/9/2024
-258,Lyndsie,Zhongdong,,Ryan,"Adhes due to fb acc left in body fol unsp procedure, subs",2/19/2024
-259,Lorita,Foros da Catrapona,Setúbal,Farragut,"Other injury of descending [left] colon, initial encounter",2/11/2024
-260,Nikki,Tafí del Valle,,Mitchell,"Oth fx upper end of right ulna, init for opn fx type I/2",5/24/2024
-261,Agustin,Ayapel,,Cordelia,"Nondisp dome fx left talus, subs for fx w delay heal",12/28/2023
-262,Marya,Caluquembe,,Duke,Deposits [accretions] on teeth,7/13/2024
-263,Wenonah,Caaguazú,,La Follette,"Displ spiral fx shaft of rad, unsp arm, 7thP",1/10/2024
-264,Frasco,Camden,New Jersey,Mallory,"Toxic eff of fluorine gas and hydrogen fluoride, asslt, subs",12/21/2023
-265,Mychal,Cartagena del Chairá,,Petterle,Predominantly alpha-adrenoreceptor agonists,7/5/2024
-266,Eloisa,Isiolo,,Maryland,"Nondisp fx of intermed cuneiform of unsp ft, 7thK",9/8/2024
-267,Moria,Farsta,Stockholm,Straubel,"Abrasion, right thigh, subsequent encounter",8/17/2024
-268,Gawen,Amfíkleia,,Glacier Hill,"Other fracture of occiput, unspecified side, 7thB",6/25/2024
-269,Laurence,Borgholm,Kalmar,Stephen,"Unqualified visual loss, left eye, normal vision right eye",9/11/2024
-270,Merrill,Xinxu,,Coolidge,"Corrosion of first degree of unspecified foot, subs encntr",2/9/2024
-271,Jacquelynn,Melaka,Melaka,Morrow,"Coma scale, best motor, obeys commands, in the field",9/26/2024
-272,Rosalynd,Węgrzce Wielkie,,New Castle,"Trigger finger, little finger",12/10/2023
-273,Donnell,Karagandy,,Little Fleur,"Toxic effect of mycotoxin food contamnt, undetermined, subs",3/22/2024
-274,Cyndia,Tānk,,Clove,"Laceration w/o fb of right eyelid and periocular area, subs",4/19/2024
-275,Jarid,Gardēz,,Mariners Cove,"Poisoning by unsp drug/meds/biol subst, assault, init",1/14/2024
-276,Ferdy,Oromocto,New Brunswick,Westridge,"Toxic effect of smoke, intentional self-harm, init encntr",6/30/2024
-277,Jenine,Vitória da Conquista,,Novick,Attn and concentration deficit following ntrm subarach hemor,2/17/2024
-278,Garold,Shanghe,,Crowley,"Path fx in oth disease, l fibula, subs for fx w malunion",7/10/2024
-279,Yetta,Banjarmasin,,Saint Paul,"Poisn by antimalari/drugs act on bld protzoa, slf-hrm, init",9/4/2024
-280,Dotty,Ludvika,Dalarna,Gulseth,"Periprosth fracture around other internal prosth joint, subs",8/29/2024
-281,Stewart,Gudang,,Northport,"Nondisp suprcndl fx w intrcndl extn low end l femr, 7thJ",11/9/2024
-282,Ardyce,Santo Amaro,Guarda,8th,Other intraoperative complications of genitourinary system,1/30/2024
-283,Jerry,Podgornoye,,Buhler,"Exposure to sofa fire due to unsp burning material, init",10/3/2024
-284,Alta,Fushë-Muhurr,,Vahlen,Breakdown (mechanical) of int fix of bone of right forearm,10/18/2024
-285,Nealy,Pangao,,Lindbergh,"Preterm newborn, gestational age 28 completed weeks",5/28/2024
-286,Rodolph,Algarrobo,,Independence,Displ suprcndl fracture w intrcndl extn lower end of r femur,4/22/2024
-287,Abie,Rublëvo,,Magdeline,"Other reactive arthropathies, right elbow",6/2/2024
-288,Inge,Quebradas,Lisboa,Wayridge,Rh incompatibility with hemolytic transfusion reaction,2/13/2024
-289,Heriberto,Angao,,Macpherson,Pain in left wrist,2/21/2024
-290,Alain,Maroua,,Briar Crest,Postthrom syndrome w ulcer and inflammation of r low extrem,3/3/2024
-291,Marius,Quinta,Viana do Castelo,Debs,"Abrasion, unspecified lower leg, subsequent encounter",5/16/2024
-292,Gustavus,Malo,,Dahle,"Pressure ulcer of left elbow, stage 3",11/29/2023
-293,Agnola,Sam Chuk,,Burning Wood,"Disp fx of less trochanter of r femr, 7thD",8/3/2024
-294,Victor,Nóvita,,Main,"Other contact with cow, initial encounter",6/12/2024
-295,Bea,Demba,,Mallard,"Inj extensor musc/fasc/tend l rng fngr at wrs/hnd lv, init",1/8/2024
-296,Kyrstin,Kokaj,,Butternut,Moderate laceration of head of pancreas,12/16/2023
-297,Kiersten,Pingyin,,Express,"Oth disp fx of upr end unsp humer, subs for fx w delay heal",8/2/2024
-298,Margie,Cibeureum,,Prentice,"Glaucoma secondary to eye inflam, right eye, stage unsp",1/3/2024
-299,Elsie,Nobinobi,,Manufacturers,"Nondisp seg fx shaft of l tibia, init for opn fx type I/2",9/20/2024
-300,Marcelle,Baytīn,,Golf View,"Oth injury of peroneal artery, right leg, subs encntr",2/3/2024
-301,Kathy,Opatów,,Hanover,Other specified mononeuropathies of left upper limb,6/25/2024
-302,Wileen,Naqadeh,,Golf View,"Complete traumatic trnsphal amputation of finger, sequela",12/25/2023
-303,Germaine,Plagiári,,Dapin,"Barton's fx unsp radius, subs for opn fx type I/2 w nonunion",9/29/2024
-304,Timmi,Burhānuddin,,Schiller,Eczematous dermatitis of right lower eyelid,9/13/2024
-305,Norine,Thomassique,,Miller,"Recurrent dislocation, right wrist",6/2/2024
-306,Lonny,Dalumangcob,,Artisan,Other specific personality disorders,6/17/2024
-307,Elnar,Zhongdeng,,Heath,Corrosion of second degree of right ankle and foot,5/10/2024
-308,Lucia,Tabanan,,Village,"Nondisp transverse fx shaft of r ulna, 7thQ",7/16/2024
-309,Aloise,Nowy Sącz,,Randy,"Disp fx of med phalanx of r rng fngr, subs for fx w nonunion",12/20/2023
-310,Marlo,Melrose,,Bluestem,"Nondisp commnt fx shaft of l fibula, 7thM",6/21/2024
-311,Fax,Mafraq,,Namekagon,"Disp fx of lateral condyle of l humer, 7thK",12/22/2023
-312,Britt,Pittsburgh,Pennsylvania,Crescent Oaks,Laceration with foreign body of vocal cord,4/28/2024
-313,Cornelius,Meylan,Rhône-Alpes,Fulton,"Unspecified open wound, unspecified ankle, initial encounter",4/18/2024
-314,Gilberto,Aqqan,,Namekagon,"Inj musc/tend ant grp at low leg level, unsp leg, sequela",8/11/2024
-315,Camel,Kuaro,,Ronald Regan,"Oth comp specific to multiple gest, unsp trimester, fetus 2",9/3/2024
-316,Teddie,Makariv,,Service,"Other specified injury of portal vein, sequela",9/1/2024
-317,Dona,Klenica,,Pennsylvania,"Blister (nonthermal), unspecified knee, subsequent encounter",1/19/2024
-318,Celeste,San Eugenio,,Main,Encounter for immunization,8/10/2024
-319,Glynn,Santa Cruz,,Linden,"Poisn by predom beta-adrenocpt agonists, assault, sequela",11/28/2023
-320,Laney,Ditsaan,,Truax,Encntr screen for genetic and chromosomal anomalies,5/3/2024
-321,Knox,Bousso,,Hagan,"Activity, cross country skiing",1/28/2024
-322,Kennie,Al Mazra‘ah ash Sharqīyah,,Welch,"Nondisp fx of unsp radial styloid pro, 7thE",10/8/2024
-323,Cori,Paka,,Sommers,"Cervical disc disorder, unspecified",4/4/2024
-324,Cori,Dobroměřice,,Fallview,"Corros 3rd deg mu right fingers (nail), inc thumb, init",12/31/2023
-325,Jonah,Chelu,,Ridgeway,"Other dislocation of right ulnohumeral joint, sequela",9/5/2024
-326,Krissie,San Miguel,Michoacan De Ocampo,Petterle,"Diffuse TBI w LOC w death due to oth cause bf consc, subs",8/22/2024
-327,Dov,Rešetari,,Chive,"Aggressive periodontitis, generalized, moderate",3/18/2024
-328,Aleta,‘Afula ‘Illit,,Bayside,Burns of other specified parts of eye and adnexa,12/20/2023
-329,Adelina,Madalena do Mar,Ilha da Madeira,Sutherland,"Terrorism involving suicide bomber, civilian injured, subs",8/28/2024
-330,Margette,Jinjiang,,Tony,"Disp fx of triquetrum bone, right wrist, init for opn fx",10/12/2024
-331,Rene,Salgado,,Tennessee,"Unsp injury of unspecified vertebral artery, init encntr",4/30/2024
-332,Yehudit,Madoi,,Homewood,"Poisoning by keratolyt/keratplst/hair trmt drug, self-harm",5/12/2024
-333,Morley,Kariat Arkmane,,Northfield,"Unsp car occupant injured in clsn w SUV in traf, sequela",10/29/2024
-334,Franky,Bella Vista,,School,"External constriction of unsp parts of thorax, sequela",1/25/2024
-335,Adolf,Xinchengzi,,Dottie,"Fracture of one rib, unsp side, init for opn fx",7/23/2024
-336,Wally,Fray Bentos,,Pankratz,"Unsp fracture of left femur, init for opn fx type I/2",7/22/2024
-337,Rowena,Kanuma,,Coleman,Sickle-cell thalassemia,11/13/2024
-338,Giorgi,Baiqi,,Farragut,"Struck by other psittacines, sequela",6/11/2024
-339,Riordan,Casal da Serra,Lisboa,Calypso,"Poisoning by inhaled anesthetics, accidental, init",2/29/2024
-340,Merry,Diré,,Portage,Tick-borne relapsing fever,1/20/2024
-341,Tammie,Podgorenskiy,,Sheridan,"Other peripheral vertigo, unspecified ear",8/9/2024
-342,Saunderson,Bachok,Kelantan,Manitowish,"Miscellaneous gen/plast-surg devices assoc w incdt, NEC",10/31/2024
-343,Nico,Nanyang,,Russell,"Injury of other cranial nerves, right side, subs encntr",11/20/2024
-344,Kingsley,Hepu,,Jenna,"Laceration w fb of r mid finger w damage to nail, init",2/28/2024
-345,Felizio,Pekijing,,South,"Torus fx lower end of r radius, subs for fx w delay heal",11/23/2024
-346,Ingar,Suugaant,,Maywood,Crohn's disease of both small and lg int w rectal bleeding,12/4/2023
-347,Sandor,Yuanling,,Florence,"Nondisp fx of lateral cuneiform of l ft, 7thG",1/25/2024
-348,Kelsey,Asamankese,,Carpenter,"Rh incompatibility w acute hemolytic transfs react, init",12/10/2023
-349,Homerus,Ajaccio,Corse,American,"Displaced bicondylar fx left tibia, init for opn fx type I/2",7/14/2024
-350,Alice,Ungus-Ungus,,Forest Dale,"Unsp fracture of shaft of r radius, init for opn fx type I/2",8/26/2024
-351,Yule,Santa Brigida,,Spaight,"Strain of extn musc/fasc/tend at forearm level, unsp arm",9/1/2024
-352,Finlay,Fada,,Prairieview,"Oth disorders of bone development and growth, unsp ank/ft",10/16/2024
-353,Chantal,Balatero,,Schurz,"Occ of rail trn/veh injured due to oth railway acc, init",1/23/2024
-354,Chicky,Emiliano Zapata,Tamaulipas,Roth,"Accidental malfunction of machine gun, initial encounter",2/25/2024
-355,Pancho,Munjungan,,Spaight,"Thor, thrclm & lumbosacr intvrt disc disord w radiculopathy",5/10/2024
-356,Lia,Muzi,,Mayer,Fall into natural body of water striking bottom,10/5/2024
-357,Artair,Spassk-Dal’niy,,Prentice,"Optic papillitis, unspecified eye",12/11/2023
-358,Lenee,Nkhotakota,,Clyde Gallagher,"Displacement of prosthetic orbit of left eye, init encntr",5/1/2024
-359,Winne,Vaasa,,Service,"Nondisp fx of base of fifth MC bone. left hand, sequela",12/5/2023
-360,Heather,Leribe,,Meadow Ridge,"Unsp pedl cyclst inj in clsn w statnry object in traf, init",5/19/2024
-361,Alyosha,Pulau Pinang,Pulau Pinang,Shoshone,"Oth mature T/NK-cell lymphomas, intra-abdominal lymph nodes",11/21/2024
-362,Chucho,Liangwa,,Service,Cauda equina syndrome,8/2/2024
-363,Anton,Tatuí,,Merrick,Unspecified parasitic disease,6/30/2024
-364,Stanislas,Quillabamba,,Knutson,"Other superficial bite of ankle, right ankle, subs encntr",3/15/2024
-365,Fulton,Bayan,,Becker,"Unsp effects of drowning and nonfatal submersion, init",7/3/2024
-366,Rubetta,Lom Sak,,Everett,Other specified injuries of ankle,5/7/2024
-367,Marybelle,Kalaxilike,,Talmadge,"Unsp opn wnd l frnt wl of thorax w/o penet thor cavity, init",10/11/2024
-368,Frederica,Burunday,,Washington,"Disloc of prox interphaln joint of r little finger, sequela",12/23/2023
-369,Cleve,Wu’erqihan,,Gale,"Nondisp fx of med condyle of r femr, 7thD",6/9/2024
-370,Jo,Volksrust,,Esch,"Nondisp fx of lateral condyle of left humerus, init",2/25/2024
-371,Jori,Zvenyhorodka,,Towne,Progressive external ophthalmoplegia,2/29/2024
-372,Francoise,Labo,,Upham,"Diseases of the circ sys comp pregnancy, third trimester",6/14/2024
-373,Koo,Ballina,,Barnett,"Oth specific arthropathies, not elsewhere classified, elbow",7/26/2024
-374,Karel,Arroyo Seco,,Fairfield,"Pnctr w foreign body of unsp cheek and TMJ area, init",12/12/2023
-375,Kris,Ippy,,Springview,Corrosion of first deg mult sites of left ankle and foot,7/10/2024
-376,Edythe,Valeirinha,Coimbra,Fordem,Other specified injury of blood vessel of right thumb,7/29/2024
-377,Roobbie,Jishan,,Clarendon,"Sltr-haris Type II physl fx upr end humer, r arm, 7thD",3/4/2024
-378,Noach,Nowe Miasto nad Pilicą,,Loomis,"Nondisp fx of base of nk of r femr, 7thM",3/4/2024
-379,Ortensia,Géfyra,,Sachs,"Follicular lymphoma, unsp, lymph nodes of multiple sites",2/4/2024
-380,Collete,Xiqi,,Garrison,"Idiopathic chronic gout, unspecified hip, with tophus",11/27/2024
-381,Jorey,Duluth,Georgia,Karstens,Long term (current) use of oral hypoglycemic drugs,5/6/2024
-382,Delora,Gândara,Viseu,Del Mar,"Anaphylactic reaction due to food additives, subs encntr",3/26/2024
-383,Rozina,Abadou,,Macpherson,Laceration w/o fb of left lesser toe(s) w damage to nail,10/6/2024
-384,Esme,Sedkyrkeshch,,Logan,"Disloc of distal interphaln joint of r little finger, sqla",5/23/2024
-385,Karylin,Paradahan,,Granby,Displaced fracture of distal phalanx of right lesser toe(s),10/29/2024
-386,Stephan,Ipueiras,,Northfield,"Other contact with other mammals, initial encounter",7/10/2024
-387,Valli,Göteborg,Västra Götaland,Paget,"Sltr-haris Type II physeal fracture of left metatarsal, 7thP",2/14/2024
-388,Aron,La Romana,,Center,"Displ commnt fx shaft of rad, r arm, 7thE",6/19/2024
-389,Sabine,Staryy Dobrotvir,,Debra,Contact with electric knife,9/22/2024
-390,Sterling,Sacramento,California,Rockefeller,"Infect/inflm react due to oth int orth prosth dev/grft, init",11/26/2024
-391,Josselyn,Pedra,Viana do Castelo,Lukken,"Necrotizing enterocolitis in newborn, unspecified",10/2/2024
-392,Kenna,Pontevedra,Galicia,Di Loreto,"Other fracture of right foot, 7thP",7/13/2024
-393,Adrienne,Fraile Pintado,,Crest Line,"Corros unsp deg mult sites of unsp lower limb, except ank/ft",10/2/2024
-394,Marthena,Río Ceballos,,Buena Vista,"Displ seg fx shaft of ulna, unsp arm, 7thM",11/19/2024
-395,Steffie,Orlovskiy,,Kings,"Polyhydramnios, first trimester",10/24/2024
-396,Sutton,Chitré,,Victoria,"Nondisp fx of med malleolus of l tibia, 7thQ",10/14/2024
-397,Kyle,Chachoengsao,,Morning,Calculus of GB and bile duct w acute cholecyst w/o obst,2/9/2024
-398,Eziechiele,Jingouhe,,Anhalt,"Primary cyst of pars plana, unspecified eye",9/18/2024
-399,Ailee,Hujirt,,Mallard,Obturator dislocation of unspecified hip,12/6/2023
-400,Peter,Smiths Falls,Ontario,Judy,"Nondisp fx of anterior wall of unsp acetabulum, sequela",2/12/2024
-401,Tann,Zamostochcha,,Heffernan,"Stress fracture, right fibula, sequela",11/12/2024
-402,Noland,San Francisco,,Brown,"Displ spiral fx shaft of l tibia, init for opn fx type I/2",1/17/2024
-403,Natalie,Čeladná,,Spenser,"Primary blast injury of sigmoid colon, subsequent encounter",8/29/2024
-404,Meriel,Naro-Fominsk,,Cottonwood,"Stress fracture, left foot, subs for fx w delay heal",11/5/2024
-405,Amerigo,Guohuan,,Hagan,"Toxic effect of phenol and phenol homologues, accidental",8/27/2024
-406,Tamara,Baisha,,Saint Paul,"Poisoning by enzymes, undetermined, initial encounter",1/3/2024
-407,Karlen,Beiwucha,,Sachs,"Acute hematogenous osteomyelitis, other sites",8/20/2024
-408,Nils,Strogino,,5th,"2-part nondisp fx of surgical neck of left humerus, sequela",11/30/2023
-409,Niles,Xingang,,Portage,"Congenital malformation of bony thorax, unspecified",9/4/2024
-410,Brooke,Sainte-Anne-des-Monts,Québec,Carpenter,"Body mass index (BMI) 70 or greater, adult",4/20/2024
-411,Cathe,Biliran,,Linden,"Sedatv/hyp/anxiolytc dependence w psychotic disorder, unsp",6/15/2024
-412,Rogerio,Zhanxu,,2nd,"Stress fracture, unspecified toe(s), sequela",4/9/2024
-413,Lina,Hexi,,Monica,"Nondisp oblique fx shaft of l tibia, 7thP",4/1/2024
-414,Uta,Iranduba,,Dexter,Lichen planopilaris,10/6/2024
-415,Berti,Shiyan,,Maple Wood,Mtrcy passenger injured in collision w rail trn/veh nontraf,3/20/2024
-416,Israel,Timbrangan,,Ridgeway,"Sltr-haris Type III physl fx upr end l tibia, 7thD",4/29/2024
-417,Vassili,Zargarān,,Barby,"Assault by knife, sequela",9/12/2024
-418,Glenine,Chengbei,,Burning Wood,"Simple chronic conjunctivitis, left eye",1/14/2024
-419,Luigi,Strezhevoy,,Bay,Furuncle of other sites,10/25/2024
-420,Ashia,Mambulo,,Columbus,"Partial traumatic amputation at elbow level, unsp arm, init",2/15/2024
-421,Doy,Oliveira,,Northview,"Assault by unarmed brawl or fight, subsequent encounter",8/19/2024
-422,Olag,Nanterre,Île-de-France,Oneill,"Anaphylactic reaction due to fruits and vegetables, init",2/12/2024
-423,Yul,Borova,,Service,"Adverse effect of opium, initial encounter",8/21/2024
-424,Rhetta,San Gil,,Prairie Rose,"Burn of third degree of left ear, subsequent encounter",6/14/2024
-425,Inigo,Slobodskoy,,Wayridge,"Malignant neoplasm of mediastinum, part unspecified",6/25/2024
-426,Bonita,Wuli,,Montana,Other and unsp malignant neoplasm of skin of scalp and neck,5/25/2024
-427,Kippar,Florestópolis,,Pepper Wood,"Fall from flat-bottomed pedestrian conveyance, init encntr",5/17/2024
-428,Ky,Phnom Penh,,Raven,"Other hypertrophic osteoarthropathy, unsp ankle and foot",8/18/2024
-429,Tyrus,Saint-Louis,Alsace,Schurz,"Nondisp fx of l ulna styloid pro, 7thF",9/4/2024
-430,Niels,Krasica,,Magdeline,"Disloc of unsp acromioclav jt, 100%-200% displacmnt, sequela",4/23/2024
-431,Laural,Lima,,Lerdahl,"Fx unsp part of nk of unsp femr, subs for clos fx w malunion",9/5/2024
-432,Tonya,Ayo,,Graedel,"Congenital kyphosis, occipito-atlanto-axial region",3/3/2024
-433,Homer,Bebekan,,Hauk,"Oth fx lower end of r tibia, subs for clos fx w routn heal",3/22/2024
-434,Emmet,Suugaant,,Brentwood,"Traction detachment of retina, bilateral",6/17/2024
-435,Murial,Dawei,,Clarendon,Cerebral infrc due to embolism of bi ant cerebral arteries,1/28/2024
-436,Ulises,Bratsigovo,,Rieder,Follicular lymphoma grade IIIa,6/19/2024
-437,Nollie,Los Dos Caminos,,Green Ridge,"Maternal care for oth fetal problems, unsp tri, fetus 5",8/27/2024
-438,Marijn,Kambaxoi,,Annamark,"Galeazzi's fx l rad, subs for opn fx type 3A/B/C w nonunion",2/6/2024
-439,Kaylyn,Tarqūmyā,,Fremont,"Sltr-haris Type III physl fx upper end humer, r arm, sqla",3/3/2024
-440,Reinwald,Miętne,,Scott,Maternal care for other rhesus isoimmunization,7/10/2024
-441,Mariel,Guay,,Esch,Arthralgia of temporomandibular joint,5/6/2024
-442,Felice,Augusto Corrêa,,Di Loreto,"Nondisplaced oblique fracture of shaft of unsp radius, init",10/23/2024
-443,Merline,Pechora,,Transport,Hb-SS disease with acute chest syndrome,2/11/2024
-444,Susan,Guacamaya,,Granby,"Burn of unspecified degree of right ear, sequela",8/3/2024
-445,Nickolaus,Putrajaya,Putrajaya,Huxley,Crushed betw canoe/kayk and oth wtrcrft/obj due to collision,6/29/2024
-446,Tracee,Villejuif,Île-de-France,Stuart,Sprain of unspecified ligament of ankle,9/19/2024
-447,Marja,Xinchengzi,,Mcbride,"Nondisp seg fx shaft of unsp fibula, 7thF",6/28/2024
-448,Harland,Suvorov,,Buhler,"Disp fx of epiphy (separation) (upper) of l femr, 7thN",10/1/2024
-449,Debby,Michałów,,Utah,"Nondisp fx of epiphy (separation) (upper) of unsp femr, 7thJ",11/6/2024
-450,Valentina,Tsuma,,Commercial,Other specified acquired deformities of right lower leg,4/19/2024
-451,Zia,Shaykh al Ḩadīd,,Spohn,"Poisoning by mineralocorticoids and antag, assault, init",7/21/2024
-452,Alanson,Luthu,,Bobwhite,"Laceration of ovary, unspecified, initial encounter",3/2/2024
-453,Catriona,Chaumont,Champagne-Ardenne,2nd,Acetonuria,11/27/2024
-454,Kimbra,Baolong,,Rieder,"Contact with edge of stiff paper, sequela",3/10/2024
-455,Noellyn,Burbank,California,Bunker Hill,"Other burn on board merchant vessel, subsequent encounter",9/12/2024
-456,Glynnis,Brka,,Killdeer,"Lacerat extn/abdr musc/fasc/tend of r thm at forarm lv, init",4/4/2024
-457,Manda,Novogurovskiy,,Village Green,"Interstitial myositis, left shoulder",1/6/2024
-458,Tamar,Caála,,Jay,"Ghost vessels (corneal), left eye",11/30/2023
-459,Flore,Skelleftehamn,Västerbotten,Paget,"Complete traumatic amputation at left hip joint, subs encntr",8/6/2024
-460,Gerrie,Kyaka,,Utah,"Unspecified physeal fracture of right calcaneus, 7thP",6/23/2024
-461,Cloris,Los Juríes,,Memorial,"Burn of third degree of unspecified axilla, subs encntr",5/19/2024
-462,Atlante,Tshaneni,,Barby,"Displ seg fx shaft of r fibula, 7thF",3/13/2024
-463,Ransom,Cane,,South,Long term (current) drug therapy,1/15/2024
-464,Ashlin,Xiaohe,,Mosinee,"Nondisp commnt fx shaft of ulna, r arm, 7thQ",4/22/2024
-465,Lanie,Priekulė,,Corscot,"Unspecified injury of unspecified elbow, initial encounter",3/9/2024
-466,Vachel,Kuytun,,Saint Paul,"Path fx in neopltc disease, l fibula, subs for fx w malunion",6/2/2024
-467,Anna-diana,Kolonowskie,,Gulseth,"Congenital absence, atresia and stenosis of prt lg int",12/22/2023
-468,Cort,Tullich,Scotland,Bay,"Poisoning by oth drug/meds/biol subst, self-harm, init",9/15/2024
-469,Kristoforo,Adolfo Lopez Mateos,Mexico,Hoffman,"Mech compl of int fix of bone of right forearm, subs",9/2/2024
-470,Jeni,Gurung,,International,"Car passenger injured in collision w SUV in traf, init",10/16/2024
-471,Yuri,Mjölby,Östergötland,Lyons,"Unsp fx left femur, subs for opn fx type I/2 w malunion",4/2/2024
-472,Velma,Sendangrejo,,Roxbury,"Contusion of bronchus, unilateral, sequela",7/14/2024
-473,Tricia,Grimshaw,Alberta,Autumn Leaf,Dermatitis due to unspecified substance taken internally,11/11/2024
-474,Ede,Zongga,,5th,Moderate laceration of tail of pancreas,9/11/2024
-475,Irvine,Strömsnäsbruk,Kronoberg,Village,"Displ unsp condyle fx low end unsp femr, 7thP",7/21/2024
-476,Mame,Mbandjok,,Messerschmidt,Unspecified superficial injury of vagina and vulva,6/23/2024
-477,Cindie,Gutang,,Debs,"Transient cerebral ischemic attack, unspecified",7/1/2024
-478,Herta,Duanjia,,Oak,Hypernasality and hyponasality,2/8/2024
-479,Cletus,Liaobu,,Bultman,"Laceration of blood vessels at ank/ft level, right leg, init",7/17/2024
-480,Heriberto,Sargodha,,Washington,"Staphyloma posticum, bilateral",2/16/2024
-481,Dorey,Rothesay Bay,,Miller,"Cont preg aft elctv fetl rdct of 1 fts or more,3rd tri, unsp",6/23/2024
-482,Ann-marie,Lluka e Eperme,,Ridge Oak,"Pnctr w/o fb of right thumb w damage to nail, sequela",7/4/2024
-483,Roscoe,Yueyang,,Columbus,Acquired deformity of pelvis,9/23/2024
-484,Sunshine,Loureiro,Viana do Castelo,Karstens,"Displ bimalleol fx unsp low leg, subs for clos fx w malunion",4/22/2024
-485,Valina,Lokossa,,Spenser,"Stress fracture, unsp shoulder, subs for fx w delay heal",7/11/2024
-486,Rachelle,Rockford,Illinois,Coolidge,"Dislocation of MCP joint of left middle finger, sequela",5/8/2024
-487,Irene,Bankeryd,Jönköping,Grasskamp,Unsp occupant of snowmobile injured in traffic accident,11/28/2023
-488,Cosetta,Biała Piska,,Vidon,"Rheumatoid arthritis without rheumatoid factor, right wrist",4/4/2024
-489,Gerrard,Hayan Hudong,,Farmco,Vitamin A deficiency w Bitot's spot and conjunctival xerosis,1/21/2024
-490,Isidora,Kvartsitnyy,,Anhalt,"Nondisp fx of olecran pro w/o intartic extn unsp ulna, 7thG",6/28/2024
-491,Kimball,Teruel,Aragon,Saint Paul,"Poisoning by cannabis (derivatives), intentional self-harm",10/20/2024
-492,Whitaker,Chusovoy,,Morningstar,"Discitis, unspecified, thoracic region",10/9/2024
-493,Lindsy,Tinabogan,,Meadow Vale,"Poisoning by calcium-channel blockers, intentional self-harm",3/5/2024
-494,Wally,Yamkino,,Logan,"Solar retinopathy, right eye",7/30/2024
-495,Blondelle,København,Region Hovedstaden,Graceland,"Type I occipital condyle fracture, left side, 7thD",10/26/2024
-496,Quinton,Pagak Kulon,,Brickson Park,"Traum hemor left cerebrum w LOC of 30 minutes or less, init",7/14/2024
-497,Tabbie,Dubki,,Golf View,"Sltr-haris Type IV physeal fx lower end of r femur, sequela",4/24/2024
-498,Seymour,São Francisco do Sul,,Service,"Traum hemor right cerebrum w LOC of unsp duration, init",1/14/2024
-499,Gregoor,Złoczew,,Crest Line,"Maternal care for unstable lie, fetus 4",10/7/2024
-500,Trumaine,Крушево,,Fairfield,"Unspecified injury of unspecified eye and orbit, init encntr",6/25/2024
-501,Miquela,Halmstad,Halland,Packers,"Temporary auditory threshold shift, left ear",4/18/2024
-502,Kalina,Huangtian,,Village,"Sltr-haris Type III physl fx upper end humer, unsp arm, init",12/4/2023
-503,Beverly,Los Angeles,California,Northview,"Other synovitis and tenosynovitis, right ankle and foot",4/11/2024
-504,Garret,Kayakent,,Manitowish,Displaced transverse fracture of right acetabulum,2/27/2024
-505,Feliks,Mungyeong,,Northwestern,Contusion of unspecified ankle,11/11/2024
-506,Dierdre,Umeå,Västerbotten,Lighthouse Bay,"Nondisp fx of r tibial tuberosity, 7thK",10/22/2024
-507,Izabel,Vitoria-Gasteiz,Pais Vasco,Schurz,Partial traumatic amp of two or more right lesser toes,12/24/2023
-508,Papagena,Antequera,,Sunbrook,"Otosclerosis involving oval window, nonobliterative",7/4/2024
-509,Carlie,Nanniu,,Corry,"Fracture of unspecified phalanx of right thumb, sequela",9/13/2024
-510,Rodge,Sukagawa,,Algoma,"Toxic effect of chloroform, accidental (unintentional), init",1/18/2024
-511,Parrnell,Tawala,,Ridgeview,Burn of first degree of buttock,1/21/2024
-512,Lem,Riofrío,,Fuller,"Incomplete atypical femoral fracture, left leg, 7thK",11/8/2024
-513,Claiborn,Semikarakorsk,,Clove,"Nondisp suprcndl fx w/o intrcndl extn low end l femr, 7thR",11/19/2024
-514,Ottilie,Stare Pole,,Anniversary,Sedatv/hyp/anxiolytc depend w psychotic disorder w delusions,6/11/2024
-515,Almire,Wuling,,Bluejay,Contus/lac/hem brainstem w/o loss of consciousness,9/19/2024
-516,Meris,Oibioin,,Lerdahl,"Fall from heelies, sequela",8/14/2024
-517,Erika,Stockholm,Stockholm,Sachs,Other physeal fracture of upper end of left femur,8/26/2024
-518,Mignon,Mount Frere,,Logan,"Suprvsn of preg with history of ectopic preg, unsp trimester",12/14/2023
-519,Carly,Nice,Provence-Alpes-Côte d'Azur,Armistice,Alcohol dependence with alcohol-induced persisting dementia,11/7/2024
-520,Robbin,Belozërskoye,,Dayton,"Nondisp bicondylar fx right tibia, init for opn fx type I/2",7/14/2024
-521,Sanford,Cidadap,,Golf,"Myositis ossificans traumatica, multiple sites",1/1/2024
-522,Jessica,Urrô,Porto,Manufacturers,"Jump/div into swim pool strk bottom causing oth injury, init",11/13/2024
-523,Estevan,Mlandizi,,Amoth,"Nondisp fx of coracoid process, unspecified shoulder",1/15/2024
-524,Marlena,San Antonio,Guerrero,Schlimgen,"Disease of blood and blood-forming organs, unspecified",3/11/2024
-525,Leroy,Tangnanzhen,,Oak,Intentional self-harm by sword or dagger,8/14/2024
-526,Smith,Saint-Quentin,Picardie,Graedel,"Hyperlipidemia, unspecified",2/9/2024
-527,Urson,Kraljevo,,Mandrake,External constriction of unspecified finger,5/18/2024
-528,Xerxes,Krivodanovka,,Hooker,"Other complication of vascular dialysis catheter, sequela",11/3/2024
-529,Shea,Ennery,,Nobel,"Toxic effect of other seafood, intentional self-harm",9/27/2024
-530,Fleur,Arboleda,,Buena Vista,"Strain extn musc/fasc/tend l little fngr at forarm lv, subs",9/22/2024
-531,Clerc,Hemudu,,Hallows,"Toxic effect of tetrachloroethylene, assault, sequela",6/8/2024
-532,Leigha,Consuelo,,Sundown,Malignant neoplasm of cecum,5/6/2024
-533,Barnabas,Trŭn,,Merchant,"Ped on foot injured in clsn w nonmtr vehicle, unsp, sequela",9/7/2024
-534,Fremont,Catarman,,Esker,"Unspecified subluxation of right foot, sequela",4/10/2024
-535,Wit,Aoluguya Ewenke Minzu,,Merchant,Unspecified effects of vibration,11/24/2024
-536,Zarah,Wisła,,Muir,"Zoonotic bacterial disease, unspecified",12/26/2023
-537,Shelton,Santa Cruz,Chiapas,Eliot,"Unsp fracture of unsp foot, subs for fx w nonunion",2/19/2024
-538,Quentin,Avallon,Bourgogne,Crownhardt,"Pneumococcal arthritis, shoulder",5/7/2024
-539,Claudine,Trondheim,Sor-Trondelag,Maryland,"Sltr-haris Type III physeal fx lower end of ulna, left arm",6/11/2024
-540,Mareah,Bunisari,,Everett,"Diplacusis, unspecified ear",11/3/2024
-541,Jacques,Kagoro,,Crest Line,"Foreign body in stomach, sequela",7/13/2024
-542,Rozalie,Mendeleyevsk,,Fisk,"Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss",11/26/2024
-543,Augusto,Maputi,,Brown,"Corrosion of third degree of unspecified elbow, init encntr",8/14/2024
-544,Herby,Wang Sam Mo,,Hansons,"Other streptococcal arthritis, right elbow",7/12/2024
-545,Aurie,Wujia,,Burrows,"External constriction of unspecified forearm, subs encntr",8/25/2024
-546,Tobey,Shigu,,West,Fracture of alveolus of mandible,7/7/2024
-547,Tressa,Troitskoye,,Thierer,"Prsn brd/alit pedl cyc injured in clsn w rail trn/veh, init",12/31/2023
-548,Lilllie,Rio Claro,,Vermont,"Poisoning by sulfonamides, accidental (unintentional), subs",1/18/2024
-549,Polly,Yongjiang,,Doe Crossing,"Disorder of aromatic amino-acid metabolism, unspecified",7/25/2024
-550,Laney,Mymensingh,,Atwood,Occupant (driver) of pk-up/van injured in unsp nontraf,2/20/2024
-551,Maridel,Jianshan,,Prentice,"Car pasngr injured in clsn w rail trn/veh nontraf, sequela",12/23/2023
-552,Laure,Independence,Missouri,Lukken,"Labyrinthine fistula, right ear",11/8/2024
-553,Valentin,Yajiwa,,Maple Wood,"Nondisplaced spiral fracture of shaft of left tibia, init",5/18/2024
-554,Demetrius,San Rafael,,4th,"Contusion of unspecified thigh, initial encounter",8/25/2024
-555,Lesli,Sukoreno,,Randy,Hyposplenism,4/27/2024
-556,Eunice,Tuy Phước,,Boyd,"Unsp intracapsular fracture of left femur, init for clos fx",3/6/2024
-557,Aldon,Kargowa,,Havey,"Driver of hv veh inj in nonclsn trnsp acc nontraf, sequela",2/19/2024
-558,Jenni,Jiahe,,Village,"Maternal care for hereditary disease in fetus, fetus 5",1/16/2024
-559,Barnabe,Gachancipá,,Lunder,"Other sprain of left little finger, initial encounter",7/29/2024
-560,Brandice,Tyler,Texas,Mifflin,Mech compl of surgically created arteriovenous fistula,12/21/2023
-561,Roslyn,Koronowo,,Hollow Ridge,Pulmonary infundibular stenosis,7/25/2024
-562,Standford,Madolenihm Municipality Government,,Thierer,"Other sprain of unspecified finger, subsequent encounter",11/16/2024
-563,Sheppard,Marićka,,Cascade,"War op w intentl restrict of air/airwy, civilian, subs",2/18/2024
-564,Wain,Denton,England,Bellgrove,"Displ bicondylar fx r tibia, 7thQ",5/5/2024
-565,Trey,Haylaastay,,Lotheville,"Rheumatoid bursitis, unspecified shoulder",5/28/2024
-566,Kasper,Gushi,,Fair Oaks,"Barton's fx left rad, subs for opn fx type 3A/B/C w malunion",10/27/2024
-567,Conrado,Toktogul,,Stang,"Lacerat msl/fasc/tnd post grp at thi lev, left thigh, sqla",5/9/2024
-568,Rockie,Zaqatala,,West,"Disp fx of right tibial spine, init for opn fx type I/2",10/2/2024
-569,Alphonse,Santa Rosa,,Elgar,Other incomplete lesion at C4 level of cervical spinal cord,12/27/2023
-570,Cornie,Pinaring,,Merchant,Unsp open wound of right great toe without damage to nail,11/13/2024
-571,Kelci,Xhafzotaj,,Warner,"Unsp traum nondisp spondylolysis of 2nd cervcal vert, 7thG",10/29/2024
-572,Amalia,Volokolamsk,,Paget,"Person outsd pk-up/van inj in clsn w ped/anml in traf, sqla",10/9/2024
-573,Julianne,Shizuoka-shi,,Basil,"Spontaneous rupture of extensor tendons, right upper arm",3/2/2024
-574,Eric,Miaoshi,,Farmco,Zoster meningitis,12/10/2023
-575,Harrietta,Pende,,Declaration,"Path fx in neopltc dis, r tibia, subs for fx w routn heal",6/3/2024
-576,Ruby,Ziyang Chengguanzhen,,Clemons,"Poisoning by expectorants, assault, sequela",7/30/2024
-577,Tynan,Aranguren,,Linden,"Displ trimalleol fx l low leg, 7thQ",1/27/2024
-578,Valene,Apongo,,Upham,Inj extensor musc/fasc/tend r idx fngr at forearm level,11/28/2023
-579,Nikolaus,Jiahu,,Truax,"Displ seg fx shaft of unsp fibula, 7thD",3/24/2024
-580,Clemmie,Balangiga,,Sauthoff,"Blindness, one eye, unspecified eye",3/21/2024
-581,Candace,Kanoni,,Di Loreto,Displaced spiral fracture of shaft of left femur,6/4/2024
-582,Henry,Serpukhov,,Gina,Contusion of lesser toe without damage to nail,6/2/2024
-583,Scarface,Allealle,,Riverside,Toxic effect of soaps and detergents,12/19/2023
-584,Izak,Paris 13,Île-de-France,Toban,"Displ commnt fx shaft of ulna, l arm, 7thQ",12/21/2023
-585,Malanie,Dao,,Northwestern,"Underdosing of other estrogens and progestogens, init encntr",5/16/2024
-586,Dre,Urozhaynoye,,Delaware,Nondisplaced comminuted fracture of shaft of left tibia,6/29/2024
-587,Abbey,Zhongxian,,Erie,"Strain of unsp musc/tend at low leg level, left leg, sequela",10/19/2024
-588,Case,Stryszów,,Spenser,"Partial traumatic amputation of left foot, level unspecified",3/18/2024
-589,Giffie,Umeå,Västerbotten,Waywood,"Other superficial bite of right lesser toe(s), sequela",8/2/2024
-590,Alissa,Ryazhsk,,Autumn Leaf,"Pedl cyc pasngr inj in clsn w oth pedl cyc nontraf, sequela",6/25/2024
-591,Fay,Granada,,Kropf,"Oth fall from one level to another due to ice and snow, subs",2/20/2024
-592,Chauncey,Huangbu,,Grayhawk,"Poisoning by hemostatic drug, assault, subsequent encounter",2/13/2024
-593,Viola,Ogaminan,,Eastwood,"Carcinoma in situ of skin of lower limb, including hip",4/8/2024
-594,Kellina,Wau,,Kingsford,"Nondisp fx of unsp radial styloid pro, 7thC",9/29/2024
-595,Chas,Nankang,,Orin,"Nondisp fx of ant process of r calcaneus, init for opn fx",10/15/2024
-596,Lanie,Oughterard,,Dahle,Dysarthria following nontraumatic intracerebral hemorrhage,6/7/2024
-597,Dolf,Yangzhong,,Troy,Mech compl of internal left knee prosthesis,10/25/2024
-598,Elise,Nagaracinta,,Pond,Other specified diabetes mellitus without complications,1/18/2024
-599,Korney,Panenggoede,,Morning,"Subluxation of unsp interphalangeal joint of finger, subs",8/12/2024
-600,Frances,Radekhiv,,Golf,"Retained (old) magnetic fb in post wall of globe, left eye",6/4/2024
-601,Shaun,Tucson,Arizona,Crowley,"Disp fx of lateral condyle of r tibia, 7thF",7/4/2024
-602,Bastien,Wailiang,,East,"Poisoning by thrombolytic drug, accidental, subs",1/10/2024
-603,Leigha,Nacka,Stockholm,Texas,"Displ commnt fx shaft of unsp femr, 7thP",1/28/2024
-604,Aloin,Semampir,,Hoepker,"Pigmentary glaucoma, left eye",9/30/2024
-605,Robbert,Ambato Boeny,,Oakridge,"Contracture of muscle, unspecified hand",10/22/2024
-606,Janis,Nisporeni,,Main,Animal type phobia,4/6/2024
-607,Hattie,Kālābāgh,,Ohio,"Nondisp transverse fx unsp patella, 7thE",9/8/2024
-608,Adriane,Cassanayan,,Riverside,"Biotin-dependent carboxylase deficiency, unspecified",5/4/2024
-609,Nan,Donglu,,Independence,Varicos vn of l low extrem w ulc of calf and inflammation,6/26/2024
-610,Hermione,Maroa,,Stone Corner,"Lead-induced gout, multiple sites",3/31/2024
-611,Britteny,Khodzha-Maston,,Forest,Contusion of thumb with damage to nail,9/16/2024
-612,Mychal,Yahe,,Messerschmidt,"Unspecified sprain of right hip, initial encounter",6/9/2024
-613,Zorina,Shelopugino,,Annamark,Fall from scooter (nonmotorized),8/28/2024
-614,Breena,Rinbung,,Transport,"Displ spiral fx shaft of humer, r arm, 7thG",9/10/2024
-615,Rhody,Boleszkowice,,Rowland,"Struck by other nonvenomous marine animals, subs encntr",4/5/2024
-616,Lorne,Miliangju,,Beilfuss,"Suprvsn of preg w poor reprodctv or obstet history, unsp tri",12/8/2023
-617,Kincaid,Przasnysz,,Ruskin,"Complete physeal arrest, left distal radius",9/19/2024
-618,Davine,Fengshou,,Clove,"Ring corneal ulcer, right eye",1/5/2024
-619,Alisa,Liqi,,Menomonie,Superficial injury of unspecified part of neck,1/19/2024
-620,Opal,Aban,,Fallview,"Poisoning by mixed antiepileptics, accidental",4/20/2024
-621,Riley,Nangang,,Nancy,"Laceration of right kidney, unspecified degree, init encntr",2/14/2024
-622,Hoebart,Longgang,,Hayes,Partial traumatic amputation at unspecified hip joint,11/14/2024
-623,Amity,Alcorriol,Santarém,Nova,"Lead-induced chronic gout, left shoulder, with tophus",8/12/2024
-624,Lucretia,Koson Shahri,,Coolidge,Unsp inj flexor musc/fasc/tend l little finger at wrs/hnd lv,5/25/2024
-625,Frances,Los Tangos,,Gateway,"Terrorism w chemical weapons, publ sfty offcl injured, subs",1/30/2024
-626,Adham,Nangger,,Forest Run,"Oth fracture of unsp pubis, init encntr for closed fracture",10/22/2024
-627,Silvana,Duyang,,Wayridge,"Other chronic osteomyelitis, tibia and fibula",1/13/2024
-628,Corny,Göteborg,Västra Götaland,Oneill,"Other secondary osteonecrosis, left toe(s)",1/28/2024
-629,Xylina,Xibin,,Anzinger,"Blister (nonthermal), left hip, initial encounter",4/3/2024
-630,Christiano,Sukamaju,,Kingsford,"3-part fx surgical neck of r humerus, init for opn fx",5/17/2024
-631,Jenni,Guimbal,,Helena,"Corneal abscess, unspecified eye",8/12/2024
-632,Marlow,Dipayal,,Ridgeway,"Abscess of tendon sheath, right forearm",2/14/2024
-633,Jaquith,Debre Mark’os,,Oneill,"Occ of pk-up/van injured in trnsp acc w miltry vehicle, init",11/1/2024
-634,Jacklin,Knivsta,Uppsala,Erie,"Nerve root and plexus disorder, unspecified",3/25/2024
-635,Rani,La Garenne-Colombes,Île-de-France,Morrow,"Contus/lac left cerebrum w LOC of 6-24 hrs, sequela",10/21/2024
-636,Harri,Changqing,,Bobwhite,"Oth fx right femur, subs for opn fx type 3A/B/C w nonunion",12/8/2023
-637,Virgil,Bagé,,Express,"Oth injury of unspecified renal vein, subs encntr",10/29/2024
-638,Lizette,Kipini,,Browning,"Torus fx upper end of left ulna, subs for fx w delay heal",3/7/2024
-639,Tally,Kiraman,,Schiller,"Oth diab with prolif diab rtnop without macular edema, unsp",5/1/2024
-640,Trstram,Kanghe,,Crescent Oaks,"Legal intervnt w manhandling, law enforc offl inj, sequela",11/16/2024
-641,Estel,Gulrip’shi,,Mendota,"Valgus deformity, not elsewhere classified, right ankle",5/7/2024
-642,Kim,Batangafo,,Forster,"Other sprain of unspecified foot, sequela",5/17/2024
-643,Bryon,Oslo,Oslo,Superior,"Nondisp fx of coronoid pro of l ulna, 7thN",1/20/2024
-644,Shaylynn,Trelleborg,Skåne,Sheridan,"Exposure to oth man-made visible and ultraviolet light, init",8/11/2024
-645,Alfredo,Longquan,,Coleman,"Nondisp fx of neck of third MC bone, r hand, init for opn fx",7/27/2024
-646,Rhea,Wakduwa’ Barat,,Gateway,"Displ seg fx shaft of rad, unsp arm, 7thE",7/2/2024
-647,Rebekah,Ta‘izz,,Fairview,"Unsp injury of blood vessels at shldr/up arm, right arm",4/21/2024
-648,Sammie,Hehe,,Tony,"Nondisp seg fx shaft of rad, l arm, 7thC",3/24/2024
-649,Garfield,Panjiawan,,Brown,"Unsp foreign body in pharynx causing asphyxiation, subs",9/2/2024
-650,Clemence,Shimeitang,,Morningstar,"Unsp fx shaft of unsp fibula, init for opn fx type 3A/B/C",9/11/2024
-651,Mikaela,Yingcui,,Cardinal,Hang-glider explosion injuring occupant,7/15/2024
-652,Melinda,Qui Nhon,,Mosinee,"Prsn brd/alit a car injured in collision w pedal cycle, init",12/20/2023
-653,Gweneth,Junaynat Raslān,,Monica,Persons encountering health services in oth circumstances,2/16/2024
-654,Claudie,Raman,,Packers,Fall on or from jungle gym,2/1/2024
-655,Biron,Yujiao,,Burning Wood,"Poisoning by diagnostic agents, assault",5/9/2024
-656,Rochette,Las Lomas,,6th,Other specified mononeuropathies of lower limb,9/4/2024
-657,Saunder,Llalli,,Graedel,"Juvenile osteochondrosis of spine, occipt-atlan-ax region",12/20/2023
-658,Tiena,Zhongfang,,Michigan,"Adverse effect of other antihypertensive drugs, init encntr",12/28/2023
-659,Shaw,Chengji,,Dapin,"Nondisplaced oblique fracture of shaft of right fibula, init",2/9/2024
-660,Neile,Boticas,Vila Real,Gulseth,"Contusion of lung, unspecified",5/1/2024
-661,Manny,Rafaela,,Pawling,Edema of right upper eyelid,11/25/2024
-662,Matthiew,Hengliang,,Mosinee,Acute hepatitis B,7/23/2024
-663,Felizio,Suna,,Texas,"Nondisp commnt fx shaft of ulna, unsp arm, 7thC",8/24/2024
-664,Cy,Fada N'gourma,,Fremont,"Synovial hypertrophy, NEC, left shoulder",12/29/2023
-665,Knox,Dongning,,Johnson,Aneurysm of heart,9/18/2024
-666,Jere,Arys,,Merry,Athscl bypass of cor art of transplanted heart w/o ang pctrs,1/21/2024
-667,Barnabe,Okocim,,Harbort,"Polyhydramnios, first trimester",10/26/2024
-668,Karolina,Pyatnitskoye,,Brown,Unspecified fracture of upper end of tibia,8/12/2024
-669,Shel,Tuanalepe,,Little Fleur,Cannabis related disorders,12/21/2023
-670,Danyelle,Jaguaruana,,Becker,Oth transitory neonatal electrolyte and metabolic disturb,2/7/2024
-671,Artemas,Gantang,,Manufacturers,Cicatricial alopecia [scarring hair loss],8/13/2024
-672,Enid,Mala Danylivka,,Moose,Regurgitation and rumination of newborn,5/30/2024
-673,Jacki,Greda,,Northland,Displaced fracture of lateral end of unspecified clavicle,3/26/2024
-674,Padget,Jandira,,Maple Wood,Injury of ulnar artery at forearm level,1/3/2024
-675,Graeme,El Paso,Texas,5th,"Diabetes due to underlying condition w diabetic neurop, unsp",9/29/2024
-676,Felicia,Kurmanayevka,,Kensington,"Toxic effect of unsp inorganic substance, accidental, subs",12/12/2023
-677,Lisbeth,Mała Wieś,,6th,"Underdosing of antithyroid drugs, subsequent encounter",12/6/2023
-678,Huey,Kesambilerenkrajan,,Fairfield,"Complete loss of teeth due to trauma, class IV",7/22/2024
-679,Baryram,Santa Cruz,Mexico,Jenna,"Puncture wound w/o foreign body of left wrist, init encntr",10/18/2024
-680,Wendel,Svilengrad,,Summer Ridge,"Chronic gout due to renal impairment, unsp hand, w/o tophus",9/4/2024
-681,Corina,Qingshi,,Lotheville,"Agoraphobia, unspecified",11/26/2024
-682,Morley,Bourg-en-Bresse,Rhône-Alpes,Coleman,"Toxic effect of ingested (parts of) plant(s), undetermined",5/16/2024
-683,Andrej,Keli,,Sutteridge,Terrorism involving explosion of marine weapons,3/8/2024
-684,Roddy,Getung,,Arkansas,Fall in (into) bucket of water,10/7/2024
-685,Alister,Situsari,,Loomis,"Burn due to other unpowered watercraft on fire, subs encntr",2/22/2024
-686,Norma,Itauguá,,Dapin,Underdosing of antiasthmatics,4/7/2024
-687,Hersh,Milanówek,,Brickson Park,"Stress fracture, right shoulder, subs for fx w nonunion",11/22/2024
-688,Benny,Sangar Sarāy,,Muir,"Galeazzi's fx r rad, subs for opn fx type I/2 w routn heal",3/20/2024
-689,Brigg,Orneta,,Oxford,Wegener's granulomatosis without renal involvement,10/15/2024
-690,Carmita,Bamiantong,,Thierer,"Cystic meniscus, unspecified meniscus, unspecified knee",12/11/2023
-691,Andriette,Al Jīzah,,Merry,"Nondisp longitud fx unsp patella, 7thH",4/14/2024
-692,Zerk,Dadapan,,Elka,"Driver of 3-whl mv inj in clsn w nonmtr veh in traf, sqla",5/24/2024
-693,Jarid,Harbour Breton,Newfoundland and Labrador,South,"Sltr-haris Type III physeal fx unsp calcaneus, sequela",8/25/2024
-694,Alix,Talnakh,,Meadow Vale,Type 1 diabetes mellitus with other skin ulcer,8/31/2024
-695,Patty,Qitan,,Vermont,Diabetes due to underlying condition w neurological comp,12/6/2023
-696,Demeter,Whitegate,,Miller,"Maternal care for hydrops fetalis, second trimester, fetus 1",12/24/2023
-697,Angeli,Bocana de Paiwas,,School,"Retained uterin contracep dev in pregnancy, second trimester",6/6/2024
-698,Evelina,Yaojiaji,,Farragut,"Nondisp fx of nk of 4th MC bone, l hand, 7thP",7/4/2024
-699,Donny,La Peña,,Maple Wood,"Unsp fx upr end l tibia, 7thR",2/11/2024
-700,Buiron,Tomaševac,,Dawn,"Oth superficial bite of right back wall of thorax, init",6/2/2024
-701,Nealon,Panggunguni,,Oneill,"Lacerat intrns musc/fasc/tend l idx fngr at wrs/hnd lv, init",3/9/2024
-702,Ashli,Pampas,,Talmadge,"Stiffness of left knee, not elsewhere classified",2/27/2024
-703,Toddie,Yläne,,Delaware,Cereb infrc due to thombos of right middle cerebral artery,3/23/2024
-704,Hayley,Wādī Raḩḩāl,,Maple Wood,Other specified interstitial pulmonary diseases,10/22/2024
-705,Cori,Skinnskatteberg,Västmanland,Walton,Struck by hit or thrown ball,9/29/2024
-706,Arlie,Momignies,Wallonie,Donald,"Cataract (lens) fragmt in eye fol cataract surgery, r eye",12/31/2023
-707,Umberto,Christchurch,,Ridgeview,"Displacement of int fix of bone of left forearm, subs",5/16/2024
-708,Wallace,Bakunase,,Thackeray,"Inj conjunctiva and corneal abrasion w/o fb, right eye, init",12/6/2023
-709,Karisa,Fenghuo,,Bluestem,"Disp fx of third metatarsal bone, unspecified foot, sequela",6/21/2024
-710,Bel,Sampués,,Haas,"Sltr-haris Type II physeal fx upper end of unsp fibula, init",8/5/2024
-711,Marina,Gozdowo,,Shelley,"War op involving explosion of guided missile, milt, sequela",8/2/2024
-712,Alison,Huangshi,,Toban,"Nondisp seg fx shaft of humer, l arm, 7thD",9/4/2024
-713,Brietta,Heping,,Summerview,"Unspecified superficial injury of unspecified elbow, sequela",8/5/2024
-714,Gwenora,Zborište,,Luster,"Sprain of metacarpophalangeal joint of unsp thumb, subs",7/29/2024
-715,Fletch,Kadubadak,,Clyde Gallagher,"Dislocation of proximal interphaln joint of finger, sequela",8/28/2024
-716,Mayor,Artimet,,Northridge,Acquired atrophy of ovary and fallopian tube,3/11/2024
-717,Ruthann,Młynary,,Forest Dale,Struck by volleyball,5/25/2024
-718,Clari,Stockholm,Stockholm,Monica,Unstable burst fracture of first lumbar vertebra,3/4/2024
-719,Weider,Osogbo,,Rusk,"Occupant of streetcar injured in unsp traf, sequela",3/25/2024
-720,Morna,Pakisaji,,Kensington,"Sltr-haris Type I physeal fx lower end of humerus, left arm",10/11/2024
-721,Aleen,Néa Filadélfeia,,Southridge,Rheu heart disease w rheumatoid arthritis of unsp elbow,10/29/2024
-722,Sara-ann,Krasnoyarka,,Beilfuss,"Displ transverse fx shaft of r tibia, 7thN",8/20/2024
-723,Francklin,Coutada,Viana do Castelo,Anzinger,Rheumatoid myopathy with rheumatoid arthritis of unsp elbow,2/14/2024
-724,Prudy,Kawakawa,,Scofield,Hemiplga fol ntrm subarach hemor aff left dominant side,6/14/2024
-725,Thadeus,Vinica,,Saint Paul,"Hodgkin lymphoma, unspecified",7/26/2024
-726,Viki,Lima Pampa,,Heath,"Oth injury of blood vessel of unspecified thumb, sequela",1/6/2024
-727,Quill,Naga,,Mariners Cove,"Other displaced fracture of third cervical vertebra, sequela",9/22/2024
-728,Arlyn,Yunyang,,American Ash,"Fracture of coronoid process of right mandible, 7thK",6/15/2024
-729,Zechariah,Chavães,Viseu,Sundown,"Driver of 3-whl mv inj in clsn w rail trn/veh in traf, init",6/17/2024
-730,Matias,Damanhūr,,Bluestem,"Poisoning by MAO inhib antidepressants, assault, sequela",12/1/2023
-731,Jakie,Togitsu,,Porter,"Injury of digital nerve of right middle finger, sequela",7/31/2024
-732,Misty,Itō,,Dwight,Post-transplant lymphoproliferative disorder (PTLD),12/13/2023
-733,Sigismond,Kabala,,Forster,"Oth injury of right pulmonary blood vessels, sequela",10/15/2024
-734,Raddy,Horní Lideč,,Warner,"Nondisp fx of base of unsp MC bone, subs for fx w delay heal",1/5/2024
-735,Iorgos,Yongfeng,,Dixon,"Strain of unsp msl/tnd at ank/ft level, unsp foot, sequela",4/2/2024
-736,Flo,Timiryazevo,,Mendota,"Unsp injury of unsp msl/tnd at ank/ft level, unsp foot, subs",6/22/2024
-737,Cathy,Panamá,,Novick,Neoplasm of uncertain behavior of right breast,7/20/2024
-738,Carolus,Dongle,,Harbort,"Presence of artificial hip joint, bilateral",7/18/2024
-739,Louise,Alençon,Basse-Normandie,Fair Oaks,"Toxic effect of unsp corrosive substance, acc, sequela",1/6/2024
-740,Leonora,Puerto Quijarro,,School,"Gastric contents in larynx causing asphyxiation, sequela",11/16/2024
-741,Matthiew,Irbit,,Orin,Burn of first degree of neck,1/13/2024
-742,Jervis,Duszniki-Zdrój,,Paget,"Burn of unspecified degree of unspecified thigh, init encntr",6/13/2024
-743,Francesco,Guarda Nova,Leiria,Sunfield,"Open bite of right great toe w/o damage to nail, subs encntr",5/9/2024
-744,Sigismondo,Rasi Salai,,Northview,"Unsp fx shaft of left femur, subs for clos fx w routn heal",9/15/2024
-745,Leela,Saraqinishtë,,Bayside,Presence of artificial right leg (complete) (partial),5/17/2024
-746,Alfonse,Caherconlish,,1st,"External constriction of right forearm, initial encounter",4/16/2024
-747,Kathlin,San Pedro,Jalisco,Moulton,"Inj radial artery at wrist and hand level of left arm, subs",8/28/2024
-748,Cam,Bungbulang,,Londonderry,"Other ossification of muscle, ankle and foot",6/21/2024
-749,Aylmer,Naranjal,,Bashford,"Cystitis, unspecified without hematuria",7/5/2024
-750,Waly,Nishi-Tokyo-shi,,Scofield,Unsp nephritic syndrome with other morphologic changes,12/17/2023
-751,Natal,Huanxi,,Emmet,"Pedl cyc pasngr inj in clsn w statnry object in traf, subs",10/3/2024
-752,Dyna,Basak,,Spohn,"Disp fx of dist phalanx of l great toe, 7thG",12/18/2023
-753,Marten,Karangturi,,Granby,"Other contact with other fish, subsequent encounter",2/18/2024
-754,Halsy,Heshui,,Golden Leaf,"Adverse effect of other psychotropic drugs, sequela",8/15/2024
-755,Ware,Mehmand Chak,,Oneill,"Oth fx lower end of l femur, subs for clos fx w routn heal",2/5/2024
-756,Jania,Goworowo,,Killdeer,"Refractory anemia, unspecified",7/28/2024
-757,Lil,Mulhouse,Alsace,Brown,Asymptomatic varicose veins of unspecified lower extremity,4/4/2024
-758,Darell,Oslo,Oslo,Hooker,Actinic granuloma,1/18/2024
-759,Korrie,El Paso,Texas,Northfield,"Open bite of left little finger w damage to nail, init",3/7/2024
-760,Winonah,Weiwangzhuang,,Meadow Vale,Malignant neoplasm of pelvis,11/9/2024
-761,Carole,Miracema,,Grim,"Sprain of left sternoclavicular joint, subsequent encounter",1/10/2024
-762,Theressa,Houston,Texas,Farmco,"Wedge comprsn fx unsp thor vertebra, subs for fx w nonunion",2/6/2024
-763,Welsh,Konëvo,,Moland,"Unsp car occupant injured in clsn w oth mv nontraf, subs",3/4/2024
-764,Suzann,Galván,,Thierer,"Displ seg fx shaft of rad, l arm, 7thJ",7/8/2024
-765,Ilka,Stockton,California,Lerdahl,Corneal scars and opacities,2/28/2024
-766,Susi,Dongli,,Eliot,"Nondisp commnt fx l patella, 7thN",12/4/2023
-767,Lawry,Yuecheng,,Ridgeway,"Unspecified injury of popliteal vein, right leg, subs encntr",1/19/2024
-768,Isabel,Karanganyar,,Ilene,"Corrosion of second degree of left elbow, subs encntr",9/24/2024
-769,Elane,Gongqiao,,Beilfuss,"Unsp injury of musc/tend at lower leg level, right leg, init",9/19/2024
-770,Ashbey,Horad Rechytsa,,American,Blister (nonthermal) of left eyelid and periocular area,3/20/2024
-771,Christel,Pueblo Nuevo,,Delladonna,Struck by sports foot wear,3/4/2024
-772,Athene,Dongming Chengguanzhen,,Londonderry,Pedestrian injured in collision w rail trn/veh nontraf,6/3/2024
-773,Jordan,Řečany nad Labem,,Spohn,Drug or chemical induced diabetes mellitus w oth skin ulcer,4/15/2024
-774,Port,Pran Buri,,Sugar,"Adverse effect of centr-acting/adren-neurn-block agnt, init",8/11/2024
-775,Fons,Cabcaben,,Holmberg,Monoplg upr lmb fol oth cerebvasc disease aff unsp side,6/15/2024
-776,Sydel,Ngandangan,,Larry,"Forced landing of private fix-wing arcrft inj occ, sequela",12/17/2023
-777,Juline,San Pedro,,Westridge,"Torus fx upper end of r radius, subs for fx w malunion",11/15/2024
-778,Hendrika,Liulin,,Linden,"Displaced segmental fx shaft of radius, right arm, init",8/4/2024
-779,Meris,Fangxiang,,Sutherland,"Transitory disorder of carbohydrate metab of newborn, unsp",4/5/2024
-780,Albertine,Malaga,,Knutson,"Milt op involving explosion of marine mine, milt",5/10/2024
-781,Gusta,Terang,,Claremont,"Nondisp segmental fracture of shaft of left femur, sequela",10/11/2024
-782,Cyndie,Cibatu,,Farwell,"Animal-rider injured in collision w anml-drn vehicle, subs",12/17/2023
-783,Chrystal,San,,Karstens,"Unsp car occupant injured in collision w car nontraf, subs",8/5/2024
-784,Ginger,Hudai,,Maywood,"Assault by strike by baseball bat, subsequent encounter",8/8/2024
-785,Ethelyn,Argithéa,,Mallory,"Other disorders of continuity of bone, left humerus",9/13/2024
-786,Tara,Obiaruku Quarters,,Fulton,"Laceration of blood vessel of left index finger, sequela",5/8/2024
-787,Wright,Pakel,,Fairfield,"Poisoning by methadone, accidental (unintentional), subs",11/23/2024
-788,Hyacinthe,Fullerton,California,Muir,"Sltr-haris Type IV physl fx upper end radius, unsp arm, sqla",8/3/2024
-789,Birgit,Xiaojinkou,,Graedel,"Driver of hv veh inj in clsn w nonmtr vehicle nontraf, subs",2/4/2024
-790,Haven,Zhutian,,Elgar,"Spastic entropion of right eye, unspecified eyelid",8/28/2024
-791,Lindsy,Boa Esperança,,American,Accessory kidney,4/26/2024
-792,Veradis,Yazman,,Muir,Dislocation of MTP joint of unsp lesser toe(s),6/7/2024
-793,Violet,Bazha,,Forster,"Injury of nerve root of thoracic spine, subsequent encounter",4/18/2024
-794,Kellie,Antagan Segunda,,Blue Bill Park,"Torus fx lower end of unsp tibia, subs for fx w malunion",3/21/2024
-795,Rebekah,Sukadana,,John Wall,"Corrosion of third degree of right ear, subsequent encounter",6/14/2024
-796,Alf,Pasirreungit,,Southridge,"Occ of anml-drn veh inj in trnsp acc w miltry vehicle, init",7/30/2024
-797,Sammie,Tzaneen,,Harbort,Rheumatoid polyneurop w rheumatoid arthritis of left elbow,12/15/2023
-798,Maurise,Paulínia,,La Follette,"Posterior disp fx of sternal end of right clavicle, sequela",1/3/2024
-799,Brenn,Vale da Serra,Santarém,Hollow Ridge,Driver of hv veh injured in collision w unsp mv nontraf,4/24/2024
-800,Phyllys,Bang Ban,,Gateway,"Felty's syndrome, right wrist",4/5/2024
-801,Rozamond,Tabira,,Shelley,"Derang of post horn of lat mensc d/t old tear/inj, unsp knee",2/13/2024
-802,Paulina,Caldas da Felgueira,Viseu,Declaration,"Poisn by slctv seroton/norepineph reup inhibtr, acc, sqla",8/10/2024
-803,Thorsten,Ogden,Utah,Grayhawk,"Oth fx head/neck of r femur, subs for clos fx w routn heal",1/20/2024
-804,Jacquette,Qiaosi,,South,Oth degeneratv disord of nervous sys in dis classd elswhr,3/26/2024
-805,Elva,Dongxin,,Jana,"Nondisp fx of med condyle of r tibia, 7thE",5/20/2024
-806,Yorker,Suntar,,Judy,"Conjoined twin pregnancy, second trimester",5/8/2024
-807,Biron,Sangmu,,Longview,"Sltr-haris Type IV physl fx low end humer, l arm, 7thD",8/13/2024
-808,Jehanna,Wichian Buri,,Blackbird,"Oth fx low end unsp femr, 7thN",9/13/2024
-809,Heall,Veternik,,Kensington,"Abrasion, left thigh",8/13/2024
-810,Orsa,Komprachcice,,Emmet,"Oth chronic hematogenous osteomyelitis, unsp radius and ulna",10/17/2024
-811,Sara-ann,Uchaly,,Larry,Osteitis deformans of forearm,12/30/2023
-812,Ruthie,Khasavyurt,,Scofield,"Fracture of other part of scapula, right shoulder, sequela",5/27/2024
-813,Roanna,Huatan,,Eagan,"Acute promyelocytic leukemia, in remission",12/24/2023
-814,Simon,Östhammar,Uppsala,Hanson,"Nondisp fx of coronoid pro of r ulna, 7thE",2/12/2024
-815,Frederich,Katsina,,Elmside,"Pnctr w fb of left eyelid and periocular area, init",7/8/2024
-816,Othelia,Kedungharjo,,Bayside,"Other skateboard accident, sequela",7/5/2024
-817,Alene,Nūr,,Farragut,"Injury of other nerves at forearm level, left arm, subs",8/20/2024
-818,Ula,Gharavŭtí,,Pine View,"Other burn on board other powered watercraft, subs encntr",9/26/2024
-819,Josee,General Lavalle,,Village,"Occup of pk-up/van inj pk-up truck, pk-up/van nontraf, init",11/2/2024
-820,Darcee,Oslo,Oslo,Beilfuss,Athscl autol vein bypass of the right leg w ulcer of ankle,1/9/2024
-821,Joete,Nacala,,Roxbury,"Subluxation of other parts of unsp shoulder girdle, sequela",2/7/2024
-822,Royce,Babug,,Ridgeway,"Abrasion, left lesser toe(s), sequela",6/9/2024
-823,Marijo,Obroshyne,,Fair Oaks,"Post-traumatic osteoarthritis, left shoulder",1/9/2024
-824,Erina,Chelles,Île-de-France,Sugar,"Effusion, left knee",11/18/2024
-825,Cherie,Krutja e Poshtme,,Kim,Motorcycle passenger injured in collision w pedl cyc in traf,5/25/2024
-826,Rodolphe,Białobrzegi,,Glacier Hill,"Displ spiral fx shaft of humer, l arm, 7thG",11/3/2024
-827,Lindy,Kristiansand S,Vest-Agder,Thackeray,Encounter for supervision of other normal pregnancy,1/11/2024
-828,Tamma,Pirojpur,,Lawn,"Prsn outsd pk-up/van inj in clsn w statnry obj nontraf, sqla",11/9/2024
-829,Angil,Shanhou,,Manley,"Kaschin-Beck disease, left wrist",6/1/2024
-830,Currie,Riosucio,,Starling,"Posterior cyclitis, right eye",5/15/2024
-831,Karine,Talondang,,East,"Poisoning by expectorants, assault, sequela",2/6/2024
-832,Candice,Uglich,,Lotheville,"Corrosion of unsp degree of left scapular region, init",6/6/2024
-833,Marcelline,Cloyne,,Burning Wood,Fall while being carried or supported by other persons,7/22/2024
-834,Bay,Baixo Guandu,,Clemons,Unspecified congenital malformations of vulva,11/17/2024
-835,Charlotta,Uglegorsk,,Buena Vista,Cutaneous abscess of limb,12/25/2023
-836,Lexi,Wolometang,,Dahle,"Unsp athscl nonaut bio bypass of the extremities, right leg",2/11/2024
-837,Nancy,Halinów,,Kingsford,"Injury of visual cortex, unspecified eye, initial encounter",4/30/2024
-838,Sheri,Markala,,Valley Edge,"Type 1 diab with prolif diab rtnop with comb detach, l eye",3/6/2024
-839,Chris,Byerazino,,Shoshone,"Toxic effect of venom of N & S American snake, accidental",3/28/2024
-840,Mattias,Alofi,,Laurel,"Traum rupture of unsp ligmt of l idx fngr at MCP/IP jt, subs",3/20/2024
-841,Tim,Baryshevo,,Sutteridge,"Inj conjunctiva and corneal abrasion w/o fb, unsp eye, init",9/1/2024
-842,Gary,Palmitas,,Continental,"Postdysenteric arthropathy, hand",2/10/2024
-843,Egon,Lengshuijing,,Lunder,"Oth osteopor w crnt path fx, unsp site, 7thP",11/16/2024
-844,Tatiana,Damaishan,,Haas,"Oth malignant neoplasm skin/ unsp eyelid, including canthus",2/15/2024
-845,Lilias,San Andres,,Drewry,"Fall from heelies, subsequent encounter",8/30/2024
-846,Andree,Santa Cruz,Guerrero,Pearson,"Hypertrophic disorder of the skin, unspecified",5/22/2024
-847,Bambie,Tiedonglu,,Lerdahl,Passenger in 3-whl mv injured in clsn w rail trn/veh in traf,9/14/2024
-848,Britte,Jonava,,Anzinger,"Burn of 3rd deg mu sites of left wrist and hand, init",8/6/2024
-849,Gratia,Boliney,,Dexter,"2-part disp fx of surg nk of l humer, 7thG",5/22/2024
-850,Jaye,Bang Saphan,,Lindbergh,"Nondisp avuls fx (chip fracture) of l talus, 7thP",12/11/2023
-851,Bennett,Salas,,Maryland,"Oth fx shaft of rad, unsp arm, 7thR",8/1/2024
-852,Eberhard,Yuquan,,Sloan,"Milt op involving firearms pellets, military personnel, subs",9/2/2024
-853,Belle,Pátmos,,Westridge,Other endometriosis,3/16/2024
-854,Bearnard,Cañuelas,,Dakota,"Carbonic-anhydrase inhibitors, benzo/oth diuretc",4/28/2024
-855,Claybourne,Нераште,,Florence,Unspecified nondisp fx of second cervical vertebra,4/22/2024
-856,Rowney,Zall-Herr,,Ilene,"Toxic effect of tobacco cigarettes, assault, subs encntr",1/16/2024
-857,Ashlen,Filimonovo,,School,"Toxic effect of unsp substance, intentional self-harm, subs",12/4/2023
-858,Thain,Dafengdui,,Manley,"Corrosion of second degree of lower back, initial encounter",5/10/2024
-859,Woodman,Fengmu,,Bultman,"Fx condylar process of mandible, unspecified side, 7thD",10/6/2024
-860,Tommy,Aix-en-Provence,Provence-Alpes-Côte d'Azur,Myrtle,"Unsp pre-existing diabetes in pregnancy, first trimester",6/28/2024
-861,Kettie,Zhuzuo,,Dixon,Adhesive middle ear disease,1/23/2024
-862,Thane,Tegina,,Cherokee,"Postdysenteric arthropathy, hand",7/11/2024
-863,Iggie,Futian,,Graedel,"Unsp fracture of occiput, subs for fx w routn heal",8/25/2024
-864,Normie,Shumerlya,,Sutherland,Oth transport vehicle as place,4/10/2024
-865,Minnie,União da Vitória,,David,"Toxic effect of ketones, accidental (unintentional), subs",6/27/2024
-866,Ulick,Blantyre,,Prairieview,Motorcycle passenger injured in collision w unsp mv nontraf,12/12/2023
-867,Georgeanne,Sezemice,,Meadow Ridge,"Disp fx of prox 3rd of navic bone of r wrs, 7thK",2/4/2024
-868,Weylin,Jalālpur Pīrwāla,,Sheridan,"Displ oth extrartic fx unsp calcaneus, 7thG",9/23/2024
-869,Evelin,Lübeck,Schleswig-Holstein,Huxley,"Partial loss of teeth due to other specified cause, class IV",4/21/2024
-870,Cherrita,Kirgili,,Kipling,"Unsp superficial injury of left lesser toe(s), sequela",3/9/2024
-871,Bertina,Księżpol,,Golf View,"Airgun discharge, undetermined intent",3/20/2024
-872,Cirstoforo,Sölvesborg,Blekinge,Veith,"Trib rtnl vein occlusion, right eye, with macular edema",5/31/2024
-873,Jamesy,Thị Trấn Thất Khê,,Northview,Simple chronic bronchitis,7/25/2024
-874,Derry,Dimona,,Scott,"Contusion of right index finger w/o damage to nail, sequela",8/22/2024
-875,Inessa,Xinó Neró,,Independence,Encntr screen for malignant neoplasm of intestinal tract,6/2/2024
-876,Luis,Hesperange,,North,Acute stress reaction,10/25/2024
-877,Augy,Saint-Tite,Québec,Riverside,"Unsp open wound of unsp finger w/o damage to nail, sequela",11/19/2024
-878,Lawrence,San Miguel,,Barnett,"Other specified bursopathies, right shoulder",5/19/2024
-879,Marty,Huansheng,,Grasskamp,"Other osteonecrosis, unspecified ankle",8/28/2024
-880,Frankie,Jerusalem,,Fallview,"Passenger in 3-whl mv injured in clsn w hv veh in traf, subs",8/22/2024
-881,Phil,Bordeaux,Aquitaine,Burrows,"Leakage of artificial heart, initial encounter",4/22/2024
-882,Doralyn,Xishan,,Scofield,"Pathological fracture in other disease, left femur, sequela",6/21/2024
-883,Griffith,Zhuhe,,David,Traumatic spondylopathy,7/20/2024
-884,Fredrika,Magoúla,,Mockingbird,Other ice-skates accident,12/23/2023
-885,Falkner,Media Luna,,Buhler,"Nondisp seg fx shaft of humerus, right arm, init for opn fx",10/15/2024
-886,Lynne,Bembèrèkè,,Dottie,"Disp fx of epiphy (separation) (upper) of l femr, 7thF",5/8/2024
-887,Mart,Obikiik,,Merchant,"Type III traum spondylolysis of 4th cervcal vert, 7thK",12/30/2023
-888,Cortney,Montasik,,Sugar,"Poisoning by local antifung/infect/inflamm drugs, assault",8/13/2024
-889,Gene,Kitahiroshima,,Lake View,Lac w fb of front wall of thorax w penet thoracic cavity,9/12/2024
-890,Tami,As Suwaydā’,,Norway Maple,Corrosion of second degree of shoulder,9/23/2024
-891,Flory,Koungheul,,Del Sol,"Poisoning by vitamins, accidental (unintentional), init",11/27/2024
-892,Bridget,El Quebrachal,,Lien,Herpesviral infection of other urogenital tract,11/10/2024
-893,Delcine,Kalutara,,Arkansas,"Type 1 diab with severe nonp rtnop with macular edema, bi",9/10/2024
-894,Parry,Deh-e Now,,Mifflin,"Burn third deg of shldr/up lmb, ex wrs/hnd, unsp site, subs",9/19/2024
-895,Harrie,Cincinnati,Ohio,Del Mar,"Age-related osteopor w current path fracture, l humerus",11/20/2024
-896,Layton,Tempeh Tengah,,Eagle Crest,Rheumatoid lung disease w rheumatoid arthritis of r shoulder,7/12/2024
-897,Tania,Cengjia,,Mosinee,"Displ commnt fx right patella, subs for clos fx w nonunion",7/4/2024
-898,Jeno,Sapouy,,Union,"Open bite of unsp bk wl of thorax w penet thor cavity, init",1/4/2024
-899,Marnie,Komprachcice,,Myrtle,Pain in wrist,12/25/2023
-900,Dasha,Kubangwaru,,Superior,"Nondisp fx of 4th metatarsal bone, unsp ft, 7thD",7/11/2024
-901,Tawnya,Shabel’skoye,,Dwight,"Type I occipital condyle fracture, unspecified side, 7thK",9/19/2024
-902,Sigismundo,Aga,,Trailsway,"Sublux of symphysis (pubis) in pregnancy, second trimester",4/8/2024
-903,Wolf,At Taḩālif,,Autumn Leaf,Unspecified hereditary retinal dystrophy,10/5/2024
-904,Patten,Ryazhsk,,Monument,"Corrosion of first degree of right lower leg, subs encntr",1/9/2024
-905,Raymond,Tandag,,Riverside,"Type 2 diab with mod nonp rtnop without macular edema, l eye",8/19/2024
-906,Nerita,Dan Sadau,,Division,Dislocation of unsp interphalangeal joint of left thumb,2/21/2024
-907,Powell,Kebonagung,,Maple,"Unsp open wound of unspecified part of head, subs encntr",7/30/2024
-908,Cissy,Falun,Dalarna,Corry,"Papyraceous fetus, unspecified trimester, fetus 3",7/13/2024
-909,Collie,Zhengmo,,Transport,"Chondromalacia, unspecified ankle and joints of foot",8/21/2024
-910,Ashli,Chaloem Phra Kiat,,Clarendon,"Pasngr in 3-whl mv inj in clsn w statnry obj in traf, subs",5/1/2024
-911,Bar,Tambak,,Meadow Vale,"Congenital malformation of urinary system, unspecified",5/6/2024
-912,Jackie,Sakassou,,Kenwood,"Inj radial artery at wrs/hnd lv of left arm, sequela",3/21/2024
-913,Correy,Taen Tengah,,Eliot,"Pnctr w fb of unsp great toe w damage to nail, sequela",11/4/2024
-914,Jennee,Placer,,Briar Crest,"Sltr-haris Type I physeal fx phalanx of unsp toe, 7thB",12/4/2023
-915,Chelsae,Tsagaan-Olom,,Killdeer,"Cont preg after uterin death of one fetus or more, unsp tri",1/1/2024
-916,Kathlin,Turus,,Mayfield,"Partial traumatic trnsphal amp of l little finger, init",12/5/2023
-917,Wally,Coyah,,Old Shore,Granuloma of left lacrimal passage,6/30/2024
-918,Charmain,Krajan,,Dorton,"Kaschin-Beck disease, shoulder",12/3/2023
-919,Shana,Gengma,,Hermina,"Perf due to fb acc left in body fol surgical operation, init",7/6/2024
-920,Michal,Youludu Sibage,,Sutherland,"Other reactive arthropathies, left ankle and foot",12/31/2023
-921,Matthus,Cantapoy,,Larry,"Complete traumatic amputation of unsp great toe, sequela",12/25/2023
-922,Trista,Bandeirantes,,Waxwing,"Congenital kyphosis, thoracic region",7/27/2024
-923,Keenan,Shahr-e Bābak,,Kingsford,Chlamydia psittaci infections,11/22/2024
-924,Amery,Liuhe,,Hermina,Other superficial injuries of other fingers,5/7/2024
-925,Patrick,Cumanacoa,,Kinsman,"Primary osteoarthritis, right hand",12/27/2023
-926,Kristofor,Araal,,Stuart,Displaced dome fracture of unspecified acetabulum,10/10/2024
-927,Lucie,Cinyawar,,Reinke,"Nondisp transverse fx shaft of l femr, 7thN",7/23/2024
-928,Frances,Gampola,,Continental,"Blister (nonthermal) of left hand, initial encounter",7/23/2024
-929,Giffie,Ruyigi,,Waubesa,"Arthritis due to other bacteria, shoulder",8/14/2024
-930,Iago,Dowsk,,Manley,Strain of flexor musc/fasc/tend r little finger at forarm lv,3/2/2024
-931,Carolin,Totoral,,Fair Oaks,Oth osteochndrdys w defct of growth of tublr bones and spine,5/13/2024
-932,Zacharias,Elektrėnai,,Anderson,"Oth fx upper end of right tibia, subs for clos fx w nonunion",8/17/2024
-933,Dacie,Perushtitsa,,Oakridge,"Toxic effect of carb monx from utility gas, assault, sequela",4/19/2024
-934,Rosabella,La Rochelle,Poitou-Charentes,Amoth,"Poisoning by methadone, intentional self-harm, sequela",10/14/2024
-935,Liliane,Bastia,Corse,Green,"Oth injury of popliteal artery, unspecified leg, init encntr",11/29/2023
-936,Indira,Tamana,,Cascade,"Nondisp bimalleol fx l low leg, 7thD",5/24/2024
-937,Romy,Wenxian Chengguanzhen,,Jackson,"Oth fx lower end of unsp ulna, subs for clos fx w malunion",6/21/2024
-938,Brianne,Zaliznychne,,Old Gate,Gestational edema,4/8/2024
-939,Ricki,Ingersoll,Ontario,Macpherson,"Burn of third degree of right toe(s) (nail), sequela",7/5/2024
-940,Raviv,Jianping,,Kedzie,Congenital stenosis of aortic valve,6/8/2024
-941,Tarrance,Cikeusal,,Bowman,"Torus fx upper end of r humerus, subs for fx w malunion",3/31/2024
-942,Latisha,Ḩajjah,,Dexter,"Nondisp fx of cuboid bone of left foot, init for opn fx",5/18/2024
-943,Noach,Wulan Haye,,8th,"Kaschin-Beck disease, left shoulder",12/12/2023
-944,Anestassia,Lydenburg,,Fair Oaks,Zika virus disease,8/4/2024
-945,Catherina,Trondheim,Sor-Trondelag,Ludington,"Speech disturbances, not elsewhere classified",3/21/2024
-946,Earvin,Formosa,,American Ash,"Motorized mobility scooter colliding w statnry obj, subs",11/13/2024
-947,Evin,Gjinoc,,Kings,"Malignant neoplasm of male genital organ, unspecified",4/13/2024
-948,Aimil,Halmstad,Halland,Commercial,"Superficial thrombophlebitis in pregnancy, first trimester",11/14/2024
-949,Mikol,Tifni,,Morningstar,"Dislocation of unsp interphaln joint of left thumb, subs",5/25/2024
-950,Alejandrina,Aricagua,,Express,"Milt op involving fragments from weapons, milt, init",10/29/2024
-951,Judon,Järfälla,Stockholm,Beilfuss,And unsp drugs aff the autonomic nervous system,3/25/2024
-952,Jerald,Roberval,Québec,Hoard,"Poisoning by oth synthetic narcotics, accidental, subs",1/8/2024
-953,Gill,Avignon,Provence-Alpes-Côte d'Azur,Amoth,"Gestational diabetes mellitus in childbirth, unsp control",2/21/2024
-954,Tabby,Nysa,,Nobel,"Unsp focal TBI w loss of consciousness of 31-59 min, init",3/17/2024
-955,Ericka,Purral,,East,"Displaced dome fracture of right talus, init for clos fx",3/12/2024
-956,Rosemarie,Yuhuangding,,School,"Tox eff of unsp halgn deriv of aromat hydrocrb,slf-hrm, sqla",5/26/2024
-957,Arlyn,Akureyri,,Mccormick,"Displaced segmental fracture of shaft of left tibia, sequela",4/12/2024
-958,Chris,Neochórion,,Artisan,"Osteopathy in diseases classified elsewhere, left upper arm",4/2/2024
-959,Sindee,Hongde,,Weeping Birch,Esophageal obstruction,2/12/2024
-960,Valencia,Bình Thủy,,Butternut,"Maternal care for face, brow and chin presentation, fetus 1",7/30/2024
-961,Chrisy,Pierzchnica,,Oneill,"Pressure ulcer of right heel, unstageable",2/10/2024
-962,Chloe,Mahanoro,,Lighthouse Bay,"Unsp injury of muscle, fascia and tendon of left hip, subs",3/9/2024
-963,Marilin,Ji Paraná,,Maryland,"Displaced transverse fracture of right acetabulum, init",4/19/2024
-964,Garfield,Qianshan,,Lighthouse Bay,"Laceration of musc/fasc/tend at shldr/up arm, right arm",10/4/2024
-965,Lindsy,Alcorriol,Santarém,Pleasure,"Sprain of right rotator cuff capsule, initial encounter",1/27/2024
-966,Xavier,Conceição da Abóboda,Lisboa,Tennessee,"Nondisp transverse fx shaft of l ulna, 7thQ",11/18/2024
-967,Rachele,Kletek,,Straubel,"Toxic effect of corrosive organic compnd, assault, sequela",5/14/2024
-968,Nicki,Alofi,,Crowley,"Enteropathic arthropathies, unspecified hip",8/26/2024
-969,Shanna,Ceranów,,Cherokee,"Myocarditis, unspecified",10/7/2024
-970,Bastian,Whistler,British Columbia,Loomis,"Dislocation of unsp interphaln joint of r rng fngr, sequela",7/24/2024
-971,Doralyn,Tatebal,,Grim,"Underdosing of agents aff the cardiovascular sys, subs",6/18/2024
-972,Ozzy,Belém,,Vahlen,"Capsular contracture of breast implant, sequela",7/29/2024
-973,Adolpho,Aracati,,Bashford,Oth postprocedural complications and disorders of dgstv sys,8/30/2024
-974,Wanids,Verkhnyaya Tura,,Reinke,"Unsp injury of other part of small intestine, subs encntr",7/12/2024
-975,Fredek,Nam Kliang,,1st,Injury of greater saphenous vein at hip and thigh level,8/13/2024
-976,Carlynne,Yelan’,,Prairieview,"Toxic effect of petroleum products, accidental, subs",9/23/2024
-977,Candace,Henglan,,Miller,"Other sprain of left index finger, sequela",10/1/2024
-978,Steve,Utena,,Elmside,"Pnctr of abd wall w fb, unsp q w/o penet perit cav, init",6/22/2024
-979,Juliette,Tromsø,Troms,Delaware,Acute duodenal ulcer with hemorrhage,4/14/2024
-980,Julio,København,Region Hovedstaden,Delaware,"Corrosion of second degree of unsp ankle and foot, subs",3/15/2024
-981,Michelina,Sendangkemulian,,Cordelia,"Occup of pk-up/van inj in nonclsn trnsp acc in traf, sequela",4/17/2024
-982,Felisha,Xindi,,Charing Cross,"Burn and corrosion of head, face, and neck",1/24/2024
-983,Ermina,Jinlong,,Hansons,Burn of second degree of right shoulder,6/5/2024
-984,Rubia,Nelazskoye,,Fuller,"Subacute osteomyelitis, left radius and ulna",3/17/2024
-985,Othella,Duanjia,,Hoffman,"Poisoning by unsp psychostimulants, undetermined, init",6/10/2024
-986,Juieta,Zhangfeng,,Texas,"Nondisp fx of r radial styloid pro, 7thC",12/13/2023
-987,Earle,Dongxiao,,Leroy,"Spontaneous rupture of flexor tendons, multiple sites",8/19/2024
-988,Hetty,A’ershan,,Canary,"Myositis ossificans traumatica, unspecified upper arm",2/16/2024
-989,Roxanna,Czerniewice,,Magdeline,"Pretrm prem ROM, onset labor > 24 hours fol rupt, second tri",7/30/2024
-990,Hernando,Aygavan,,Old Gate,Intestinal strongyloidiasis,10/29/2024
-991,Roxine,Nouaseur,,Grover,"Disorder of kidney and ureter, unspecified",4/24/2024
-992,Scotty,Wassu,,Old Gate,"NB aff by matern anesth and analgesia in preg, labor and del",11/12/2024
-993,Zelig,Prengtale,,Crowley,"Toxic effect of benzene, assault",4/17/2024
-994,Allyn,Maracaibo,,Sachs,"Hydroxyapatite deposition disease, multiple sites",9/27/2024
-995,Angelo,Karney Shomron,,Kropf,"Anterior subluxation of right humerus, subsequent encounter",8/30/2024
-996,Raf,Rzhavki,,Holmberg,"Laceration of radial artery at forearm level, left arm, subs",8/7/2024
-997,Fawnia,Nugas,,Cascade,"Laceration w/o foreign body of left cheek and TMJ area, subs",7/24/2024
-998,Talya,Bizhou,,Westridge,"Poisn by mineralocorticoids and antag, self-harm, sequela",9/27/2024
-999,Corette,Amuntai,,Holmberg,Other degenerative disorders of eyelid and periocular area,9/29/2024
-1000,Desirae,Santa Quitéria,,Bellgrove,"Pressr ulcer of contig site of back, buttock and hip, stg 1",7/9/2024
+eventName,city,state,street,detail,date
+Leela,Charlotte,North Carolina,Derek,"Pupillary membranes, bilateral",2024-07-13
+Marcellus,Oslo,Oslo,Prentice,"Unsp injury of unsp musc/fasc/tend at wrs/hnd lv, right hand",2024-10-21
+Idelle,Dailing,,Eagan,"Infection following a procedure, initial encounter",2024-07-23
+Babb,Lagunas,,Spaight,"Burn of unsp deg mult sites of unsp ankle and foot, sequela",2024-11-01
+Nicol,Horizonte,,Swallow,"Oth osteopor w current path fracture, r humerus, sequela",2024-05-21
+Giffy,Gempolan Wetan,,Westport,"Contusion of lung, unilateral",2024-01-24
+Sherilyn,Colegiales,,Moulton,Phlegmonous dacryocystitis of unspecified lacrimal passage,2024-03-10
+Dorice,Karangturi,,Holmberg,"Nondisplaced Rolando's fracture, left hand, init for clos fx",2024-07-25
+Cale,Semalang,,Utah,"Injury of unsp nerve at wrs/hnd lv of left arm, init",2024-01-24
+Jobye,Cikalaces,,Forest Dale,"Idiopathic gout, right hip",2023-12-28
+Lars,Iroquois Falls,Ontario,Park Meadow,"Underdosing of cephalospor/oth beta-lactm antibiot, sequela",2024-06-07
+Carlina,Chazón,,Bluestem,"Insect bite (nonvenomous) of lip, sequela",2023-12-04
+Marybelle,Tianta,,Chinook,"Internuclear ophthalmoplegia, left eye",2024-05-03
+Inez,Kota Bharu,Kelantan,Manley,"Blizzard (snow)(ice), subsequent encounter",2024-02-13
+Klaus,Kedungtuban,,Carey,Other mechanical complication of internal joint prosthesis,2024-03-15
+Rafaela,Vélizy-Villacoublay,Île-de-France,Derek,"Other juvenile arthritis, left shoulder",2024-10-28
+Jamima,Ligang,,Center,Bit/stung by nonvenom insect and oth nonvenomous arthropods,2024-07-10
+Michaeline,Privlaka,,Brentwood,"Superficial frostbite of left hip and thigh, subs encntr",2023-12-20
+Lazaro,Gislaved,Jönköping,Fordem,"Complete traumatic amp at level betw left hip and knee, subs",2024-10-25
+Geraldine,Mogzon,,Anniversary,"Disp fx of 5th metatarsal bone, r ft, 7thG",2024-08-28
+Willdon,Dongping,,Sunnyside,"Squamous cell carcinoma skin/ left upper limb, inc shoulder",2024-04-27
+Ludovico,Manorom,,Vahlen,Other burn on board merchant vessel,2024-01-10
+Vickie,Bhisho,,Novick,Acute lymphangitis of perineum,2024-11-24
+Nolan,Banja Luka,,Oakridge,Injury of urethra,2024-08-10
+Ricardo,Santa Lucia,,Emmet,"Bitten by macaw, sequela",2024-04-05
+Bruis,Ungca,,Jana,"Puncture wound w foreign body of scrotum and testes, init",2024-08-29
+Tallia,Luleå,Norrbotten,Messerschmidt,"Oligohydramnios, third trimester, fetus 5",2024-01-17
+Blaine,Phôngsali,,Michigan,Arthropathy in hypersensitivity reactions classd elswhr,2024-08-25
+Powell,San Pedro Sacatepéquez,,Toban,"Nondisp transverse fx r patella, init for opn fx type I/2",2024-03-27
+Marnia,Krasne,,Claremont,"Left temporomandibular joint disorder, unspecified",2024-05-15
+Nathan,Liangdang Chengguanzhen,,Victoria,"Poisn by histamine H2-receptor blockers, self-harm, sequela",2024-09-18
+Jermain,Las Vegas,Nevada,Haas,Type 1 fracture of sacrum,2024-08-12
+Bear,Libao,,Claremont,Perinatal intestinal perforation,2024-11-22
+Jonie,Dschang,,Debs,"Scooter (nonmotorized) colliding w stationary object, subs",2024-10-20
+Luisa,Marseille,Provence-Alpes-Côte d'Azur,Maryland,"Unsp injury of superficial palmar arch of right hand, init",2024-07-18
+Jennifer,Portland,Oregon,Homewood,"Other secondary kyphosis, site unspecified",2024-11-16
+Desiri,San Juan,,Maywood,Dysmorphism due to warfarin,2024-10-29
+Zebadiah,Néa Karváli,,Mccormick,"Unspecified injury of left thigh, initial encounter",2024-10-07
+Berkley,Seydi,,Towne,"Superficial thrombophlebitis in pregnancy, unsp trimester",2024-03-29
+Dawn,Haputale,,Tony,Restless legs syndrome,2024-11-10
+Cornie,Cirateun,,Pleasure,"Pnctr w/o fb of right eyelid and periocular area, sequela",2024-04-15
+Jerri,Yangirabot,,Huxley,"Toxic effect of venom of bees, accidental, init",2023-12-01
+Corby,Wissembourg,Alsace,Maywood,Toxic effects of trichloroethylene,2024-10-11
+Adolph,Honolulu,Hawaii,Fulton,Oth postproc complications and disorders of nervous sys,2024-03-03
+Adan,Xiangshan,,Luster,"Toxic effect of venom of hornets, accidental, sequela",2024-09-25
+Benni,Huancabamba,,Merry,"Other physeal fracture of upper end of left tibia, sequela",2024-06-16
+Clayborn,Eshowe,,Lakewood,Malignant neoplasm of unspecified olfactory nerve,2024-06-24
+Martie,Barra de São Francisco,,Troy,"Nondisp unsp condyle fx low end unsp femr, 7thB",2024-03-12
+Karina,Severnyy,,5th,"Maternal care for excess fetal growth, first tri, fetus 3",2023-12-11
+Niccolo,Palena,,Troy,"Oth cnsl comp of anesth during pregnancy, first trimester",2024-11-18
+Wilfred,Artemivs’k,,Claremont,Struck by other marine mammals,2024-09-16
+Ilysa,Tutul,,Moulton,Burn of unspecified degree of left toe(s) (nail),2024-11-26
+Lesley,Lizhai,,East,"Matern care for known or susp placntl insuff, unsp tri, oth",2024-04-12
+Sibbie,Barreiro do Jaíba,,Sherman,Local anesthetics,2024-02-04
+Maddy,Changchi,,Burning Wood,"Oth fracture of head and neck of right femur, init",2024-04-05
+Rhetta,Barra de São Francisco,,Briar Crest,Type 2 diab w moderate nonprlf diab rtnop w/o macular edema,2024-06-18
+Tori,Kvitok,,Glacier Hill,"Fx unsp prt of scapula, unsp shldr, subs for fx w delay heal",2024-07-31
+Esma,Valladolid,Castilla - Leon,Steensland,Kaposi's sarcoma of gastrointestinal sites,2024-05-24
+Lemmy,Muang Pakxan,,Marquette,"Ulnohumeral (joint) sprain of left elbow, initial encounter",2024-10-28
+Noah,Ratenggoji,,Scott,Encntr for obs for susp exposure to biolg agents ruled out,2023-12-13
+Broddy,Ringinrejo,,Oak Valley,"Poisoning by alpha-adrenocpt antagonists, self-harm, sequela",2023-12-29
+Cherie,Cikulina,,2nd,"Poisoning by alpha-adrenocpt antagonists, accidental, init",2024-07-25
+Ida,Los Arcos,,Little Fleur,"Oligohydramnios, unspecified trimester, fetus 2",2024-04-25
+Delainey,Seda,,Monument,"Oth mult gest, unab to dtrm num plcnta & amnio sacs, 3rd tri",2024-04-10
+Normand,La Paz,,Eastwood,Hemorrhage of orbit,2024-07-29
+Anne,Žleby,,Oakridge,"Unsp inj musc/fasc/tend at shldr/up arm, left arm, subs",2024-02-27
+Ninetta,Shilu,,Miller,"Disp fx of pisiform, unsp wrist, subs for fx w delay heal",2023-12-22
+Jinny,Smyga,,Messerschmidt,"Unspecified disorder of synovium and tendon, ankle and foot",2024-02-14
+Alberta,Khvastovichi,,Dwight,"Poisoning by tetracyclines, accidental (unintentional), init",2023-12-21
+Ara,Tierralta,,Spaight,"Pathological fracture, unsp femur, init encntr for fracture",2024-11-17
+Meredith,Atalhada,Ilha de São Miguel,Glacier Hill,Lac w/o fb of unsp front wall of thorax w/o penet thor cav,2024-05-27
+Ashil,Tong’an,,Fremont,"Complete traumatic amp of left foot at ankle level, subs",2024-02-17
+Lani,Dārāb,,Kinsman,Unspecified open wound of oral cavity,2024-09-28
+Thea,Suslonger,,Randy,Activities involving ice and snow,2023-12-03
+Viki,Maxu,,American,Driver of pk-up/van injured in collision w ped/anml in traf,2024-10-19
+Chad,Dijon,Bourgogne,Golf Course,"Contusion of unsp ring finger with damage to nail, sequela",2024-09-16
+Lowrance,Dawung,,Esch,"Toxic effect of venom of scorpion, accidental, subs",2024-11-20
+Stanislaus,Paris 19,Île-de-France,Duke,Other postherpetic nervous system involvement,2024-08-26
+Doug,Don Mueang,,Northridge,"Dislocation of distal interphalangeal joint of finger, subs",2024-07-02
+Stillmann,Dhankutā,,Talmadge,Frostbite with tissue necrosis of right foot,2024-04-23
+Jacquelyn,Lysyanka,,Mayfield,"Subluxation of C2/C3 cervical vertebrae, initial encounter",2024-10-16
+Ira,El Monte,,Blue Bill Park,"Nondisp fx of low epiphy (separation) of unsp femr, 7thG",2024-09-11
+Hyacintha,Sokol,,Harper,"Unsp injury of musc/fasc/tend at neck level, sequela",2024-08-05
+Jobi,Horodnya,,Prairie Rose,"Corrosion of first degree of right hand, unspecified site",2024-02-06
+Kipp,Lyon,Rhône-Alpes,Commercial,"Partial traum amp at level betw elbow and wrist, left arm",2024-02-29
+Muriel,Mlandizi,,Swallow,"Nondisp fx of unsp tibial spin, 7thN",2024-08-09
+Lindsey,Puerto Esperanza,,Sundown,"Unsp injury at C1 level of cervical spinal cord, sequela",2024-07-18
+Peggie,Tatuí,,Crownhardt,"Infantile and juv cortical/lamellar/zonular cataract, bi",2024-03-21
+Lucius,Jenzan,,David,Superficial foreign body of other specified part of neck,2024-01-02
+Janaye,San Juan Sacatepéquez,,Di Loreto,"Displaced fracture of second metatarsal bone, right foot",2024-04-29
+Ema,Dopang,,Katie,Nondisplaced fracture of head of right radius,2024-08-31
+Amelie,Eixo,Aveiro,Victoria,"Nondisp commnt fx shaft of r femr, 7thH",2023-12-16
+Mauricio,Vila de Sal Rei,,Melvin,"Changes in retinal vascular appearance, left eye",2024-05-26
+Devina,Barrancabermeja,,Scoville,"Disp fx of prox phalanx of r lit fngr, 7thG",2024-08-20
+Carlye,Chahe,,Chive,Phlebitis and thrombophlebitis of unspecified femoral vein,2024-02-11
+Edithe,Zheleznodorozhnyy,,Sunfield,Diabetes due to underlying condition w unsp diabetic rtnop,2024-08-22
+Torrin,Shoushan,,David,"Disp fx of ant wall of right acetab, subs for fx w nonunion",2024-04-30
+Humfried,Espera Feliz,,Kings,"Injury of nerves at ankle and foot level, right leg, init",2024-10-12
+Cindee,Tantamayo,,Harbort,"Pnctr of abd wall w/o fb, r upr q w/o penet perit cav, init",2024-04-18
+Shanon,Altan Emel,,Basil,"Laceration of urethra, sequela",2024-06-27
+Moss,Nijmegen,Provincie Gelderland,Canary,"Unspecified dislocation of right ulnohumeral joint, sequela",2024-04-01
+Valentine,Norberg,Västmanland,Mendota,Pseudohypoparathyroidism,2024-02-07
+Cally,Ciudad Darío,,Tennyson,"Displacmnt of artif skin grft /decellular alloderm, init",2024-09-11
+Zane,Fier-Çifçi,,Golf Course,Damage to pelvic organs and tiss fol an ect and molar preg,2024-01-10
+Kristoffer,Marignane,Provence-Alpes-Côte d'Azur,Roth,"Corrosion of first degree of unspecified ankle, subs encntr",2023-12-03
+Randy,Ar Rawnah,,Porter,Intestinal strongyloidiasis,2023-11-30
+Christina,Changgou,,Meadow Ridge,"Glaucoma secondary to oth eye disorders, bi, mild stage",2024-05-11
+Alwin,Sumbuya,,Jenna,"Mycosis fungoides, extranodal and solid organ sites",2024-01-21
+Roseline,Simod,,Westport,Corrosion of second degree of trunk,2024-04-25
+Rochella,Bachuan,,Hanover,Laceration of popliteal vein,2024-03-31
+Hillier,Youxikou,,Daystar,"Conjunctival concretions, right eye",2024-03-06
+Erik,Chengkou,,Talisman,Systemic bartonellosis,2024-11-23
+Otto,Camachile,,David,"Intermittent hydrarthrosis, right elbow",2023-12-16
+Iormina,Bunisari,,Little Fleur,"Sltr-haris Type III physeal fracture of r calcaneus, sequela",2023-12-19
+Cash,Kalisari,,1st,Oth abnormal findings in specmn from female genital organs,2024-08-24
+Lacee,Paris 11,Île-de-France,Crowley,"Unsp fx head of r femr, 7thH",2024-05-12
+Karilynn,Verdizela,Setúbal,Prairieview,"Laceration of blood vessel of left thumb, initial encounter",2024-01-31
+Steward,Viseu,,Stang,"Displ osteochon fx r patella, subs for clos fx w routn heal",2024-05-27
+Mathian,Taraš,,Harper,"Oth meniscus derangements, unsp lateral meniscus, right knee",2024-01-16
+Rodolfo,Ngeru,,Butternut,Assault by steam or hot vapors,2024-02-17
+Stephen,Rybinsk,,Atwood,Intentional collision of motor vehicle with train,2024-11-27
+Ibby,Agraharam,Andhra Pradesh,Hoard,Folliculitis decalvans,2024-03-30
+Emlyn,Sangiyn Dalay,,Maryland,"Nondisp fx of base of fifth metacarpal bone. left hand, init",2024-05-28
+Bab,Vilarinho,Coimbra,Shelley,"Type 1 diab with diab mclr edema, resolved fol trtmt, unsp",2024-01-23
+Ileana,Sutton,England,2nd,"Other superficial bite of breast, unsp breast, sequela",2024-07-26
+Meris,Kafr Şaqr,,Goodland,"Localized swelling, mass and lump, unspecified",2024-01-29
+Brittni,Esperança,,1st,Ultralt/microlt/pwr-glider crash injuring occupant,2024-08-09
+Barny,Otradnyy,,Autumn Leaf,Salter-Harris Type IV physeal fracture of right metatarsal,2024-05-22
+Vannie,Nanmen,,Lakewood Gardens,Other physeal fracture of lower end of left fibula,2024-04-26
+Shaughn,Ngelak,,Carberry,"Unspecified dislocation of right ring finger, init encntr",2024-02-08
+Symon,Soutelo,Viana do Castelo,Village Green,"Fibrous dysplasia (monostotic), other site",2024-01-06
+Portia,Amfíkleia,,North,"Nondisp fx of intermed cuneiform of unsp ft, 7thK",2024-07-28
+Valaree,Oetua,,Carpenter,"Contusion of thoracic trachea, subsequent encounter",2024-02-24
+Edwin,Skhirat,,Carioca,"Matern care for damag to fts from viral dis in mother, unsp",2023-12-23
+Gerda,Seymchan,,Miller,"Felty's syndrome, left wrist",2024-07-03
+Ruy,Sājir,,Weeping Birch,"Fracture of xiphoid process, subs for fx w delay heal",2024-05-03
+Jena,Estoi,Faro,Lerdahl,Other sprain of other and unspecified finger(s),2024-08-14
+Ailbert,Yur’yev-Pol’skiy,,Lyons,"Unsp inj msl/fasc/tnd post grp at thi lev, unsp thigh, subs",2024-09-29
+Erny,Aqsay,,Armistice,Legal intervention involving other specified means,2024-05-29
+Valma,Shaliangzi,,Carey,"Nondisp fx of sternal end r clavicle, 7thD",2024-10-04
+Ingelbert,Trindade,,Algoma,"Burn first degree of unsp mult fngr (nail), inc thumb, sqla",2024-10-21
+Lanette,Melres,Porto,Oakridge,"Burn first deg of shldr/up lmb, ex wrs/hnd, unsp site, init",2024-07-25
+Luise,Alpedrinha,Castelo Branco,Troy,Flaccid hemiplegia affecting left dominant side,2023-12-20
+Jakob,San Miguel de Tucumán,,Shoshone,"Non-ABO incompat react due to tranfs of bld/bld prod, unsp",2024-04-07
+Farand,Jiupu,,Wayridge,Toxoplasmosis with other organ involvement,2024-01-01
+Cedric,Málaga,,Grim,"Oclr lac/rupt w prolaps/loss of intraoc tissue, l eye, sqla",2024-06-17
+Job,Bendo,,Dwight,Open bite of right cheek and temporomandibular area,2023-12-26
+Theressa,Taitung City,,Bowman,"Other acute osteomyelitis, left femur",2024-07-16
+Tanitansy,Huangyang,,Esch,"Displaced spiral fx shaft of ulna, right arm, sequela",2024-07-17
+Heywood,Huangqu,,Forster,"Oth fx l low leg, subs for opn fx type I/2 w nonunion",2024-05-05
+Babbette,Washington,District of Columbia,Shelley,"Sprain of anterior cruciate ligament of left knee, init",2024-01-02
+Shae,Sainte-Sophie,Québec,Continental,"Injury of axillary nerve, right arm, sequela",2024-01-31
+Ardra,Lào Cai,,Kipling,"Contusion of left great toe without damage to nail, sequela",2024-08-24
+Alwyn,Sapang Buho,,Granby,"Acquired atrophy of fallopian tube, unspecified side",2024-05-25
+Giselbert,Pakis,,Ridgeview,Non-prs chronic ulcer oth prt l low leg w necrosis of muscle,2024-11-14
+Nydia,Opechenskiy Posad,,Grasskamp,Malignant neoplasm of isthmus uteri,2024-07-15
+Imogene,Áno Kalentíni,,Mariners Cove,"Laceration of unsp musc/fasc/tend at shldr/up arm, left arm",2024-05-28
+Arabela,Shiraoka,,Mockingbird,"Rheumatoid bursitis, multiple sites",2024-08-17
+Trudey,Ulapes,,Valley Edge,"Nondisp bicondylar fx unsp tibia, 7thH",2024-09-17
+Stanislaw,Bełk,,Dakota,"Occ of rail trn/veh injured by fall from rail trn/veh, subs",2024-11-06
+Pembroke,Ndeaboh,,Lukken,"Disp fx of lateral condyle of r femr, 7thQ",2024-09-02
+Nat,New York City,New York,Sauthoff,"Decreased fetal movements, second trimester, other fetus",2024-07-27
+Yetty,Boston,Massachusetts,Dunning,"Athscl nonbiol bypass of the extrm w gangrene, bi legs",2024-05-28
+Aili,South Bend,Indiana,Hooker,Monoplg low lmb fol unsp cerebvasc dis aff right nondom side,2024-07-16
+Suki,Ulset,Hordaland,Warbler,"Nodlr lymphocy predom Hdgkn lymph,nodes of ing rgn & low lmb",2023-12-20
+Ondrea,Añatuya,,Miller,"Chronic gout due to renal impairment, knee",2024-09-25
+Meridel,Damasak,,Gulseth,"Nondisp fx of base of second MC bone, right hand, init",2024-11-07
+Collete,Giesteira,Santarém,Browning,Emotional disorders with onset specific to childhood,2023-12-02
+Leoine,La Jagua de Ibirico,,Randy,"Separation of muscle (nontraumatic), left ankle and foot",2023-12-04
+Jennilee,Kaédi,,Eagle Crest,"Mitochondrial myopathy, not elsewhere classified",2024-09-09
+Coral,Itapé,,Golden Leaf,"Derang of unsp medial mensc due to old tear/inj, unsp knee",2024-02-13
+Celisse,Sanshan,,Bultman,"Unsp subluxation of unsp ulnohumeral joint, init encntr",2023-12-16
+Agnola,Tópaga,,Corben,"Oth specific arthropathies, NEC, ankle and foot",2024-07-22
+Fritz,Waldbredimus,,4th,"Poisoning by thyroid hormones and substitutes, accidental",2024-02-20
+Karen,Sezemice,,Stuart,Obstructed labor due to other multiple fetuses,2023-12-12
+Skipton,Porvenir,,Transport,"Oth fracture of right ischium, subs for fx w routn heal",2024-11-17
+Ambrosius,Gaopu,,Morrow,"Displ intertroch fx r femr, 7thM",2024-04-27
+Norry,Krrabë,,Spaight,"Toxic effect of fusel oil, assault",2024-05-13
+Kendall,Pedra Branca,,Shasta,"Unspecified obstruction of Eustachian tube, left ear",2024-04-20
+Gigi,Kongsvinger,Hedmark,Crownhardt,"Pressure ulcer of right buttock, stage 2",2023-11-29
+Karola,Saint-Quentin-en-Yvelines,Île-de-France,4th,"Animal-rider injured in collision w rail trn/veh, init",2023-12-06
+Dianna,Novoarkhanhel’s’k,,Sage,Other and unspecified corneal edema,2024-05-09
+Winifield,Oumé,,Division,Intestine transplant failure,2024-11-27
+Keeley,Karis,,Mcbride,"Superficial foreign body of left hand, sequela",2024-11-16
+Lani,Zhulebino,,Leroy,Adhesive right middle ear disease,2024-04-28
+Regen,Crespo,,Duke,Abn lev drug/meds/biol subst in specmn from male gntl organs,2024-08-21
+Fawn,Nice,Provence-Alpes-Côte d'Azur,Forest,"Oth injuries of abdomen, low back, pelvis and extrn genitals",2024-10-23
+Berni,Oymak,,Stoughton,Leakage of other cardiac and vascular devices and implants,2024-05-17
+Cherianne,Néa Péramos,,Center,"Lordosis, unspecified",2024-05-11
+Woodie,Pilar,,Sheridan,Fracture of proximal phalanx of thumb,2024-10-06
+Charlton,Chengfeng,,Boyd,"Unsp fx head of unsp femur, init for opn fx type 3A/B/C",2024-03-16
+Auberon,Piancheng,,Becker,Chronic nephritic syndrome w diffuse mesangiocap glomrlneph,2024-01-13
+Carolin,Coris,,Towne,"Other chronic osteomyelitis, right ankle and foot",2024-05-20
+Rorie,Covas da Raposa,Setúbal,Onsgard,Underdosing of antidotes and chelating agents,2024-11-09
+Maggi,Sukaharja,,Monument,"Inj cutan sensory nerve at ank/ft level, unsp leg, init",2024-08-13
+Freddy,Cambebba,,Mccormick,"Osteopathy in diseases classified elsewhere, multiple sites",2024-03-28
+Gloriana,Nacaome,,Thackeray,"Congenital malformation of kidney, unspecified",2024-01-29
+Mariana,Kuala Pilah,Negeri Sembilan,Carey,"Unsp mtrcy rider injured in clsn w ped/anml nontraf, sequela",2024-01-07
+Robin,Kolonnawa,,Buena Vista,Other specified injury of renal blood vessel,2024-06-14
+Bonita,Magrath,Alberta,Elka,"Drowning and submersion due to fall off sailboat, subs",2024-02-10
+Celestia,Punta Hermosa,,Oxford,"Unsp inj flexor musc/fasc/tend at forarm lv, left arm, init",2024-03-17
+Camel,Beishan,,Mitchell,"Inj extn/abdr musc/fasc/tend of thmb at forearm level, init",2024-10-10
+Marcella,Užice,,Daystar,"Maternal care for fetal problem, unsp, third trimester, oth",2024-07-30
+Tedie,Alarobia,,Meadow Ridge,"Diabetes with mild nonp rtnop with macular edema, bilateral",2024-11-15
+Loy,Pavlovskaya,,Lotheville,Complicated headache syndromes,2024-08-20
+Alleen,Sukowidodo Barat,,Hintze,Contact with and (suspected) exposure to hazardous metals,2024-03-22
+Amerigo,Laval,Pays de la Loire,Hallows,"Migraine with aura, not intractable, with status migrainosus",2024-07-11
+Delly,Bayan Hure,,Troy,"Crushing injury of unspecified hip with thigh, sequela",2024-03-08
+Ingrim,Namangan Shahri,,Vermont,"Minor laceration of right carotid artery, sequela",2024-05-28
+Mahalia,Tulungagung,,Stone Corner,"Age-related osteopor w current path fracture, r shoulder",2024-06-13
+Casie,Frydrychowice,,Buena Vista,Tetracyclic antidepressants,2024-01-27
+Merilee,Tim,,Algoma,"Unsp opn wnd r bk wl of thorax w penet thoracic cavity, subs",2024-11-04
+Nollie,Chapayeve,,Almo,Oth traum displ spondylolysis of seventh cervcal vertebra,2024-04-03
+Kent,Lerrnanist,,Hoffman,"Displ intertroch fx unsp femr, 7thR",2024-06-03
+Dewie,Satu Nou,Vaslui,Sutherland,Autonomic neuropathy in diseases classified elsewhere,2024-05-08
+Ozzy,Sandviken,Gävleborg,Oriole,Fracture of T11-T12 vertebra,2023-12-19
+Kiele,Ornontowice,,Schmedeman,"Lacerat long flexor musc/fasc/tend l thm at wrs/hnd lv, subs",2024-09-14
+Courtnay,Bochum,Nordrhein-Westfalen,Londonderry,Aortopulmonary septal defect,2024-08-03
+Camile,Kuštilj,,Vahlen,"Monocytic leukemia, unspecified in relapse",2024-05-06
+Hayward,Jiumen,,Thackeray,"Other skateboard accident, subsequent encounter",2024-06-04
+Anabel,Jēkabpils,,Bobwhite,"Occup of hv veh injured in collision w unsp mv in traf, init",2024-10-07
+Abdul,Bacelo,Porto,Thompson,"Struck by other nonvenomous marine animals, sequela",2024-06-11
+De witt,Bengtsfors,Västra Götaland,Lakewood Gardens,"Dislocation of T6/T7 thoracic vertebra, subsequent encounter",2024-08-06
+Grantham,Fulu,,Barnett,"Other contact with other nonvenomous reptiles, init encntr",2024-08-02
+Leese,Elena,,Transport,"Disp fx of med condyle of l tibia, 7thK",2024-05-01
+Rob,Suphan Buri,,Bonner,Loose body in left shoulder,2024-04-07
+Siward,Tsingoni,,Sachtjen,"Papyraceous fetus, second trimester, fetus 5",2024-04-12
+Hestia,Monte Leite,Lisboa,Warrior,Osteitis deformans of shoulder,2024-08-22
+Stearn,Qiaotou,,Melrose,"Thiamine deficiency, unspecified",2024-09-30
+Thacher,Mehtar Lām,,Algoma,"Other fracture of fourth metacarpal bone, left hand",2024-05-04
+Sheffie,Calubcub Dos,,Stang,"Pedl cyc pasngr injured in clsn w oth pedl cyc in traf, init",2024-07-17
+Chiarra,Ouro Preto do Oeste,,Cody,"Contus/lac/hem brainstem w LOC of 6-24 hrs, sequela",2024-10-11
+Malissa,Castelo de Vide,Portalegre,Jay,"Blister (nonthermal) of breast, left breast, subs encntr",2024-07-12
+Lisbeth,Chengkou,,Harper,"Stenosis due to genitourinary prosth dev/grft, sequela",2024-10-16
+Louisa,Hartford,Connecticut,Vera,"Contusion of unsp little finger w damage to nail, init",2024-03-28
+Christie,Borås,Västra Götaland,Myrtle,Abrasion of other part of head,2024-07-10
+Alvan,Hamburg,Hamburg,Village Green,Leakage of femoral arterial graft (bypass),2024-03-22
+Mitchael,Horgo,,Holy Cross,Adjustment disorder with mixed anxiety and depressed mood,2024-05-31
+Dougy,Peredovaya,,Randy,"Partial traumatic amputation of scrotum and testis, subs",2024-08-19
+Katha,Omurtag,,Hansons,"Disp fx of unsp ulna styloid pro, 7thR",2024-02-18
+Wakefield,Nanganumba,,Moulton,Corrosion of unspecified degree of left thigh,2024-02-24
+Katinka,Altıağac,,Manley,"2-part nondisp fx of surgical neck of right humerus, sequela",2024-04-25
+Curtis,Putrajaya,Putrajaya,Kim,"Nondisplaced articular fracture of head of unsp femur, init",2024-04-17
+Raff,Manadhoo,,Esch,"Laceration without foreign body of right elbow, subs encntr",2024-02-03
+Graig,Gaoqiao,,East,Heart transplant rejection,2024-04-09
+Jo-ann,Campbellton,New Brunswick,Evergreen,"Familial chondrocalcinosis, right wrist",2023-12-16
+Emory,Huallanca,,Warrior,Other seborrheic dermatitis,2024-07-06
+Zacherie,København,Region Hovedstaden,American,"Displaced dome fx unsp acetabulum, subs for fx w delay heal",2024-01-30
+Callean,Batangtoru,,Sauthoff,"Periprosth fx around internal prosth r elbow joint, init",2024-03-21
+Blair,Farap,,Scott,"Poisoning by penicillins, intentional self-harm, init encntr",2024-05-19
+Dorian,Larkird,,Transport,"Occup of pk-up/van inj in clsn w unsp mv in traf, sequela",2023-12-03
+Emmey,Gunung Sugih,,Butterfield,"Toxic effect of contact with venomous frog, assault",2024-01-09
+Lyndsie,Zhongdong,,Ryan,"Adhes due to fb acc left in body fol unsp procedure, subs",2024-02-19
+Lorita,Foros da Catrapona,Setúbal,Farragut,"Other injury of descending [left] colon, initial encounter",2024-02-11
+Nikki,Tafí del Valle,,Mitchell,"Oth fx upper end of right ulna, init for opn fx type I/2",2024-05-24
+Agustin,Ayapel,,Cordelia,"Nondisp dome fx left talus, subs for fx w delay heal",2023-12-28
+Marya,Caluquembe,,Duke,Deposits [accretions] on teeth,2024-07-13
+Wenonah,Caaguazú,,La Follette,"Displ spiral fx shaft of rad, unsp arm, 7thP",2024-01-10
+Frasco,Camden,New Jersey,Mallory,"Toxic eff of fluorine gas and hydrogen fluoride, asslt, subs",2023-12-21
+Mychal,Cartagena del Chairá,,Petterle,Predominantly alpha-adrenoreceptor agonists,2024-07-05
+Eloisa,Isiolo,,Maryland,"Nondisp fx of intermed cuneiform of unsp ft, 7thK",2024-09-08
+Moria,Farsta,Stockholm,Straubel,"Abrasion, right thigh, subsequent encounter",2024-08-17
+Gawen,Amfíkleia,,Glacier Hill,"Other fracture of occiput, unspecified side, 7thB",2024-06-25
+Laurence,Borgholm,Kalmar,Stephen,"Unqualified visual loss, left eye, normal vision right eye",2024-09-11
+Merrill,Xinxu,,Coolidge,"Corrosion of first degree of unspecified foot, subs encntr",2024-02-09
+Jacquelynn,Melaka,Melaka,Morrow,"Coma scale, best motor, obeys commands, in the field",2024-09-26
+Rosalynd,Węgrzce Wielkie,,New Castle,"Trigger finger, little finger",2023-12-10
+Donnell,Karagandy,,Little Fleur,"Toxic effect of mycotoxin food contamnt, undetermined, subs",2024-03-22
+Cyndia,Tānk,,Clove,"Laceration w/o fb of right eyelid and periocular area, subs",2024-04-19
+Jarid,Gardēz,,Mariners Cove,"Poisoning by unsp drug/meds/biol subst, assault, init",2024-01-14
+Ferdy,Oromocto,New Brunswick,Westridge,"Toxic effect of smoke, intentional self-harm, init encntr",2024-06-30
+Jenine,Vitória da Conquista,,Novick,Attn and concentration deficit following ntrm subarach hemor,2024-02-17
+Garold,Shanghe,,Crowley,"Path fx in oth disease, l fibula, subs for fx w malunion",2024-07-10
+Yetta,Banjarmasin,,Saint Paul,"Poisn by antimalari/drugs act on bld protzoa, slf-hrm, init",2024-09-04
+Dotty,Ludvika,Dalarna,Gulseth,"Periprosth fracture around other internal prosth joint, subs",2024-08-29
+Stewart,Gudang,,Northport,"Nondisp suprcndl fx w intrcndl extn low end l femr, 7thJ",2024-11-09
+Ardyce,Santo Amaro,Guarda,8th,Other intraoperative complications of genitourinary system,2024-01-30
+Jerry,Podgornoye,,Buhler,"Exposure to sofa fire due to unsp burning material, init",2024-10-03
+Alta,Fushë-Muhurr,,Vahlen,Breakdown (mechanical) of int fix of bone of right forearm,2024-10-18
+Nealy,Pangao,,Lindbergh,"Preterm newborn, gestational age 28 completed weeks",2024-05-28
+Rodolph,Algarrobo,,Independence,Displ suprcndl fracture w intrcndl extn lower end of r femur,2024-04-22
+Abie,Rublëvo,,Magdeline,"Other reactive arthropathies, right elbow",2024-06-02
+Inge,Quebradas,Lisboa,Wayridge,Rh incompatibility with hemolytic transfusion reaction,2024-02-13
+Heriberto,Angao,,Macpherson,Pain in left wrist,2024-02-21
+Alain,Maroua,,Briar Crest,Postthrom syndrome w ulcer and inflammation of r low extrem,2024-03-03
+Marius,Quinta,Viana do Castelo,Debs,"Abrasion, unspecified lower leg, subsequent encounter",2024-05-16
+Gustavus,Malo,,Dahle,"Pressure ulcer of left elbow, stage 3",2023-11-29
+Agnola,Sam Chuk,,Burning Wood,"Disp fx of less trochanter of r femr, 7thD",2024-08-03
+Victor,Nóvita,,Main,"Other contact with cow, initial encounter",2024-06-12
+Bea,Demba,,Mallard,"Inj extensor musc/fasc/tend l rng fngr at wrs/hnd lv, init",2024-01-08
+Kyrstin,Kokaj,,Butternut,Moderate laceration of head of pancreas,2023-12-16
+Kiersten,Pingyin,,Express,"Oth disp fx of upr end unsp humer, subs for fx w delay heal",2024-08-02
+Margie,Cibeureum,,Prentice,"Glaucoma secondary to eye inflam, right eye, stage unsp",2024-01-03
+Elsie,Nobinobi,,Manufacturers,"Nondisp seg fx shaft of l tibia, init for opn fx type I/2",2024-09-20
+Marcelle,Baytīn,,Golf View,"Oth injury of peroneal artery, right leg, subs encntr",2024-02-03
+Kathy,Opatów,,Hanover,Other specified mononeuropathies of left upper limb,2024-06-25
+Wileen,Naqadeh,,Golf View,"Complete traumatic trnsphal amputation of finger, sequela",2023-12-25
+Germaine,Plagiári,,Dapin,"Barton's fx unsp radius, subs for opn fx type I/2 w nonunion",2024-09-29
+Timmi,Burhānuddin,,Schiller,Eczematous dermatitis of right lower eyelid,2024-09-13
+Norine,Thomassique,,Miller,"Recurrent dislocation, right wrist",2024-06-02
+Lonny,Dalumangcob,,Artisan,Other specific personality disorders,2024-06-17
+Elnar,Zhongdeng,,Heath,Corrosion of second degree of right ankle and foot,2024-05-10
+Lucia,Tabanan,,Village,"Nondisp transverse fx shaft of r ulna, 7thQ",2024-07-16
+Aloise,Nowy Sącz,,Randy,"Disp fx of med phalanx of r rng fngr, subs for fx w nonunion",2023-12-20
+Marlo,Melrose,,Bluestem,"Nondisp commnt fx shaft of l fibula, 7thM",2024-06-21
+Fax,Mafraq,,Namekagon,"Disp fx of lateral condyle of l humer, 7thK",2023-12-22
+Britt,Pittsburgh,Pennsylvania,Crescent Oaks,Laceration with foreign body of vocal cord,2024-04-28
+Cornelius,Meylan,Rhône-Alpes,Fulton,"Unspecified open wound, unspecified ankle, initial encounter",2024-04-18
+Gilberto,Aqqan,,Namekagon,"Inj musc/tend ant grp at low leg level, unsp leg, sequela",2024-08-11
+Camel,Kuaro,,Ronald Regan,"Oth comp specific to multiple gest, unsp trimester, fetus 2",2024-09-03
+Teddie,Makariv,,Service,"Other specified injury of portal vein, sequela",2024-09-01
+Dona,Klenica,,Pennsylvania,"Blister (nonthermal), unspecified knee, subsequent encounter",2024-01-19
+Celeste,San Eugenio,,Main,Encounter for immunization,2024-08-10
+Glynn,Santa Cruz,,Linden,"Poisn by predom beta-adrenocpt agonists, assault, sequela",2023-11-28
+Laney,Ditsaan,,Truax,Encntr screen for genetic and chromosomal anomalies,2024-05-03
+Knox,Bousso,,Hagan,"Activity, cross country skiing",2024-01-28
+Kennie,Al Mazra‘ah ash Sharqīyah,,Welch,"Nondisp fx of unsp radial styloid pro, 7thE",2024-10-08
+Cori,Paka,,Sommers,"Cervical disc disorder, unspecified",2024-04-04
+Cori,Dobroměřice,,Fallview,"Corros 3rd deg mu right fingers (nail), inc thumb, init",2023-12-31
+Jonah,Chelu,,Ridgeway,"Other dislocation of right ulnohumeral joint, sequela",2024-09-05
+Krissie,San Miguel,Michoacan De Ocampo,Petterle,"Diffuse TBI w LOC w death due to oth cause bf consc, subs",2024-08-22
+Dov,Rešetari,,Chive,"Aggressive periodontitis, generalized, moderate",2024-03-18
+Aleta,‘Afula ‘Illit,,Bayside,Burns of other specified parts of eye and adnexa,2023-12-20
+Adelina,Madalena do Mar,Ilha da Madeira,Sutherland,"Terrorism involving suicide bomber, civilian injured, subs",2024-08-28
+Margette,Jinjiang,,Tony,"Disp fx of triquetrum bone, right wrist, init for opn fx",2024-10-12
+Rene,Salgado,,Tennessee,"Unsp injury of unspecified vertebral artery, init encntr",2024-04-30
+Yehudit,Madoi,,Homewood,"Poisoning by keratolyt/keratplst/hair trmt drug, self-harm",2024-05-12
+Morley,Kariat Arkmane,,Northfield,"Unsp car occupant injured in clsn w SUV in traf, sequela",2024-10-29
+Franky,Bella Vista,,School,"External constriction of unsp parts of thorax, sequela",2024-01-25
+Adolf,Xinchengzi,,Dottie,"Fracture of one rib, unsp side, init for opn fx",2024-07-23
+Wally,Fray Bentos,,Pankratz,"Unsp fracture of left femur, init for opn fx type I/2",2024-07-22
+Rowena,Kanuma,,Coleman,Sickle-cell thalassemia,2024-11-13
+Giorgi,Baiqi,,Farragut,"Struck by other psittacines, sequela",2024-06-11
+Riordan,Casal da Serra,Lisboa,Calypso,"Poisoning by inhaled anesthetics, accidental, init",2024-02-29
+Merry,Diré,,Portage,Tick-borne relapsing fever,2024-01-20
+Tammie,Podgorenskiy,,Sheridan,"Other peripheral vertigo, unspecified ear",2024-08-09
+Saunderson,Bachok,Kelantan,Manitowish,"Miscellaneous gen/plast-surg devices assoc w incdt, NEC",2024-10-31
+Nico,Nanyang,,Russell,"Injury of other cranial nerves, right side, subs encntr",2024-11-20
+Kingsley,Hepu,,Jenna,"Laceration w fb of r mid finger w damage to nail, init",2024-02-28
+Felizio,Pekijing,,South,"Torus fx lower end of r radius, subs for fx w delay heal",2024-11-23
+Ingar,Suugaant,,Maywood,Crohn's disease of both small and lg int w rectal bleeding,2023-12-04
+Sandor,Yuanling,,Florence,"Nondisp fx of lateral cuneiform of l ft, 7thG",2024-01-25
+Kelsey,Asamankese,,Carpenter,"Rh incompatibility w acute hemolytic transfs react, init",2023-12-10
+Homerus,Ajaccio,Corse,American,"Displaced bicondylar fx left tibia, init for opn fx type I/2",2024-07-14
+Alice,Ungus-Ungus,,Forest Dale,"Unsp fracture of shaft of r radius, init for opn fx type I/2",2024-08-26
+Yule,Santa Brigida,,Spaight,"Strain of extn musc/fasc/tend at forearm level, unsp arm",2024-09-01
+Finlay,Fada,,Prairieview,"Oth disorders of bone development and growth, unsp ank/ft",2024-10-16
+Chantal,Balatero,,Schurz,"Occ of rail trn/veh injured due to oth railway acc, init",2024-01-23
+Chicky,Emiliano Zapata,Tamaulipas,Roth,"Accidental malfunction of machine gun, initial encounter",2024-02-25
+Pancho,Munjungan,,Spaight,"Thor, thrclm & lumbosacr intvrt disc disord w radiculopathy",2024-05-10
+Lia,Muzi,,Mayer,Fall into natural body of water striking bottom,2024-10-05
+Artair,Spassk-Dal’niy,,Prentice,"Optic papillitis, unspecified eye",2023-12-11
+Lenee,Nkhotakota,,Clyde Gallagher,"Displacement of prosthetic orbit of left eye, init encntr",2024-05-01
+Winne,Vaasa,,Service,"Nondisp fx of base of fifth MC bone. left hand, sequela",2023-12-05
+Heather,Leribe,,Meadow Ridge,"Unsp pedl cyclst inj in clsn w statnry object in traf, init",2024-05-19
+Alyosha,Pulau Pinang,Pulau Pinang,Shoshone,"Oth mature T/NK-cell lymphomas, intra-abdominal lymph nodes",2024-11-21
+Chucho,Liangwa,,Service,Cauda equina syndrome,2024-08-02
+Anton,Tatuí,,Merrick,Unspecified parasitic disease,2024-06-30
+Stanislas,Quillabamba,,Knutson,"Other superficial bite of ankle, right ankle, subs encntr",2024-03-15
+Fulton,Bayan,,Becker,"Unsp effects of drowning and nonfatal submersion, init",2024-07-03
+Rubetta,Lom Sak,,Everett,Other specified injuries of ankle,2024-05-07
+Marybelle,Kalaxilike,,Talmadge,"Unsp opn wnd l frnt wl of thorax w/o penet thor cavity, init",2024-10-11
+Frederica,Burunday,,Washington,"Disloc of prox interphaln joint of r little finger, sequela",2023-12-23
+Cleve,Wu’erqihan,,Gale,"Nondisp fx of med condyle of r femr, 7thD",2024-06-09
+Jo,Volksrust,,Esch,"Nondisp fx of lateral condyle of left humerus, init",2024-02-25
+Jori,Zvenyhorodka,,Towne,Progressive external ophthalmoplegia,2024-02-29
+Francoise,Labo,,Upham,"Diseases of the circ sys comp pregnancy, third trimester",2024-06-14
+Koo,Ballina,,Barnett,"Oth specific arthropathies, not elsewhere classified, elbow",2024-07-26
+Karel,Arroyo Seco,,Fairfield,"Pnctr w foreign body of unsp cheek and TMJ area, init",2023-12-12
+Kris,Ippy,,Springview,Corrosion of first deg mult sites of left ankle and foot,2024-07-10
+Edythe,Valeirinha,Coimbra,Fordem,Other specified injury of blood vessel of right thumb,2024-07-29
+Roobbie,Jishan,,Clarendon,"Sltr-haris Type II physl fx upr end humer, r arm, 7thD",2024-03-04
+Noach,Nowe Miasto nad Pilicą,,Loomis,"Nondisp fx of base of nk of r femr, 7thM",2024-03-04
+Ortensia,Géfyra,,Sachs,"Follicular lymphoma, unsp, lymph nodes of multiple sites",2024-02-04
+Collete,Xiqi,,Garrison,"Idiopathic chronic gout, unspecified hip, with tophus",2024-11-27
+Jorey,Duluth,Georgia,Karstens,Long term (current) use of oral hypoglycemic drugs,2024-05-06
+Delora,Gândara,Viseu,Del Mar,"Anaphylactic reaction due to food additives, subs encntr",2024-03-26
+Rozina,Abadou,,Macpherson,Laceration w/o fb of left lesser toe(s) w damage to nail,2024-10-06
+Esme,Sedkyrkeshch,,Logan,"Disloc of distal interphaln joint of r little finger, sqla",2024-05-23
+Karylin,Paradahan,,Granby,Displaced fracture of distal phalanx of right lesser toe(s),2024-10-29
+Stephan,Ipueiras,,Northfield,"Other contact with other mammals, initial encounter",2024-07-10
+Valli,Göteborg,Västra Götaland,Paget,"Sltr-haris Type II physeal fracture of left metatarsal, 7thP",2024-02-14
+Aron,La Romana,,Center,"Displ commnt fx shaft of rad, r arm, 7thE",2024-06-19
+Sabine,Staryy Dobrotvir,,Debra,Contact with electric knife,2024-09-22
+Sterling,Sacramento,California,Rockefeller,"Infect/inflm react due to oth int orth prosth dev/grft, init",2024-11-26
+Josselyn,Pedra,Viana do Castelo,Lukken,"Necrotizing enterocolitis in newborn, unspecified",2024-10-02
+Kenna,Pontevedra,Galicia,Di Loreto,"Other fracture of right foot, 7thP",2024-07-13
+Adrienne,Fraile Pintado,,Crest Line,"Corros unsp deg mult sites of unsp lower limb, except ank/ft",2024-10-02
+Marthena,Río Ceballos,,Buena Vista,"Displ seg fx shaft of ulna, unsp arm, 7thM",2024-11-19
+Steffie,Orlovskiy,,Kings,"Polyhydramnios, first trimester",2024-10-24
+Sutton,Chitré,,Victoria,"Nondisp fx of med malleolus of l tibia, 7thQ",2024-10-14
+Kyle,Chachoengsao,,Morning,Calculus of GB and bile duct w acute cholecyst w/o obst,2024-02-09
+Eziechiele,Jingouhe,,Anhalt,"Primary cyst of pars plana, unspecified eye",2024-09-18
+Ailee,Hujirt,,Mallard,Obturator dislocation of unspecified hip,2023-12-06
+Peter,Smiths Falls,Ontario,Judy,"Nondisp fx of anterior wall of unsp acetabulum, sequela",2024-02-12
+Tann,Zamostochcha,,Heffernan,"Stress fracture, right fibula, sequela",2024-11-12
+Noland,San Francisco,,Brown,"Displ spiral fx shaft of l tibia, init for opn fx type I/2",2024-01-17
+Natalie,Čeladná,,Spenser,"Primary blast injury of sigmoid colon, subsequent encounter",2024-08-29
+Meriel,Naro-Fominsk,,Cottonwood,"Stress fracture, left foot, subs for fx w delay heal",2024-11-05
+Amerigo,Guohuan,,Hagan,"Toxic effect of phenol and phenol homologues, accidental",2024-08-27
+Tamara,Baisha,,Saint Paul,"Poisoning by enzymes, undetermined, initial encounter",2024-01-03
+Karlen,Beiwucha,,Sachs,"Acute hematogenous osteomyelitis, other sites",2024-08-20
+Nils,Strogino,,5th,"2-part nondisp fx of surgical neck of left humerus, sequela",2023-11-30
+Niles,Xingang,,Portage,"Congenital malformation of bony thorax, unspecified",2024-09-04
+Brooke,Sainte-Anne-des-Monts,Québec,Carpenter,"Body mass index (BMI) 70 or greater, adult",2024-04-20
+Cathe,Biliran,,Linden,"Sedatv/hyp/anxiolytc dependence w psychotic disorder, unsp",2024-06-15
+Rogerio,Zhanxu,,2nd,"Stress fracture, unspecified toe(s), sequela",2024-04-09
+Lina,Hexi,,Monica,"Nondisp oblique fx shaft of l tibia, 7thP",2024-04-01
+Uta,Iranduba,,Dexter,Lichen planopilaris,2024-10-06
+Berti,Shiyan,,Maple Wood,Mtrcy passenger injured in collision w rail trn/veh nontraf,2024-03-20
+Israel,Timbrangan,,Ridgeway,"Sltr-haris Type III physl fx upr end l tibia, 7thD",2024-04-29
+Vassili,Zargarān,,Barby,"Assault by knife, sequela",2024-09-12
+Glenine,Chengbei,,Burning Wood,"Simple chronic conjunctivitis, left eye",2024-01-14
+Luigi,Strezhevoy,,Bay,Furuncle of other sites,2024-10-25
+Ashia,Mambulo,,Columbus,"Partial traumatic amputation at elbow level, unsp arm, init",2024-02-15
+Doy,Oliveira,,Northview,"Assault by unarmed brawl or fight, subsequent encounter",2024-08-19
+Olag,Nanterre,Île-de-France,Oneill,"Anaphylactic reaction due to fruits and vegetables, init",2024-02-12
+Yul,Borova,,Service,"Adverse effect of opium, initial encounter",2024-08-21
+Rhetta,San Gil,,Prairie Rose,"Burn of third degree of left ear, subsequent encounter",2024-06-14
+Inigo,Slobodskoy,,Wayridge,"Malignant neoplasm of mediastinum, part unspecified",2024-06-25
+Bonita,Wuli,,Montana,Other and unsp malignant neoplasm of skin of scalp and neck,2024-05-25
+Kippar,Florestópolis,,Pepper Wood,"Fall from flat-bottomed pedestrian conveyance, init encntr",2024-05-17
+Ky,Phnom Penh,,Raven,"Other hypertrophic osteoarthropathy, unsp ankle and foot",2024-08-18
+Tyrus,Saint-Louis,Alsace,Schurz,"Nondisp fx of l ulna styloid pro, 7thF",2024-09-04
+Niels,Krasica,,Magdeline,"Disloc of unsp acromioclav jt, 100%-200% displacmnt, sequela",2024-04-23
+Laural,Lima,,Lerdahl,"Fx unsp part of nk of unsp femr, subs for clos fx w malunion",2024-09-05
+Tonya,Ayo,,Graedel,"Congenital kyphosis, occipito-atlanto-axial region",2024-03-03
+Homer,Bebekan,,Hauk,"Oth fx lower end of r tibia, subs for clos fx w routn heal",2024-03-22
+Emmet,Suugaant,,Brentwood,"Traction detachment of retina, bilateral",2024-06-17
+Murial,Dawei,,Clarendon,Cerebral infrc due to embolism of bi ant cerebral arteries,2024-01-28
+Ulises,Bratsigovo,,Rieder,Follicular lymphoma grade IIIa,2024-06-19
+Nollie,Los Dos Caminos,,Green Ridge,"Maternal care for oth fetal problems, unsp tri, fetus 5",2024-08-27
+Marijn,Kambaxoi,,Annamark,"Galeazzi's fx l rad, subs for opn fx type 3A/B/C w nonunion",2024-02-06
+Kaylyn,Tarqūmyā,,Fremont,"Sltr-haris Type III physl fx upper end humer, r arm, sqla",2024-03-03
+Reinwald,Miętne,,Scott,Maternal care for other rhesus isoimmunization,2024-07-10
+Mariel,Guay,,Esch,Arthralgia of temporomandibular joint,2024-05-06
+Felice,Augusto Corrêa,,Di Loreto,"Nondisplaced oblique fracture of shaft of unsp radius, init",2024-10-23
+Merline,Pechora,,Transport,Hb-SS disease with acute chest syndrome,2024-02-11
+Susan,Guacamaya,,Granby,"Burn of unspecified degree of right ear, sequela",2024-08-03
+Nickolaus,Putrajaya,Putrajaya,Huxley,Crushed betw canoe/kayk and oth wtrcrft/obj due to collision,2024-06-29
+Tracee,Villejuif,Île-de-France,Stuart,Sprain of unspecified ligament of ankle,2024-09-19
+Marja,Xinchengzi,,Mcbride,"Nondisp seg fx shaft of unsp fibula, 7thF",2024-06-28
+Harland,Suvorov,,Buhler,"Disp fx of epiphy (separation) (upper) of l femr, 7thN",2024-10-01
+Debby,Michałów,,Utah,"Nondisp fx of epiphy (separation) (upper) of unsp femr, 7thJ",2024-11-06
+Valentina,Tsuma,,Commercial,Other specified acquired deformities of right lower leg,2024-04-19
+Zia,Shaykh al Ḩadīd,,Spohn,"Poisoning by mineralocorticoids and antag, assault, init",2024-07-21
+Alanson,Luthu,,Bobwhite,"Laceration of ovary, unspecified, initial encounter",2024-03-02
+Catriona,Chaumont,Champagne-Ardenne,2nd,Acetonuria,2024-11-27
+Kimbra,Baolong,,Rieder,"Contact with edge of stiff paper, sequela",2024-03-10
+Noellyn,Burbank,California,Bunker Hill,"Other burn on board merchant vessel, subsequent encounter",2024-09-12
+Glynnis,Brka,,Killdeer,"Lacerat extn/abdr musc/fasc/tend of r thm at forarm lv, init",2024-04-04
+Manda,Novogurovskiy,,Village Green,"Interstitial myositis, left shoulder",2024-01-06
+Tamar,Caála,,Jay,"Ghost vessels (corneal), left eye",2023-11-30
+Flore,Skelleftehamn,Västerbotten,Paget,"Complete traumatic amputation at left hip joint, subs encntr",2024-08-06
+Gerrie,Kyaka,,Utah,"Unspecified physeal fracture of right calcaneus, 7thP",2024-06-23
+Cloris,Los Juríes,,Memorial,"Burn of third degree of unspecified axilla, subs encntr",2024-05-19
+Atlante,Tshaneni,,Barby,"Displ seg fx shaft of r fibula, 7thF",2024-03-13
+Ransom,Cane,,South,Long term (current) drug therapy,2024-01-15
+Ashlin,Xiaohe,,Mosinee,"Nondisp commnt fx shaft of ulna, r arm, 7thQ",2024-04-22
+Lanie,Priekulė,,Corscot,"Unspecified injury of unspecified elbow, initial encounter",2024-03-09
+Vachel,Kuytun,,Saint Paul,"Path fx in neopltc disease, l fibula, subs for fx w malunion",2024-06-02
+Anna-diana,Kolonowskie,,Gulseth,"Congenital absence, atresia and stenosis of prt lg int",2023-12-22
+Cort,Tullich,Scotland,Bay,"Poisoning by oth drug/meds/biol subst, self-harm, init",2024-09-15
+Kristoforo,Adolfo Lopez Mateos,Mexico,Hoffman,"Mech compl of int fix of bone of right forearm, subs",2024-09-02
+Jeni,Gurung,,International,"Car passenger injured in collision w SUV in traf, init",2024-10-16
+Yuri,Mjölby,Östergötland,Lyons,"Unsp fx left femur, subs for opn fx type I/2 w malunion",2024-04-02
+Velma,Sendangrejo,,Roxbury,"Contusion of bronchus, unilateral, sequela",2024-07-14
+Tricia,Grimshaw,Alberta,Autumn Leaf,Dermatitis due to unspecified substance taken internally,2024-11-11
+Ede,Zongga,,5th,Moderate laceration of tail of pancreas,2024-09-11
+Irvine,Strömsnäsbruk,Kronoberg,Village,"Displ unsp condyle fx low end unsp femr, 7thP",2024-07-21
+Mame,Mbandjok,,Messerschmidt,Unspecified superficial injury of vagina and vulva,2024-06-23
+Cindie,Gutang,,Debs,"Transient cerebral ischemic attack, unspecified",2024-07-01
+Herta,Duanjia,,Oak,Hypernasality and hyponasality,2024-02-08
+Cletus,Liaobu,,Bultman,"Laceration of blood vessels at ank/ft level, right leg, init",2024-07-17
+Heriberto,Sargodha,,Washington,"Staphyloma posticum, bilateral",2024-02-16
+Dorey,Rothesay Bay,,Miller,"Cont preg aft elctv fetl rdct of 1 fts or more,3rd tri, unsp",2024-06-23
+Ann-marie,Lluka e Eperme,,Ridge Oak,"Pnctr w/o fb of right thumb w damage to nail, sequela",2024-07-04
+Roscoe,Yueyang,,Columbus,Acquired deformity of pelvis,2024-09-23
+Sunshine,Loureiro,Viana do Castelo,Karstens,"Displ bimalleol fx unsp low leg, subs for clos fx w malunion",2024-04-22
+Valina,Lokossa,,Spenser,"Stress fracture, unsp shoulder, subs for fx w delay heal",2024-07-11
+Rachelle,Rockford,Illinois,Coolidge,"Dislocation of MCP joint of left middle finger, sequela",2024-05-08
+Irene,Bankeryd,Jönköping,Grasskamp,Unsp occupant of snowmobile injured in traffic accident,2023-11-28
+Cosetta,Biała Piska,,Vidon,"Rheumatoid arthritis without rheumatoid factor, right wrist",2024-04-04
+Gerrard,Hayan Hudong,,Farmco,Vitamin A deficiency w Bitot's spot and conjunctival xerosis,2024-01-21
+Isidora,Kvartsitnyy,,Anhalt,"Nondisp fx of olecran pro w/o intartic extn unsp ulna, 7thG",2024-06-28
+Kimball,Teruel,Aragon,Saint Paul,"Poisoning by cannabis (derivatives), intentional self-harm",2024-10-20
+Whitaker,Chusovoy,,Morningstar,"Discitis, unspecified, thoracic region",2024-10-09
+Lindsy,Tinabogan,,Meadow Vale,"Poisoning by calcium-channel blockers, intentional self-harm",2024-03-05
+Wally,Yamkino,,Logan,"Solar retinopathy, right eye",2024-07-30
+Blondelle,København,Region Hovedstaden,Graceland,"Type I occipital condyle fracture, left side, 7thD",2024-10-26
+Quinton,Pagak Kulon,,Brickson Park,"Traum hemor left cerebrum w LOC of 30 minutes or less, init",2024-07-14
+Tabbie,Dubki,,Golf View,"Sltr-haris Type IV physeal fx lower end of r femur, sequela",2024-04-24
+Seymour,São Francisco do Sul,,Service,"Traum hemor right cerebrum w LOC of unsp duration, init",2024-01-14
+Gregoor,Złoczew,,Crest Line,"Maternal care for unstable lie, fetus 4",2024-10-07
+Trumaine,Крушево,,Fairfield,"Unspecified injury of unspecified eye and orbit, init encntr",2024-06-25
+Miquela,Halmstad,Halland,Packers,"Temporary auditory threshold shift, left ear",2024-04-18
+Kalina,Huangtian,,Village,"Sltr-haris Type III physl fx upper end humer, unsp arm, init",2023-12-04
+Beverly,Los Angeles,California,Northview,"Other synovitis and tenosynovitis, right ankle and foot",2024-04-11
+Garret,Kayakent,,Manitowish,Displaced transverse fracture of right acetabulum,2024-02-27
+Feliks,Mungyeong,,Northwestern,Contusion of unspecified ankle,2024-11-11
+Dierdre,Umeå,Västerbotten,Lighthouse Bay,"Nondisp fx of r tibial tuberosity, 7thK",2024-10-22
+Izabel,Vitoria-Gasteiz,Pais Vasco,Schurz,Partial traumatic amp of two or more right lesser toes,2023-12-24
+Papagena,Antequera,,Sunbrook,"Otosclerosis involving oval window, nonobliterative",2024-07-04
+Carlie,Nanniu,,Corry,"Fracture of unspecified phalanx of right thumb, sequela",2024-09-13
+Rodge,Sukagawa,,Algoma,"Toxic effect of chloroform, accidental (unintentional), init",2024-01-18
+Parrnell,Tawala,,Ridgeview,Burn of first degree of buttock,2024-01-21
+Lem,Riofrío,,Fuller,"Incomplete atypical femoral fracture, left leg, 7thK",2024-11-08
+Claiborn,Semikarakorsk,,Clove,"Nondisp suprcndl fx w/o intrcndl extn low end l femr, 7thR",2024-11-19
+Ottilie,Stare Pole,,Anniversary,Sedatv/hyp/anxiolytc depend w psychotic disorder w delusions,2024-06-11
+Almire,Wuling,,Bluejay,Contus/lac/hem brainstem w/o loss of consciousness,2024-09-19
+Meris,Oibioin,,Lerdahl,"Fall from heelies, sequela",2024-08-14
+Erika,Stockholm,Stockholm,Sachs,Other physeal fracture of upper end of left femur,2024-08-26
+Mignon,Mount Frere,,Logan,"Suprvsn of preg with history of ectopic preg, unsp trimester",2023-12-14
+Carly,Nice,Provence-Alpes-Côte d'Azur,Armistice,Alcohol dependence with alcohol-induced persisting dementia,2024-11-07
+Robbin,Belozërskoye,,Dayton,"Nondisp bicondylar fx right tibia, init for opn fx type I/2",2024-07-14
+Sanford,Cidadap,,Golf,"Myositis ossificans traumatica, multiple sites",2024-01-01
+Jessica,Urrô,Porto,Manufacturers,"Jump/div into swim pool strk bottom causing oth injury, init",2024-11-13
+Estevan,Mlandizi,,Amoth,"Nondisp fx of coracoid process, unspecified shoulder",2024-01-15
+Marlena,San Antonio,Guerrero,Schlimgen,"Disease of blood and blood-forming organs, unspecified",2024-03-11
+Leroy,Tangnanzhen,,Oak,Intentional self-harm by sword or dagger,2024-08-14
+Smith,Saint-Quentin,Picardie,Graedel,"Hyperlipidemia, unspecified",2024-02-09
+Urson,Kraljevo,,Mandrake,External constriction of unspecified finger,2024-05-18
+Xerxes,Krivodanovka,,Hooker,"Other complication of vascular dialysis catheter, sequela",2024-11-03
+Shea,Ennery,,Nobel,"Toxic effect of other seafood, intentional self-harm",2024-09-27
+Fleur,Arboleda,,Buena Vista,"Strain extn musc/fasc/tend l little fngr at forarm lv, subs",2024-09-22
+Clerc,Hemudu,,Hallows,"Toxic effect of tetrachloroethylene, assault, sequela",2024-06-08
+Leigha,Consuelo,,Sundown,Malignant neoplasm of cecum,2024-05-06
+Barnabas,Trŭn,,Merchant,"Ped on foot injured in clsn w nonmtr vehicle, unsp, sequela",2024-09-07
+Fremont,Catarman,,Esker,"Unspecified subluxation of right foot, sequela",2024-04-10
+Wit,Aoluguya Ewenke Minzu,,Merchant,Unspecified effects of vibration,2024-11-24
+Zarah,Wisła,,Muir,"Zoonotic bacterial disease, unspecified",2023-12-26
+Shelton,Santa Cruz,Chiapas,Eliot,"Unsp fracture of unsp foot, subs for fx w nonunion",2024-02-19
+Quentin,Avallon,Bourgogne,Crownhardt,"Pneumococcal arthritis, shoulder",2024-05-07
+Claudine,Trondheim,Sor-Trondelag,Maryland,"Sltr-haris Type III physeal fx lower end of ulna, left arm",2024-06-11
+Mareah,Bunisari,,Everett,"Diplacusis, unspecified ear",2024-11-03
+Jacques,Kagoro,,Crest Line,"Foreign body in stomach, sequela",2024-07-13
+Rozalie,Mendeleyevsk,,Fisk,"Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss",2024-11-26
+Augusto,Maputi,,Brown,"Corrosion of third degree of unspecified elbow, init encntr",2024-08-14
+Herby,Wang Sam Mo,,Hansons,"Other streptococcal arthritis, right elbow",2024-07-12
+Aurie,Wujia,,Burrows,"External constriction of unspecified forearm, subs encntr",2024-08-25
+Tobey,Shigu,,West,Fracture of alveolus of mandible,2024-07-07
+Tressa,Troitskoye,,Thierer,"Prsn brd/alit pedl cyc injured in clsn w rail trn/veh, init",2023-12-31
+Lilllie,Rio Claro,,Vermont,"Poisoning by sulfonamides, accidental (unintentional), subs",2024-01-18
+Polly,Yongjiang,,Doe Crossing,"Disorder of aromatic amino-acid metabolism, unspecified",2024-07-25
+Laney,Mymensingh,,Atwood,Occupant (driver) of pk-up/van injured in unsp nontraf,2024-02-20
+Maridel,Jianshan,,Prentice,"Car pasngr injured in clsn w rail trn/veh nontraf, sequela",2023-12-23
+Laure,Independence,Missouri,Lukken,"Labyrinthine fistula, right ear",2024-11-08
+Valentin,Yajiwa,,Maple Wood,"Nondisplaced spiral fracture of shaft of left tibia, init",2024-05-18
+Demetrius,San Rafael,,4th,"Contusion of unspecified thigh, initial encounter",2024-08-25
+Lesli,Sukoreno,,Randy,Hyposplenism,2024-04-27
+Eunice,Tuy Phước,,Boyd,"Unsp intracapsular fracture of left femur, init for clos fx",2024-03-06
+Aldon,Kargowa,,Havey,"Driver of hv veh inj in nonclsn trnsp acc nontraf, sequela",2024-02-19
+Jenni,Jiahe,,Village,"Maternal care for hereditary disease in fetus, fetus 5",2024-01-16
+Barnabe,Gachancipá,,Lunder,"Other sprain of left little finger, initial encounter",2024-07-29
+Brandice,Tyler,Texas,Mifflin,Mech compl of surgically created arteriovenous fistula,2023-12-21
+Roslyn,Koronowo,,Hollow Ridge,Pulmonary infundibular stenosis,2024-07-25
+Standford,Madolenihm Municipality Government,,Thierer,"Other sprain of unspecified finger, subsequent encounter",2024-11-16
+Sheppard,Marićka,,Cascade,"War op w intentl restrict of air/airwy, civilian, subs",2024-02-18
+Wain,Denton,England,Bellgrove,"Displ bicondylar fx r tibia, 7thQ",2024-05-05
+Trey,Haylaastay,,Lotheville,"Rheumatoid bursitis, unspecified shoulder",2024-05-28
+Kasper,Gushi,,Fair Oaks,"Barton's fx left rad, subs for opn fx type 3A/B/C w malunion",2024-10-27
+Conrado,Toktogul,,Stang,"Lacerat msl/fasc/tnd post grp at thi lev, left thigh, sqla",2024-05-09
+Rockie,Zaqatala,,West,"Disp fx of right tibial spine, init for opn fx type I/2",2024-10-02
+Alphonse,Santa Rosa,,Elgar,Other incomplete lesion at C4 level of cervical spinal cord,2023-12-27
+Cornie,Pinaring,,Merchant,Unsp open wound of right great toe without damage to nail,2024-11-13
+Kelci,Xhafzotaj,,Warner,"Unsp traum nondisp spondylolysis of 2nd cervcal vert, 7thG",2024-10-29
+Amalia,Volokolamsk,,Paget,"Person outsd pk-up/van inj in clsn w ped/anml in traf, sqla",2024-10-09
+Julianne,Shizuoka-shi,,Basil,"Spontaneous rupture of extensor tendons, right upper arm",2024-03-02
+Eric,Miaoshi,,Farmco,Zoster meningitis,2023-12-10
+Harrietta,Pende,,Declaration,"Path fx in neopltc dis, r tibia, subs for fx w routn heal",2024-06-03
+Ruby,Ziyang Chengguanzhen,,Clemons,"Poisoning by expectorants, assault, sequela",2024-07-30
+Tynan,Aranguren,,Linden,"Displ trimalleol fx l low leg, 7thQ",2024-01-27
+Valene,Apongo,,Upham,Inj extensor musc/fasc/tend r idx fngr at forearm level,2023-11-28
+Nikolaus,Jiahu,,Truax,"Displ seg fx shaft of unsp fibula, 7thD",2024-03-24
+Clemmie,Balangiga,,Sauthoff,"Blindness, one eye, unspecified eye",2024-03-21
+Candace,Kanoni,,Di Loreto,Displaced spiral fracture of shaft of left femur,2024-06-04
+Henry,Serpukhov,,Gina,Contusion of lesser toe without damage to nail,2024-06-02
+Scarface,Allealle,,Riverside,Toxic effect of soaps and detergents,2023-12-19
+Izak,Paris 13,Île-de-France,Toban,"Displ commnt fx shaft of ulna, l arm, 7thQ",2023-12-21
+Malanie,Dao,,Northwestern,"Underdosing of other estrogens and progestogens, init encntr",2024-05-16
+Dre,Urozhaynoye,,Delaware,Nondisplaced comminuted fracture of shaft of left tibia,2024-06-29
+Abbey,Zhongxian,,Erie,"Strain of unsp musc/tend at low leg level, left leg, sequela",2024-10-19
+Case,Stryszów,,Spenser,"Partial traumatic amputation of left foot, level unspecified",2024-03-18
+Giffie,Umeå,Västerbotten,Waywood,"Other superficial bite of right lesser toe(s), sequela",2024-08-02
+Alissa,Ryazhsk,,Autumn Leaf,"Pedl cyc pasngr inj in clsn w oth pedl cyc nontraf, sequela",2024-06-25
+Fay,Granada,,Kropf,"Oth fall from one level to another due to ice and snow, subs",2024-02-20
+Chauncey,Huangbu,,Grayhawk,"Poisoning by hemostatic drug, assault, subsequent encounter",2024-02-13
+Viola,Ogaminan,,Eastwood,"Carcinoma in situ of skin of lower limb, including hip",2024-04-08
+Kellina,Wau,,Kingsford,"Nondisp fx of unsp radial styloid pro, 7thC",2024-09-29
+Chas,Nankang,,Orin,"Nondisp fx of ant process of r calcaneus, init for opn fx",2024-10-15
+Lanie,Oughterard,,Dahle,Dysarthria following nontraumatic intracerebral hemorrhage,2024-06-07
+Dolf,Yangzhong,,Troy,Mech compl of internal left knee prosthesis,2024-10-25
+Elise,Nagaracinta,,Pond,Other specified diabetes mellitus without complications,2024-01-18
+Korney,Panenggoede,,Morning,"Subluxation of unsp interphalangeal joint of finger, subs",2024-08-12
+Frances,Radekhiv,,Golf,"Retained (old) magnetic fb in post wall of globe, left eye",2024-06-04
+Shaun,Tucson,Arizona,Crowley,"Disp fx of lateral condyle of r tibia, 7thF",2024-07-04
+Bastien,Wailiang,,East,"Poisoning by thrombolytic drug, accidental, subs",2024-01-10
+Leigha,Nacka,Stockholm,Texas,"Displ commnt fx shaft of unsp femr, 7thP",2024-01-28
+Aloin,Semampir,,Hoepker,"Pigmentary glaucoma, left eye",2024-09-30
+Robbert,Ambato Boeny,,Oakridge,"Contracture of muscle, unspecified hand",2024-10-22
+Janis,Nisporeni,,Main,Animal type phobia,2024-04-06
+Hattie,Kālābāgh,,Ohio,"Nondisp transverse fx unsp patella, 7thE",2024-09-08
+Adriane,Cassanayan,,Riverside,"Biotin-dependent carboxylase deficiency, unspecified",2024-05-04
+Nan,Donglu,,Independence,Varicos vn of l low extrem w ulc of calf and inflammation,2024-06-26
+Hermione,Maroa,,Stone Corner,"Lead-induced gout, multiple sites",2024-03-31
+Britteny,Khodzha-Maston,,Forest,Contusion of thumb with damage to nail,2024-09-16
+Mychal,Yahe,,Messerschmidt,"Unspecified sprain of right hip, initial encounter",2024-06-09
+Zorina,Shelopugino,,Annamark,Fall from scooter (nonmotorized),2024-08-28
+Breena,Rinbung,,Transport,"Displ spiral fx shaft of humer, r arm, 7thG",2024-09-10
+Rhody,Boleszkowice,,Rowland,"Struck by other nonvenomous marine animals, subs encntr",2024-04-05
+Lorne,Miliangju,,Beilfuss,"Suprvsn of preg w poor reprodctv or obstet history, unsp tri",2023-12-08
+Kincaid,Przasnysz,,Ruskin,"Complete physeal arrest, left distal radius",2024-09-19
+Davine,Fengshou,,Clove,"Ring corneal ulcer, right eye",2024-01-05
+Alisa,Liqi,,Menomonie,Superficial injury of unspecified part of neck,2024-01-19
+Opal,Aban,,Fallview,"Poisoning by mixed antiepileptics, accidental",2024-04-20
+Riley,Nangang,,Nancy,"Laceration of right kidney, unspecified degree, init encntr",2024-02-14
+Hoebart,Longgang,,Hayes,Partial traumatic amputation at unspecified hip joint,2024-11-14
+Amity,Alcorriol,Santarém,Nova,"Lead-induced chronic gout, left shoulder, with tophus",2024-08-12
+Lucretia,Koson Shahri,,Coolidge,Unsp inj flexor musc/fasc/tend l little finger at wrs/hnd lv,2024-05-25
+Frances,Los Tangos,,Gateway,"Terrorism w chemical weapons, publ sfty offcl injured, subs",2024-01-30
+Adham,Nangger,,Forest Run,"Oth fracture of unsp pubis, init encntr for closed fracture",2024-10-22
+Silvana,Duyang,,Wayridge,"Other chronic osteomyelitis, tibia and fibula",2024-01-13
+Corny,Göteborg,Västra Götaland,Oneill,"Other secondary osteonecrosis, left toe(s)",2024-01-28
+Xylina,Xibin,,Anzinger,"Blister (nonthermal), left hip, initial encounter",2024-04-03
+Christiano,Sukamaju,,Kingsford,"3-part fx surgical neck of r humerus, init for opn fx",2024-05-17
+Jenni,Guimbal,,Helena,"Corneal abscess, unspecified eye",2024-08-12
+Marlow,Dipayal,,Ridgeway,"Abscess of tendon sheath, right forearm",2024-02-14
+Jaquith,Debre Mark’os,,Oneill,"Occ of pk-up/van injured in trnsp acc w miltry vehicle, init",2024-11-01
+Jacklin,Knivsta,Uppsala,Erie,"Nerve root and plexus disorder, unspecified",2024-03-25
+Rani,La Garenne-Colombes,Île-de-France,Morrow,"Contus/lac left cerebrum w LOC of 6-24 hrs, sequela",2024-10-21
+Harri,Changqing,,Bobwhite,"Oth fx right femur, subs for opn fx type 3A/B/C w nonunion",2023-12-08
+Virgil,Bagé,,Express,"Oth injury of unspecified renal vein, subs encntr",2024-10-29
+Lizette,Kipini,,Browning,"Torus fx upper end of left ulna, subs for fx w delay heal",2024-03-07
+Tally,Kiraman,,Schiller,"Oth diab with prolif diab rtnop without macular edema, unsp",2024-05-01
+Trstram,Kanghe,,Crescent Oaks,"Legal intervnt w manhandling, law enforc offl inj, sequela",2024-11-16
+Estel,Gulrip’shi,,Mendota,"Valgus deformity, not elsewhere classified, right ankle",2024-05-07
+Kim,Batangafo,,Forster,"Other sprain of unspecified foot, sequela",2024-05-17
+Bryon,Oslo,Oslo,Superior,"Nondisp fx of coronoid pro of l ulna, 7thN",2024-01-20
+Shaylynn,Trelleborg,Skåne,Sheridan,"Exposure to oth man-made visible and ultraviolet light, init",2024-08-11
+Alfredo,Longquan,,Coleman,"Nondisp fx of neck of third MC bone, r hand, init for opn fx",2024-07-27
+Rhea,Wakduwa’ Barat,,Gateway,"Displ seg fx shaft of rad, unsp arm, 7thE",2024-07-02
+Rebekah,Ta‘izz,,Fairview,"Unsp injury of blood vessels at shldr/up arm, right arm",2024-04-21
+Sammie,Hehe,,Tony,"Nondisp seg fx shaft of rad, l arm, 7thC",2024-03-24
+Garfield,Panjiawan,,Brown,"Unsp foreign body in pharynx causing asphyxiation, subs",2024-09-02
+Clemence,Shimeitang,,Morningstar,"Unsp fx shaft of unsp fibula, init for opn fx type 3A/B/C",2024-09-11
+Mikaela,Yingcui,,Cardinal,Hang-glider explosion injuring occupant,2024-07-15
+Melinda,Qui Nhon,,Mosinee,"Prsn brd/alit a car injured in collision w pedal cycle, init",2023-12-20
+Gweneth,Junaynat Raslān,,Monica,Persons encountering health services in oth circumstances,2024-02-16
+Claudie,Raman,,Packers,Fall on or from jungle gym,2024-02-01
+Biron,Yujiao,,Burning Wood,"Poisoning by diagnostic agents, assault",2024-05-09
+Rochette,Las Lomas,,6th,Other specified mononeuropathies of lower limb,2024-09-04
+Saunder,Llalli,,Graedel,"Juvenile osteochondrosis of spine, occipt-atlan-ax region",2023-12-20
+Tiena,Zhongfang,,Michigan,"Adverse effect of other antihypertensive drugs, init encntr",2023-12-28
+Shaw,Chengji,,Dapin,"Nondisplaced oblique fracture of shaft of right fibula, init",2024-02-09
+Neile,Boticas,Vila Real,Gulseth,"Contusion of lung, unspecified",2024-05-01
+Manny,Rafaela,,Pawling,Edema of right upper eyelid,2024-11-25
+Matthiew,Hengliang,,Mosinee,Acute hepatitis B,2024-07-23
+Felizio,Suna,,Texas,"Nondisp commnt fx shaft of ulna, unsp arm, 7thC",2024-08-24
+Cy,Fada N'gourma,,Fremont,"Synovial hypertrophy, NEC, left shoulder",2023-12-29
+Knox,Dongning,,Johnson,Aneurysm of heart,2024-09-18
+Jere,Arys,,Merry,Athscl bypass of cor art of transplanted heart w/o ang pctrs,2024-01-21
+Barnabe,Okocim,,Harbort,"Polyhydramnios, first trimester",2024-10-26
+Karolina,Pyatnitskoye,,Brown,Unspecified fracture of upper end of tibia,2024-08-12
+Shel,Tuanalepe,,Little Fleur,Cannabis related disorders,2023-12-21
+Danyelle,Jaguaruana,,Becker,Oth transitory neonatal electrolyte and metabolic disturb,2024-02-07
+Artemas,Gantang,,Manufacturers,Cicatricial alopecia [scarring hair loss],2024-08-13
+Enid,Mala Danylivka,,Moose,Regurgitation and rumination of newborn,2024-05-30
+Jacki,Greda,,Northland,Displaced fracture of lateral end of unspecified clavicle,2024-03-26
+Padget,Jandira,,Maple Wood,Injury of ulnar artery at forearm level,2024-01-03
+Graeme,El Paso,Texas,5th,"Diabetes due to underlying condition w diabetic neurop, unsp",2024-09-29
+Felicia,Kurmanayevka,,Kensington,"Toxic effect of unsp inorganic substance, accidental, subs",2023-12-12
+Lisbeth,Mała Wieś,,6th,"Underdosing of antithyroid drugs, subsequent encounter",2023-12-06
+Huey,Kesambilerenkrajan,,Fairfield,"Complete loss of teeth due to trauma, class IV",2024-07-22
+Baryram,Santa Cruz,Mexico,Jenna,"Puncture wound w/o foreign body of left wrist, init encntr",2024-10-18
+Wendel,Svilengrad,,Summer Ridge,"Chronic gout due to renal impairment, unsp hand, w/o tophus",2024-09-04
+Corina,Qingshi,,Lotheville,"Agoraphobia, unspecified",2024-11-26
+Morley,Bourg-en-Bresse,Rhône-Alpes,Coleman,"Toxic effect of ingested (parts of) plant(s), undetermined",2024-05-16
+Andrej,Keli,,Sutteridge,Terrorism involving explosion of marine weapons,2024-03-08
+Roddy,Getung,,Arkansas,Fall in (into) bucket of water,2024-10-07
+Alister,Situsari,,Loomis,"Burn due to other unpowered watercraft on fire, subs encntr",2024-02-22
+Norma,Itauguá,,Dapin,Underdosing of antiasthmatics,2024-04-07
+Hersh,Milanówek,,Brickson Park,"Stress fracture, right shoulder, subs for fx w nonunion",2024-11-22
+Benny,Sangar Sarāy,,Muir,"Galeazzi's fx r rad, subs for opn fx type I/2 w routn heal",2024-03-20
+Brigg,Orneta,,Oxford,Wegener's granulomatosis without renal involvement,2024-10-15
+Carmita,Bamiantong,,Thierer,"Cystic meniscus, unspecified meniscus, unspecified knee",2023-12-11
+Andriette,Al Jīzah,,Merry,"Nondisp longitud fx unsp patella, 7thH",2024-04-14
+Zerk,Dadapan,,Elka,"Driver of 3-whl mv inj in clsn w nonmtr veh in traf, sqla",2024-05-24
+Jarid,Harbour Breton,Newfoundland and Labrador,South,"Sltr-haris Type III physeal fx unsp calcaneus, sequela",2024-08-25
+Alix,Talnakh,,Meadow Vale,Type 1 diabetes mellitus with other skin ulcer,2024-08-31
+Patty,Qitan,,Vermont,Diabetes due to underlying condition w neurological comp,2023-12-06
+Demeter,Whitegate,,Miller,"Maternal care for hydrops fetalis, second trimester, fetus 1",2023-12-24
+Angeli,Bocana de Paiwas,,School,"Retained uterin contracep dev in pregnancy, second trimester",2024-06-06
+Evelina,Yaojiaji,,Farragut,"Nondisp fx of nk of 4th MC bone, l hand, 7thP",2024-07-04
+Donny,La Peña,,Maple Wood,"Unsp fx upr end l tibia, 7thR",2024-02-11
+Buiron,Tomaševac,,Dawn,"Oth superficial bite of right back wall of thorax, init",2024-06-02
+Nealon,Panggunguni,,Oneill,"Lacerat intrns musc/fasc/tend l idx fngr at wrs/hnd lv, init",2024-03-09
+Ashli,Pampas,,Talmadge,"Stiffness of left knee, not elsewhere classified",2024-02-27
+Toddie,Yläne,,Delaware,Cereb infrc due to thombos of right middle cerebral artery,2024-03-23
+Hayley,Wādī Raḩḩāl,,Maple Wood,Other specified interstitial pulmonary diseases,2024-10-22
+Cori,Skinnskatteberg,Västmanland,Walton,Struck by hit or thrown ball,2024-09-29
+Arlie,Momignies,Wallonie,Donald,"Cataract (lens) fragmt in eye fol cataract surgery, r eye",2023-12-31
+Umberto,Christchurch,,Ridgeview,"Displacement of int fix of bone of left forearm, subs",2024-05-16
+Wallace,Bakunase,,Thackeray,"Inj conjunctiva and corneal abrasion w/o fb, right eye, init",2023-12-06
+Karisa,Fenghuo,,Bluestem,"Disp fx of third metatarsal bone, unspecified foot, sequela",2024-06-21
+Bel,Sampués,,Haas,"Sltr-haris Type II physeal fx upper end of unsp fibula, init",2024-08-05
+Marina,Gozdowo,,Shelley,"War op involving explosion of guided missile, milt, sequela",2024-08-02
+Alison,Huangshi,,Toban,"Nondisp seg fx shaft of humer, l arm, 7thD",2024-09-04
+Brietta,Heping,,Summerview,"Unspecified superficial injury of unspecified elbow, sequela",2024-08-05
+Gwenora,Zborište,,Luster,"Sprain of metacarpophalangeal joint of unsp thumb, subs",2024-07-29
+Fletch,Kadubadak,,Clyde Gallagher,"Dislocation of proximal interphaln joint of finger, sequela",2024-08-28
+Mayor,Artimet,,Northridge,Acquired atrophy of ovary and fallopian tube,2024-03-11
+Ruthann,Młynary,,Forest Dale,Struck by volleyball,2024-05-25
+Clari,Stockholm,Stockholm,Monica,Unstable burst fracture of first lumbar vertebra,2024-03-04
+Weider,Osogbo,,Rusk,"Occupant of streetcar injured in unsp traf, sequela",2024-03-25
+Morna,Pakisaji,,Kensington,"Sltr-haris Type I physeal fx lower end of humerus, left arm",2024-10-11
+Aleen,Néa Filadélfeia,,Southridge,Rheu heart disease w rheumatoid arthritis of unsp elbow,2024-10-29
+Sara-ann,Krasnoyarka,,Beilfuss,"Displ transverse fx shaft of r tibia, 7thN",2024-08-20
+Francklin,Coutada,Viana do Castelo,Anzinger,Rheumatoid myopathy with rheumatoid arthritis of unsp elbow,2024-02-14
+Prudy,Kawakawa,,Scofield,Hemiplga fol ntrm subarach hemor aff left dominant side,2024-06-14
+Thadeus,Vinica,,Saint Paul,"Hodgkin lymphoma, unspecified",2024-07-26
+Viki,Lima Pampa,,Heath,"Oth injury of blood vessel of unspecified thumb, sequela",2024-01-06
+Quill,Naga,,Mariners Cove,"Other displaced fracture of third cervical vertebra, sequela",2024-09-22
+Arlyn,Yunyang,,American Ash,"Fracture of coronoid process of right mandible, 7thK",2024-06-15
+Zechariah,Chavães,Viseu,Sundown,"Driver of 3-whl mv inj in clsn w rail trn/veh in traf, init",2024-06-17
+Matias,Damanhūr,,Bluestem,"Poisoning by MAO inhib antidepressants, assault, sequela",2023-12-01
+Jakie,Togitsu,,Porter,"Injury of digital nerve of right middle finger, sequela",2024-07-31
+Misty,Itō,,Dwight,Post-transplant lymphoproliferative disorder (PTLD),2023-12-13
+Sigismond,Kabala,,Forster,"Oth injury of right pulmonary blood vessels, sequela",2024-10-15
+Raddy,Horní Lideč,,Warner,"Nondisp fx of base of unsp MC bone, subs for fx w delay heal",2024-01-05
+Iorgos,Yongfeng,,Dixon,"Strain of unsp msl/tnd at ank/ft level, unsp foot, sequela",2024-04-02
+Flo,Timiryazevo,,Mendota,"Unsp injury of unsp msl/tnd at ank/ft level, unsp foot, subs",2024-06-22
+Cathy,Panamá,,Novick,Neoplasm of uncertain behavior of right breast,2024-07-20
+Carolus,Dongle,,Harbort,"Presence of artificial hip joint, bilateral",2024-07-18
+Louise,Alençon,Basse-Normandie,Fair Oaks,"Toxic effect of unsp corrosive substance, acc, sequela",2024-01-06
+Leonora,Puerto Quijarro,,School,"Gastric contents in larynx causing asphyxiation, sequela",2024-11-16
+Matthiew,Irbit,,Orin,Burn of first degree of neck,2024-01-13
+Jervis,Duszniki-Zdrój,,Paget,"Burn of unspecified degree of unspecified thigh, init encntr",2024-06-13
+Francesco,Guarda Nova,Leiria,Sunfield,"Open bite of right great toe w/o damage to nail, subs encntr",2024-05-09
+Sigismondo,Rasi Salai,,Northview,"Unsp fx shaft of left femur, subs for clos fx w routn heal",2024-09-15
+Leela,Saraqinishtë,,Bayside,Presence of artificial right leg (complete) (partial),2024-05-17
+Alfonse,Caherconlish,,1st,"External constriction of right forearm, initial encounter",2024-04-16
+Kathlin,San Pedro,Jalisco,Moulton,"Inj radial artery at wrist and hand level of left arm, subs",2024-08-28
+Cam,Bungbulang,,Londonderry,"Other ossification of muscle, ankle and foot",2024-06-21
+Aylmer,Naranjal,,Bashford,"Cystitis, unspecified without hematuria",2024-07-05
+Waly,Nishi-Tokyo-shi,,Scofield,Unsp nephritic syndrome with other morphologic changes,2023-12-17
+Natal,Huanxi,,Emmet,"Pedl cyc pasngr inj in clsn w statnry object in traf, subs",2024-10-03
+Dyna,Basak,,Spohn,"Disp fx of dist phalanx of l great toe, 7thG",2023-12-18
+Marten,Karangturi,,Granby,"Other contact with other fish, subsequent encounter",2024-02-18
+Halsy,Heshui,,Golden Leaf,"Adverse effect of other psychotropic drugs, sequela",2024-08-15
+Ware,Mehmand Chak,,Oneill,"Oth fx lower end of l femur, subs for clos fx w routn heal",2024-02-05
+Jania,Goworowo,,Killdeer,"Refractory anemia, unspecified",2024-07-28
+Lil,Mulhouse,Alsace,Brown,Asymptomatic varicose veins of unspecified lower extremity,2024-04-04
+Darell,Oslo,Oslo,Hooker,Actinic granuloma,2024-01-18
+Korrie,El Paso,Texas,Northfield,"Open bite of left little finger w damage to nail, init",2024-03-07
+Winonah,Weiwangzhuang,,Meadow Vale,Malignant neoplasm of pelvis,2024-11-09
+Carole,Miracema,,Grim,"Sprain of left sternoclavicular joint, subsequent encounter",2024-01-10
+Theressa,Houston,Texas,Farmco,"Wedge comprsn fx unsp thor vertebra, subs for fx w nonunion",2024-02-06
+Welsh,Konëvo,,Moland,"Unsp car occupant injured in clsn w oth mv nontraf, subs",2024-03-04
+Suzann,Galván,,Thierer,"Displ seg fx shaft of rad, l arm, 7thJ",2024-07-08
+Ilka,Stockton,California,Lerdahl,Corneal scars and opacities,2024-02-28
+Susi,Dongli,,Eliot,"Nondisp commnt fx l patella, 7thN",2023-12-04
+Lawry,Yuecheng,,Ridgeway,"Unspecified injury of popliteal vein, right leg, subs encntr",2024-01-19
+Isabel,Karanganyar,,Ilene,"Corrosion of second degree of left elbow, subs encntr",2024-09-24
+Elane,Gongqiao,,Beilfuss,"Unsp injury of musc/tend at lower leg level, right leg, init",2024-09-19
+Ashbey,Horad Rechytsa,,American,Blister (nonthermal) of left eyelid and periocular area,2024-03-20
+Christel,Pueblo Nuevo,,Delladonna,Struck by sports foot wear,2024-03-04
+Athene,Dongming Chengguanzhen,,Londonderry,Pedestrian injured in collision w rail trn/veh nontraf,2024-06-03
+Jordan,Řečany nad Labem,,Spohn,Drug or chemical induced diabetes mellitus w oth skin ulcer,2024-04-15
+Port,Pran Buri,,Sugar,"Adverse effect of centr-acting/adren-neurn-block agnt, init",2024-08-11
+Fons,Cabcaben,,Holmberg,Monoplg upr lmb fol oth cerebvasc disease aff unsp side,2024-06-15
+Sydel,Ngandangan,,Larry,"Forced landing of private fix-wing arcrft inj occ, sequela",2023-12-17
+Juline,San Pedro,,Westridge,"Torus fx upper end of r radius, subs for fx w malunion",2024-11-15
+Hendrika,Liulin,,Linden,"Displaced segmental fx shaft of radius, right arm, init",2024-08-04
+Meris,Fangxiang,,Sutherland,"Transitory disorder of carbohydrate metab of newborn, unsp",2024-04-05
+Albertine,Malaga,,Knutson,"Milt op involving explosion of marine mine, milt",2024-05-10
+Gusta,Terang,,Claremont,"Nondisp segmental fracture of shaft of left femur, sequela",2024-10-11
+Cyndie,Cibatu,,Farwell,"Animal-rider injured in collision w anml-drn vehicle, subs",2023-12-17
+Chrystal,San,,Karstens,"Unsp car occupant injured in collision w car nontraf, subs",2024-08-05
+Ginger,Hudai,,Maywood,"Assault by strike by baseball bat, subsequent encounter",2024-08-08
+Ethelyn,Argithéa,,Mallory,"Other disorders of continuity of bone, left humerus",2024-09-13
+Tara,Obiaruku Quarters,,Fulton,"Laceration of blood vessel of left index finger, sequela",2024-05-08
+Wright,Pakel,,Fairfield,"Poisoning by methadone, accidental (unintentional), subs",2024-11-23
+Hyacinthe,Fullerton,California,Muir,"Sltr-haris Type IV physl fx upper end radius, unsp arm, sqla",2024-08-03
+Birgit,Xiaojinkou,,Graedel,"Driver of hv veh inj in clsn w nonmtr vehicle nontraf, subs",2024-02-04
+Haven,Zhutian,,Elgar,"Spastic entropion of right eye, unspecified eyelid",2024-08-28
+Lindsy,Boa Esperança,,American,Accessory kidney,2024-04-26
+Veradis,Yazman,,Muir,Dislocation of MTP joint of unsp lesser toe(s),2024-06-07
+Violet,Bazha,,Forster,"Injury of nerve root of thoracic spine, subsequent encounter",2024-04-18
+Kellie,Antagan Segunda,,Blue Bill Park,"Torus fx lower end of unsp tibia, subs for fx w malunion",2024-03-21
+Rebekah,Sukadana,,John Wall,"Corrosion of third degree of right ear, subsequent encounter",2024-06-14
+Alf,Pasirreungit,,Southridge,"Occ of anml-drn veh inj in trnsp acc w miltry vehicle, init",2024-07-30
+Sammie,Tzaneen,,Harbort,Rheumatoid polyneurop w rheumatoid arthritis of left elbow,2023-12-15
+Maurise,Paulínia,,La Follette,"Posterior disp fx of sternal end of right clavicle, sequela",2024-01-03
+Brenn,Vale da Serra,Santarém,Hollow Ridge,Driver of hv veh injured in collision w unsp mv nontraf,2024-04-24
+Phyllys,Bang Ban,,Gateway,"Felty's syndrome, right wrist",2024-04-05
+Rozamond,Tabira,,Shelley,"Derang of post horn of lat mensc d/t old tear/inj, unsp knee",2024-02-13
+Paulina,Caldas da Felgueira,Viseu,Declaration,"Poisn by slctv seroton/norepineph reup inhibtr, acc, sqla",2024-08-10
+Thorsten,Ogden,Utah,Grayhawk,"Oth fx head/neck of r femur, subs for clos fx w routn heal",2024-01-20
+Jacquette,Qiaosi,,South,Oth degeneratv disord of nervous sys in dis classd elswhr,2024-03-26
+Elva,Dongxin,,Jana,"Nondisp fx of med condyle of r tibia, 7thE",2024-05-20
+Yorker,Suntar,,Judy,"Conjoined twin pregnancy, second trimester",2024-05-08
+Biron,Sangmu,,Longview,"Sltr-haris Type IV physl fx low end humer, l arm, 7thD",2024-08-13
+Jehanna,Wichian Buri,,Blackbird,"Oth fx low end unsp femr, 7thN",2024-09-13
+Heall,Veternik,,Kensington,"Abrasion, left thigh",2024-08-13
+Orsa,Komprachcice,,Emmet,"Oth chronic hematogenous osteomyelitis, unsp radius and ulna",2024-10-17
+Sara-ann,Uchaly,,Larry,Osteitis deformans of forearm,2023-12-30
+Ruthie,Khasavyurt,,Scofield,"Fracture of other part of scapula, right shoulder, sequela",2024-05-27
+Roanna,Huatan,,Eagan,"Acute promyelocytic leukemia, in remission",2023-12-24
+Simon,Östhammar,Uppsala,Hanson,"Nondisp fx of coronoid pro of r ulna, 7thE",2024-02-12
+Frederich,Katsina,,Elmside,"Pnctr w fb of left eyelid and periocular area, init",2024-07-08
+Othelia,Kedungharjo,,Bayside,"Other skateboard accident, sequela",2024-07-05
+Alene,Nūr,,Farragut,"Injury of other nerves at forearm level, left arm, subs",2024-08-20
+Ula,Gharavŭtí,,Pine View,"Other burn on board other powered watercraft, subs encntr",2024-09-26
+Josee,General Lavalle,,Village,"Occup of pk-up/van inj pk-up truck, pk-up/van nontraf, init",2024-11-02
+Darcee,Oslo,Oslo,Beilfuss,Athscl autol vein bypass of the right leg w ulcer of ankle,2024-01-09
+Joete,Nacala,,Roxbury,"Subluxation of other parts of unsp shoulder girdle, sequela",2024-02-07
+Royce,Babug,,Ridgeway,"Abrasion, left lesser toe(s), sequela",2024-06-09
+Marijo,Obroshyne,,Fair Oaks,"Post-traumatic osteoarthritis, left shoulder",2024-01-09
+Erina,Chelles,Île-de-France,Sugar,"Effusion, left knee",2024-11-18
+Cherie,Krutja e Poshtme,,Kim,Motorcycle passenger injured in collision w pedl cyc in traf,2024-05-25
+Rodolphe,Białobrzegi,,Glacier Hill,"Displ spiral fx shaft of humer, l arm, 7thG",2024-11-03
+Lindy,Kristiansand S,Vest-Agder,Thackeray,Encounter for supervision of other normal pregnancy,2024-01-11
+Tamma,Pirojpur,,Lawn,"Prsn outsd pk-up/van inj in clsn w statnry obj nontraf, sqla",2024-11-09
+Angil,Shanhou,,Manley,"Kaschin-Beck disease, left wrist",2024-06-01
+Currie,Riosucio,,Starling,"Posterior cyclitis, right eye",2024-05-15
+Karine,Talondang,,East,"Poisoning by expectorants, assault, sequela",2024-02-06
+Candice,Uglich,,Lotheville,"Corrosion of unsp degree of left scapular region, init",2024-06-06
+Marcelline,Cloyne,,Burning Wood,Fall while being carried or supported by other persons,2024-07-22
+Bay,Baixo Guandu,,Clemons,Unspecified congenital malformations of vulva,2024-11-17
+Charlotta,Uglegorsk,,Buena Vista,Cutaneous abscess of limb,2023-12-25
+Lexi,Wolometang,,Dahle,"Unsp athscl nonaut bio bypass of the extremities, right leg",2024-02-11
+Nancy,Halinów,,Kingsford,"Injury of visual cortex, unspecified eye, initial encounter",2024-04-30
+Sheri,Markala,,Valley Edge,"Type 1 diab with prolif diab rtnop with comb detach, l eye",2024-03-06
+Chris,Byerazino,,Shoshone,"Toxic effect of venom of N & S American snake, accidental",2024-03-28
+Mattias,Alofi,,Laurel,"Traum rupture of unsp ligmt of l idx fngr at MCP/IP jt, subs",2024-03-20
+Tim,Baryshevo,,Sutteridge,"Inj conjunctiva and corneal abrasion w/o fb, unsp eye, init",2024-09-01
+Gary,Palmitas,,Continental,"Postdysenteric arthropathy, hand",2024-02-10
+Egon,Lengshuijing,,Lunder,"Oth osteopor w crnt path fx, unsp site, 7thP",2024-11-16
+Tatiana,Damaishan,,Haas,"Oth malignant neoplasm skin/ unsp eyelid, including canthus",2024-02-15
+Lilias,San Andres,,Drewry,"Fall from heelies, subsequent encounter",2024-08-30
+Andree,Santa Cruz,Guerrero,Pearson,"Hypertrophic disorder of the skin, unspecified",2024-05-22
+Bambie,Tiedonglu,,Lerdahl,Passenger in 3-whl mv injured in clsn w rail trn/veh in traf,2024-09-14
+Britte,Jonava,,Anzinger,"Burn of 3rd deg mu sites of left wrist and hand, init",2024-08-06
+Gratia,Boliney,,Dexter,"2-part disp fx of surg nk of l humer, 7thG",2024-05-22
+Jaye,Bang Saphan,,Lindbergh,"Nondisp avuls fx (chip fracture) of l talus, 7thP",2023-12-11
+Bennett,Salas,,Maryland,"Oth fx shaft of rad, unsp arm, 7thR",2024-08-01
+Eberhard,Yuquan,,Sloan,"Milt op involving firearms pellets, military personnel, subs",2024-09-02
+Belle,Pátmos,,Westridge,Other endometriosis,2024-03-16
+Bearnard,Cañuelas,,Dakota,"Carbonic-anhydrase inhibitors, benzo/oth diuretc",2024-04-28
+Claybourne,Нераште,,Florence,Unspecified nondisp fx of second cervical vertebra,2024-04-22
+Rowney,Zall-Herr,,Ilene,"Toxic effect of tobacco cigarettes, assault, subs encntr",2024-01-16
+Ashlen,Filimonovo,,School,"Toxic effect of unsp substance, intentional self-harm, subs",2023-12-04
+Thain,Dafengdui,,Manley,"Corrosion of second degree of lower back, initial encounter",2024-05-10
+Woodman,Fengmu,,Bultman,"Fx condylar process of mandible, unspecified side, 7thD",2024-10-06
+Tommy,Aix-en-Provence,Provence-Alpes-Côte d'Azur,Myrtle,"Unsp pre-existing diabetes in pregnancy, first trimester",2024-06-28
+Kettie,Zhuzuo,,Dixon,Adhesive middle ear disease,2024-01-23
+Thane,Tegina,,Cherokee,"Postdysenteric arthropathy, hand",2024-07-11
+Iggie,Futian,,Graedel,"Unsp fracture of occiput, subs for fx w routn heal",2024-08-25
+Normie,Shumerlya,,Sutherland,Oth transport vehicle as place,2024-04-10
+Minnie,União da Vitória,,David,"Toxic effect of ketones, accidental (unintentional), subs",2024-06-27
+Ulick,Blantyre,,Prairieview,Motorcycle passenger injured in collision w unsp mv nontraf,2023-12-12
+Georgeanne,Sezemice,,Meadow Ridge,"Disp fx of prox 3rd of navic bone of r wrs, 7thK",2024-02-04
+Weylin,Jalālpur Pīrwāla,,Sheridan,"Displ oth extrartic fx unsp calcaneus, 7thG",2024-09-23
+Evelin,Lübeck,Schleswig-Holstein,Huxley,"Partial loss of teeth due to other specified cause, class IV",2024-04-21
+Cherrita,Kirgili,,Kipling,"Unsp superficial injury of left lesser toe(s), sequela",2024-03-09
+Bertina,Księżpol,,Golf View,"Airgun discharge, undetermined intent",2024-03-20
+Cirstoforo,Sölvesborg,Blekinge,Veith,"Trib rtnl vein occlusion, right eye, with macular edema",2024-05-31
+Jamesy,Thị Trấn Thất Khê,,Northview,Simple chronic bronchitis,2024-07-25
+Derry,Dimona,,Scott,"Contusion of right index finger w/o damage to nail, sequela",2024-08-22
+Inessa,Xinó Neró,,Independence,Encntr screen for malignant neoplasm of intestinal tract,2024-06-02
+Luis,Hesperange,,North,Acute stress reaction,2024-10-25
+Augy,Saint-Tite,Québec,Riverside,"Unsp open wound of unsp finger w/o damage to nail, sequela",2024-11-19
+Lawrence,San Miguel,,Barnett,"Other specified bursopathies, right shoulder",2024-05-19
+Marty,Huansheng,,Grasskamp,"Other osteonecrosis, unspecified ankle",2024-08-28
+Frankie,Jerusalem,,Fallview,"Passenger in 3-whl mv injured in clsn w hv veh in traf, subs",2024-08-22
+Phil,Bordeaux,Aquitaine,Burrows,"Leakage of artificial heart, initial encounter",2024-04-22
+Doralyn,Xishan,,Scofield,"Pathological fracture in other disease, left femur, sequela",2024-06-21
+Griffith,Zhuhe,,David,Traumatic spondylopathy,2024-07-20
+Fredrika,Magoúla,,Mockingbird,Other ice-skates accident,2023-12-23
+Falkner,Media Luna,,Buhler,"Nondisp seg fx shaft of humerus, right arm, init for opn fx",2024-10-15
+Lynne,Bembèrèkè,,Dottie,"Disp fx of epiphy (separation) (upper) of l femr, 7thF",2024-05-08
+Mart,Obikiik,,Merchant,"Type III traum spondylolysis of 4th cervcal vert, 7thK",2023-12-30
+Cortney,Montasik,,Sugar,"Poisoning by local antifung/infect/inflamm drugs, assault",2024-08-13
+Gene,Kitahiroshima,,Lake View,Lac w fb of front wall of thorax w penet thoracic cavity,2024-09-12
+Tami,As Suwaydā’,,Norway Maple,Corrosion of second degree of shoulder,2024-09-23
+Flory,Koungheul,,Del Sol,"Poisoning by vitamins, accidental (unintentional), init",2024-11-27
+Bridget,El Quebrachal,,Lien,Herpesviral infection of other urogenital tract,2024-11-10
+Delcine,Kalutara,,Arkansas,"Type 1 diab with severe nonp rtnop with macular edema, bi",2024-09-10
+Parry,Deh-e Now,,Mifflin,"Burn third deg of shldr/up lmb, ex wrs/hnd, unsp site, subs",2024-09-19
+Harrie,Cincinnati,Ohio,Del Mar,"Age-related osteopor w current path fracture, l humerus",2024-11-20
+Layton,Tempeh Tengah,,Eagle Crest,Rheumatoid lung disease w rheumatoid arthritis of r shoulder,2024-07-12
+Tania,Cengjia,,Mosinee,"Displ commnt fx right patella, subs for clos fx w nonunion",2024-07-04
+Jeno,Sapouy,,Union,"Open bite of unsp bk wl of thorax w penet thor cavity, init",2024-01-04
+Marnie,Komprachcice,,Myrtle,Pain in wrist,2023-12-25
+Dasha,Kubangwaru,,Superior,"Nondisp fx of 4th metatarsal bone, unsp ft, 7thD",2024-07-11
+Tawnya,Shabel’skoye,,Dwight,"Type I occipital condyle fracture, unspecified side, 7thK",2024-09-19
+Sigismundo,Aga,,Trailsway,"Sublux of symphysis (pubis) in pregnancy, second trimester",2024-04-08
+Wolf,At Taḩālif,,Autumn Leaf,Unspecified hereditary retinal dystrophy,2024-10-05
+Patten,Ryazhsk,,Monument,"Corrosion of first degree of right lower leg, subs encntr",2024-01-09
+Raymond,Tandag,,Riverside,"Type 2 diab with mod nonp rtnop without macular edema, l eye",2024-08-19
+Nerita,Dan Sadau,,Division,Dislocation of unsp interphalangeal joint of left thumb,2024-02-21
+Powell,Kebonagung,,Maple,"Unsp open wound of unspecified part of head, subs encntr",2024-07-30
+Cissy,Falun,Dalarna,Corry,"Papyraceous fetus, unspecified trimester, fetus 3",2024-07-13
+Collie,Zhengmo,,Transport,"Chondromalacia, unspecified ankle and joints of foot",2024-08-21
+Ashli,Chaloem Phra Kiat,,Clarendon,"Pasngr in 3-whl mv inj in clsn w statnry obj in traf, subs",2024-05-01
+Bar,Tambak,,Meadow Vale,"Congenital malformation of urinary system, unspecified",2024-05-06
+Jackie,Sakassou,,Kenwood,"Inj radial artery at wrs/hnd lv of left arm, sequela",2024-03-21
+Correy,Taen Tengah,,Eliot,"Pnctr w fb of unsp great toe w damage to nail, sequela",2024-11-04
+Jennee,Placer,,Briar Crest,"Sltr-haris Type I physeal fx phalanx of unsp toe, 7thB",2023-12-04
+Chelsae,Tsagaan-Olom,,Killdeer,"Cont preg after uterin death of one fetus or more, unsp tri",2024-01-01
+Kathlin,Turus,,Mayfield,"Partial traumatic trnsphal amp of l little finger, init",2023-12-05
+Wally,Coyah,,Old Shore,Granuloma of left lacrimal passage,2024-06-30
+Charmain,Krajan,,Dorton,"Kaschin-Beck disease, shoulder",2023-12-03
+Shana,Gengma,,Hermina,"Perf due to fb acc left in body fol surgical operation, init",2024-07-06
+Michal,Youludu Sibage,,Sutherland,"Other reactive arthropathies, left ankle and foot",2023-12-31
+Matthus,Cantapoy,,Larry,"Complete traumatic amputation of unsp great toe, sequela",2023-12-25
+Trista,Bandeirantes,,Waxwing,"Congenital kyphosis, thoracic region",2024-07-27
+Keenan,Shahr-e Bābak,,Kingsford,Chlamydia psittaci infections,2024-11-22
+Amery,Liuhe,,Hermina,Other superficial injuries of other fingers,2024-05-07
+Patrick,Cumanacoa,,Kinsman,"Primary osteoarthritis, right hand",2023-12-27
+Kristofor,Araal,,Stuart,Displaced dome fracture of unspecified acetabulum,2024-10-10
+Lucie,Cinyawar,,Reinke,"Nondisp transverse fx shaft of l femr, 7thN",2024-07-23
+Frances,Gampola,,Continental,"Blister (nonthermal) of left hand, initial encounter",2024-07-23
+Giffie,Ruyigi,,Waubesa,"Arthritis due to other bacteria, shoulder",2024-08-14
+Iago,Dowsk,,Manley,Strain of flexor musc/fasc/tend r little finger at forarm lv,2024-03-02
+Carolin,Totoral,,Fair Oaks,Oth osteochndrdys w defct of growth of tublr bones and spine,2024-05-13
+Zacharias,Elektrėnai,,Anderson,"Oth fx upper end of right tibia, subs for clos fx w nonunion",2024-08-17
+Dacie,Perushtitsa,,Oakridge,"Toxic effect of carb monx from utility gas, assault, sequela",2024-04-19
+Rosabella,La Rochelle,Poitou-Charentes,Amoth,"Poisoning by methadone, intentional self-harm, sequela",2024-10-14
+Liliane,Bastia,Corse,Green,"Oth injury of popliteal artery, unspecified leg, init encntr",2023-11-29
+Indira,Tamana,,Cascade,"Nondisp bimalleol fx l low leg, 7thD",2024-05-24
+Romy,Wenxian Chengguanzhen,,Jackson,"Oth fx lower end of unsp ulna, subs for clos fx w malunion",2024-06-21
+Brianne,Zaliznychne,,Old Gate,Gestational edema,2024-04-08
+Ricki,Ingersoll,Ontario,Macpherson,"Burn of third degree of right toe(s) (nail), sequela",2024-07-05
+Raviv,Jianping,,Kedzie,Congenital stenosis of aortic valve,2024-06-08
+Tarrance,Cikeusal,,Bowman,"Torus fx upper end of r humerus, subs for fx w malunion",2024-03-31
+Latisha,Ḩajjah,,Dexter,"Nondisp fx of cuboid bone of left foot, init for opn fx",2024-05-18
+Noach,Wulan Haye,,8th,"Kaschin-Beck disease, left shoulder",2023-12-12
+Anestassia,Lydenburg,,Fair Oaks,Zika virus disease,2024-08-04
+Catherina,Trondheim,Sor-Trondelag,Ludington,"Speech disturbances, not elsewhere classified",2024-03-21
+Earvin,Formosa,,American Ash,"Motorized mobility scooter colliding w statnry obj, subs",2024-11-13
+Evin,Gjinoc,,Kings,"Malignant neoplasm of male genital organ, unspecified",2024-04-13
+Aimil,Halmstad,Halland,Commercial,"Superficial thrombophlebitis in pregnancy, first trimester",2024-11-14
+Mikol,Tifni,,Morningstar,"Dislocation of unsp interphaln joint of left thumb, subs",2024-05-25
+Alejandrina,Aricagua,,Express,"Milt op involving fragments from weapons, milt, init",2024-10-29
+Judon,Järfälla,Stockholm,Beilfuss,And unsp drugs aff the autonomic nervous system,2024-03-25
+Jerald,Roberval,Québec,Hoard,"Poisoning by oth synthetic narcotics, accidental, subs",2024-01-08
+Gill,Avignon,Provence-Alpes-Côte d'Azur,Amoth,"Gestational diabetes mellitus in childbirth, unsp control",2024-02-21
+Tabby,Nysa,,Nobel,"Unsp focal TBI w loss of consciousness of 31-59 min, init",2024-03-17
+Ericka,Purral,,East,"Displaced dome fracture of right talus, init for clos fx",2024-03-12
+Rosemarie,Yuhuangding,,School,"Tox eff of unsp halgn deriv of aromat hydrocrb,slf-hrm, sqla",2024-05-26
+Arlyn,Akureyri,,Mccormick,"Displaced segmental fracture of shaft of left tibia, sequela",2024-04-12
+Chris,Neochórion,,Artisan,"Osteopathy in diseases classified elsewhere, left upper arm",2024-04-02
+Sindee,Hongde,,Weeping Birch,Esophageal obstruction,2024-02-12
+Valencia,Bình Thủy,,Butternut,"Maternal care for face, brow and chin presentation, fetus 1",2024-07-30
+Chrisy,Pierzchnica,,Oneill,"Pressure ulcer of right heel, unstageable",2024-02-10
+Chloe,Mahanoro,,Lighthouse Bay,"Unsp injury of muscle, fascia and tendon of left hip, subs",2024-03-09
+Marilin,Ji Paraná,,Maryland,"Displaced transverse fracture of right acetabulum, init",2024-04-19
+Garfield,Qianshan,,Lighthouse Bay,"Laceration of musc/fasc/tend at shldr/up arm, right arm",2024-10-04
+Lindsy,Alcorriol,Santarém,Pleasure,"Sprain of right rotator cuff capsule, initial encounter",2024-01-27
+Xavier,Conceição da Abóboda,Lisboa,Tennessee,"Nondisp transverse fx shaft of l ulna, 7thQ",2024-11-18
+Rachele,Kletek,,Straubel,"Toxic effect of corrosive organic compnd, assault, sequela",2024-05-14
+Nicki,Alofi,,Crowley,"Enteropathic arthropathies, unspecified hip",2024-08-26
+Shanna,Ceranów,,Cherokee,"Myocarditis, unspecified",2024-10-07
+Bastian,Whistler,British Columbia,Loomis,"Dislocation of unsp interphaln joint of r rng fngr, sequela",2024-07-24
+Doralyn,Tatebal,,Grim,"Underdosing of agents aff the cardiovascular sys, subs",2024-06-18
+Ozzy,Belém,,Vahlen,"Capsular contracture of breast implant, sequela",2024-07-29
+Adolpho,Aracati,,Bashford,Oth postprocedural complications and disorders of dgstv sys,2024-08-30
+Wanids,Verkhnyaya Tura,,Reinke,"Unsp injury of other part of small intestine, subs encntr",2024-07-12
+Fredek,Nam Kliang,,1st,Injury of greater saphenous vein at hip and thigh level,2024-08-13
+Carlynne,Yelan’,,Prairieview,"Toxic effect of petroleum products, accidental, subs",2024-09-23
+Candace,Henglan,,Miller,"Other sprain of left index finger, sequela",2024-10-01
+Steve,Utena,,Elmside,"Pnctr of abd wall w fb, unsp q w/o penet perit cav, init",2024-06-22
+Juliette,Tromsø,Troms,Delaware,Acute duodenal ulcer with hemorrhage,2024-04-14
+Julio,København,Region Hovedstaden,Delaware,"Corrosion of second degree of unsp ankle and foot, subs",2024-03-15
+Michelina,Sendangkemulian,,Cordelia,"Occup of pk-up/van inj in nonclsn trnsp acc in traf, sequela",2024-04-17
+Felisha,Xindi,,Charing Cross,"Burn and corrosion of head, face, and neck",2024-01-24
+Ermina,Jinlong,,Hansons,Burn of second degree of right shoulder,2024-06-05
+Rubia,Nelazskoye,,Fuller,"Subacute osteomyelitis, left radius and ulna",2024-03-17
+Othella,Duanjia,,Hoffman,"Poisoning by unsp psychostimulants, undetermined, init",2024-06-10
+Juieta,Zhangfeng,,Texas,"Nondisp fx of r radial styloid pro, 7thC",2023-12-13
+Earle,Dongxiao,,Leroy,"Spontaneous rupture of flexor tendons, multiple sites",2024-08-19
+Hetty,A’ershan,,Canary,"Myositis ossificans traumatica, unspecified upper arm",2024-02-16
+Roxanna,Czerniewice,,Magdeline,"Pretrm prem ROM, onset labor > 24 hours fol rupt, second tri",2024-07-30
+Hernando,Aygavan,,Old Gate,Intestinal strongyloidiasis,2024-10-29
+Roxine,Nouaseur,,Grover,"Disorder of kidney and ureter, unspecified",2024-04-24
+Scotty,Wassu,,Old Gate,"NB aff by matern anesth and analgesia in preg, labor and del",2024-11-12
+Zelig,Prengtale,,Crowley,"Toxic effect of benzene, assault",2024-04-17
+Allyn,Maracaibo,,Sachs,"Hydroxyapatite deposition disease, multiple sites",2024-09-27
+Angelo,Karney Shomron,,Kropf,"Anterior subluxation of right humerus, subsequent encounter",2024-08-30
+Raf,Rzhavki,,Holmberg,"Laceration of radial artery at forearm level, left arm, subs",2024-08-07
+Fawnia,Nugas,,Cascade,"Laceration w/o foreign body of left cheek and TMJ area, subs",2024-07-24
+Talya,Bizhou,,Westridge,"Poisn by mineralocorticoids and antag, self-harm, sequela",2024-09-27
+Corette,Amuntai,,Holmberg,Other degenerative disorders of eyelid and periocular area,2024-09-29
+Desirae,Santa Quitéria,,Bellgrove,"Pressr ulcer of contig site of back, buttock and hip, stg 1",2024-07-09

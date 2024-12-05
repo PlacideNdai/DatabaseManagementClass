@@ -1,8 +1,10 @@
+-- Phase #1
 -- Drop the database if it already exists
 DROP DATABASE IF EXISTS poemdbfinal;
 
 -- Create the database
 CREATE DATABASE poemdbfinal;
+set global local_infile = 1;
 
 -- Use the database
 USE poemdbfinal;
@@ -11,7 +13,7 @@ USE poemdbfinal;
 
 -- Artist table (1)
 CREATE TABLE artist (
-    ID INT AUTO_INCREMENT,
+    ID INT auto_increment,
     first_name VARCHAR(60) NOT NULL, 
     last_name VARCHAR(60) NOT NULL, 
     email VARCHAR(100) NOT NULL,
@@ -108,57 +110,64 @@ CREATE TABLE maneges (
 -------------------- Inserting Data into Tables ------------------
 
 -- Artist loading 
-LOAD DATA LOCAL INFILE './artists.csv'
+LOAD DATA LOCAL INFILE '~/home/notplacide/Documents/GitHub/DatabaseManagementClass/Final_Lab/Data/artists.csv'
+-- load data local infile "./artists.csv"
 INTO TABLE artist
 FIELDS TERMINATED BY ',' 
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Genre loading 
-LOAD DATA LOCAL INFILE './genra.csv'
+LOAD DATA LOCAL INFILE './Data/genra.csv'
 INTO TABLE genra
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Poems loading 
-LOAD DATA LOCAL INFILE './poems.csv'
+LOAD DATA LOCAL INFILE './Data/poems.csv'
 INTO TABLE poems 
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Audience loading 
-LOAD DATA LOCAL INFILE './audience.csv'
+LOAD DATA LOCAL INFILE './Data/audience.csv'
 INTO TABLE audience 
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Publisher loading 
-LOAD DATA LOCAL INFILE './publisher.csv'
+LOAD DATA LOCAL INFILE './Data/publisher.csv'
 INTO TABLE publisher
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Tags loading 
-LOAD DATA LOCAL INFILE './tags.csv'
+LOAD DATA LOCAL INFILE './Data/tags.csv'
 INTO TABLE tags
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Events loading 
-LOAD DATA LOCAL INFILE './events.csv'
+LOAD DATA LOCAL INFILE './Dataevents.csv'
 INTO TABLE events
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Tickets loading 
-LOAD DATA LOCAL INFILE './tickets.csv'
+LOAD DATA LOCAL INFILE './Data/tickets.csv'
 INTO TABLE tickets
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+ -- Phase #2
+
+-- simple select 
+select * from artist 
+where ID = 100;
