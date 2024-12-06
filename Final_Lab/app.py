@@ -26,7 +26,7 @@ def selectFromTable(conn):
         if 1 <= choose <= 9:
             table_name = arr[choose - 1]
             cursor = conn.cursor()
-            query = f"SELECT first_name, last_name, gender, birthday FROM {table_name} LIMIT 100;" 
+            query = f"SELECT * FROM {table_name} LIMIT 100;" 
             cursor.execute(query)
             results = cursor.fetchall()
             print(f"\nResults from {table_name.capitalize()}:")
