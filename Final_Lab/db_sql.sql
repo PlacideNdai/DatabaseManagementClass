@@ -25,8 +25,11 @@ CREATE TABLE artist (
 -- Genre table (2)
 CREATE TABLE genra (
     ID INT AUTO_INCREMENT,
+    name varchar(40) not null, 
     category VARCHAR(60) NOT NULL,
     descs VARCHAR(60) NOT NULL,
+    
+    
     PRIMARY KEY (ID)
 );
 
@@ -46,11 +49,14 @@ CREATE TABLE audience (
     first_name VARCHAR(60) NOT NULL,
     last_name VARCHAR(60) NOT NULL,
     email VARCHAR(60) NOT NULL,
-    gender CHAR(1),
+    gender VARCHAR(40),
     birthday DATE, 
     passwd VARCHAR(255) NOT NULL,
+    
+    
     PRIMARY KEY (ID)
 );
+
 
 -- Publisher table (5)
 CREATE TABLE publisher (
@@ -107,67 +113,7 @@ CREATE TABLE maneges (
     FOREIGN KEY (publisherID) REFERENCES publisher(ID)
 );
 
--------------------- Inserting Data into Tables ------------------
 
--- Artist loading 
-LOAD DATA LOCAL INFILE '~/home/notplacide/Documents/GitHub/DatabaseManagementClass/Final_Lab/Data/artists.csv'
--- load data local infile "./artists.csv"
-INTO TABLE artist
-FIELDS TERMINATED BY ',' 
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Genre loading 
-LOAD DATA LOCAL INFILE './Data/genra.csv'
-INTO TABLE genra
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Poems loading 
-LOAD DATA LOCAL INFILE './Data/poems.csv'
-INTO TABLE poems 
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Audience loading 
-LOAD DATA LOCAL INFILE './Data/audience.csv'
-INTO TABLE audience 
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Publisher loading 
-LOAD DATA LOCAL INFILE './Data/publisher.csv'
-INTO TABLE publisher
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Tags loading 
-LOAD DATA LOCAL INFILE './Data/tags.csv'
-INTO TABLE tags
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Events loading 
-LOAD DATA LOCAL INFILE './Dataevents.csv'
-INTO TABLE events
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- Tickets loading 
-LOAD DATA LOCAL INFILE './Data/tickets.csv'
-INTO TABLE tickets
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
- -- Phase #2
-
--- simple select 
-select * from artist 
-where ID = 100;
+-- TESTING 
+select * from artist;
+select * from genra;
