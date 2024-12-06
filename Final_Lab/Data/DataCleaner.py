@@ -1,6 +1,6 @@
 import pandas as pd  
 from datetime import datetime 
-file_loc = file_loc = r'/home/notplacide/Documents/GitHub/DatabaseManagementClass/Final_Lab/Data/tickets.csv'
+file_loc = file_loc = r'/home/notplacide/Documents/GitHub/DatabaseManagementClass/Final_Lab/Data/poems.csv'
 
 
 
@@ -25,7 +25,9 @@ def cleanData(date):
 dataframe = pd.read_csv(file_loc)
 replacementStrin = 'date'
 # dataframe[replacementStrin] = dataframe[replacementStrin].apply(cleanData)
-dataframe.drop(columns='id', inplace=True)
+# dataframe['state'] = dataframe['state'].isnull()
+# dataframe['state'].fillna("Texas", inplace=True)
+dataframe['poem'] = dataframe['poem'].str.replace(',',"-")
 
 # Save the file
 dataframe.to_csv(file_loc, index=False)

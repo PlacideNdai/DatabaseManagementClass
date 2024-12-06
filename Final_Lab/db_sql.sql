@@ -1,10 +1,10 @@
 -- Phase #1
 -- Drop the database if it already exists
-DROP DATABASE IF EXISTS poemdbfinal;
+-- DROP DATABASE IF EXISTS poemdbfinal;
 
 -- Create the database
-CREATE DATABASE poemdbfinal;
-set global local_infile = 1;
+-- CREATE DATABASE poemdbfinal;
+-- set global local_infile = 1;
 
 -- Use the database
 USE poemdbfinal;
@@ -36,7 +36,7 @@ CREATE TABLE genra (
 -- Poems table (3)
 CREATE TABLE poems (
     ID INT AUTO_INCREMENT,
-    title VARCHAR(60),
+    title VARCHAR(250),
     genra_ID INT NOT NULL,
     poem TEXT,
     PRIMARY KEY (ID),
@@ -113,7 +113,23 @@ CREATE TABLE maneges (
     FOREIGN KEY (publisherID) REFERENCES publisher(ID)
 );
 
+-- selecting using where
+select * from artist where ID = 580;
 
--- TESTING 
-select * from artist;
-select * from genra;
+-- selecting using inner join where ID are the same in both tickets and aduence tables
+select * from audience 
+inner join tickets on audience.ID = tickets.ID;
+
+-- selecting using a subquery to get info from buys table where 
+-- audience id is less than the audience number 20
+select * from buys 
+where customerID < (
+select ID from audience where ID = 20
+);
+
+-- aggregate function and grouping 
+-- selecting all state and grouping by their counting or total 
+select state,count(*) from events
+group by state
+order by count(*) desc;
+
