@@ -58,6 +58,9 @@ CREATE TABLE audience (
 );
 
 
+
+
+
 -- Publisher table (5)
 CREATE TABLE publisher (
     ID INT AUTO_INCREMENT,
@@ -132,4 +135,13 @@ select ID from audience where ID = 20
 select state,count(*) from events
 group by state
 order by count(*) desc;
+
+-- adding a record to artist table 
+insert into artist (first_name, last_name, email, gender, birthday) 
+values ('Placide', 'Ndai', 'placidendai@gmail,com', 'male', '1834-10-10');
+
+-- deleting a record from managers table 
+delete from maneges where publisherID = 700;
+
+
 
