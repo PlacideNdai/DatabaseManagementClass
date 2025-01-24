@@ -3,7 +3,7 @@ import mysql.connector
 # Database connection details
 db_connection = {
     'user': 'root',
-    'password': 'Nopassword52!',
+    'password': 'passwordhere',
     'host': 'localhost',
     'database': 'poemdbfinal',
     'port': '3306'

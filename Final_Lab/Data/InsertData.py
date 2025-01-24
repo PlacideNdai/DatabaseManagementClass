@@ -12,7 +12,7 @@ def insertData(df, tb):
         conn = mysql.connector.connect(
             host='localhost', 
             user="root",
-            password='Nopassword52!',
+            password='mypassword',
             database='poemdbfinal'
         )
         
